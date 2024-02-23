@@ -1,0 +1,12 @@
+.tm-why-choose {
+    border-radius: 0 100px;
+    .wp-block-image {
+        & img {
+            width: auto;
+            height: 40px;
+            @include media-breakpoint-down(md) {
+                height: 64px;
+              }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+.tm-ic-calculator{
+    @media(max-width:767.98px){
+        position: relative;
+        .bg-calculator-3d{
+            position: absolute;
+            right: 5px;
+            top: 9px;      
+        }
+    }
+}

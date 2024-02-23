@@ -1,0 +1,11 @@
+.tm-weight{
+    &-medium{
+        font-weight: 500 !important;
+    }
+    &-semi-bold{
+        font-weight: 600 !important;
+    }
+    &-bold{
+        font-weight: 700 !important;
+    }
+}

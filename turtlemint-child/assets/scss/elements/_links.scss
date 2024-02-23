@@ -1,0 +1,72 @@
+.tm-link {
+  a {
+    color: var(--wp--preset--color--turtlemint-child-primary);
+    cursor: pointer;
+
+    &:hover {
+      color: var(--wp--preset--color--turtlemint-child-green);
+    }
+  }
+
+  &.underlined {
+    a {
+      font-weight: 400;
+      font-size: inherit;
+      color: var(--wp--preset--color--turtlemint-child-black) !important;
+      text-decoration: underline;
+      text-underline-offset: 0.1rem;
+      transition: color 0.2s ease;
+    }
+
+    &:hover {
+      a {
+        color: var(--wp--preset--color--turtlemint-child-primary) !important;
+      }
+    }
+  }
+
+  &.secondary {
+    &::before {
+      transition: color 0.2s ease;
+    }
+
+    a {
+      font-weight: 400;
+      font-size: var(--wp--preset--font-size--turtlemint-child-small);
+      color: var(--wp--preset--color--turtlemint-child-black) !important;
+      transition: color 0.2s ease;
+    }
+
+    &:hover {
+      &::before {
+        color: var(--wp--preset--color--turtlemint-child-primary);
+      }
+
+      a {
+        color: var(--wp--preset--color--turtlemint-child-primary) !important;
+      }
+    }
+  }
+
+  .icon-link {
+    display: grid;
+    gap: 8px;
+    align-items: center;
+    grid-template-columns: auto 24px;
+    text-decoration: none !important;
+    span{
+      color: var(--wp--preset--color--turtlemint-child-primary);
+    }
+    i{
+      transition: transform 0.2s ease;
+    }
+  }
+
+  &.shown{
+    .icon-link{
+      i{
+        transform: rotate(180deg);
+      }
+    }
+  }
+}

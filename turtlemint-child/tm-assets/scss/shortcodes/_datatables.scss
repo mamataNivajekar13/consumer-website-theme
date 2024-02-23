@@ -1,0 +1,100 @@
+.dataTables_wrapper {
+    .top {
+        .dataTables_info {
+            width: 100%;
+            padding: 15px 0;
+        }
+    }
+
+    .bottom {
+
+        .dataTables_filter,
+        .dataTables_length {
+            display: none;
+        }
+
+        .dataTables_paginate {
+            display: block;
+            margin-top: 15px;
+
+            .paginate_button {
+                width: 32px;
+                height: 32px;
+                border-radius: 50%;
+                background: var(--wp--preset--color--white);
+                padding: 4px;
+                color: var(--wp--preset--color--black);
+                border-color: var(--wp--preset--color--turtlemint-child-tm-gray-1);
+                margin-left: 8px;
+                font-weight: 400;
+
+                &.current {
+                    background: var(--wp--preset--color--white);
+                    border-color: #121617;
+
+                    &:hover {
+                        background: var(--wp--preset--color--white);
+                        border-color: #121617;
+                    }
+                }
+
+                &.previous {
+                    .bg-chevron-right {
+                        transform: rotate(90deg);
+                        position: relative;
+                        top: -2px;
+                    }
+                }
+
+                &.next {
+                    .bg-chevron-right {
+                        position: relative;
+                        top: -2px;
+                    }
+                }
+
+                &.disabled {
+                    background: var(--wp--preset--color--white);
+                    color: var(--wp--preset--color--black);
+                    border-color: var(--wp--preset--color--turtlemint-child-tm-gray-1);
+
+                    &:hover {
+                        background: var(--wp--preset--color--white);
+                        border-color: var(--wp--preset--color--turtlemint-child-tm-gray-1) !important;
+                        color: var(--wp--preset--color--turtlemint-child-tm-gray-1) !important;
+                    }
+                }
+
+                &:hover {
+                    background: var(--wp--preset--color--white);
+                    border-color: #121617;
+                    color: var(--wp--preset--color--black) !important;
+                }
+            }
+
+            .ellipsis {
+                display: inline-block;
+                width: 31px;
+                height: 31px;
+                border-radius: 50%;
+                background: var(--wp--preset--color--white);
+                padding: 0;
+                color: var(--wp--preset--color--black);
+                border: 1px solid var(--wp--preset--color--turtlemint-child-tm-gray-1);
+                text-align: center;
+                vertical-align: bottom;
+                margin-left: 8px;
+            }
+        }
+    }
+}
+
+.has-text-align-md-right {
+    @media (min-width: 782px) {
+        text-align: right !important;
+    }
+}
+
+.td-capitalize {
+    text-transform: capitalize;
+}

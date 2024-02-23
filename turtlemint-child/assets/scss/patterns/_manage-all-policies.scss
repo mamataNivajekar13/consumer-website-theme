@@ -1,0 +1,25 @@
+.tm-manage-all-policy {
+  .wp-block-columns {
+    justify-content: space-between !important;
+  }
+  @media (max-width: 768px) {
+    margin-top: 225px !important;
+  }
+}
+
+.align-policy-image {
+  margin-top: -157px !important;
+  height: 487px;
+  width: 243px;
+  margin: auto;
+  border-radius: 40px;
+  overflow: hidden;
+  video{
+    pointer-events: none;
+  }
+
+  @media (max-width: 768px) {
+    text-align: center;
+    margin-top: -170px !important;
+  }
+}

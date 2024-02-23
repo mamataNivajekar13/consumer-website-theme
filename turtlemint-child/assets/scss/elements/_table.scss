@@ -1,0 +1,137 @@
+table,
+.wp-block-table table,
+.entry-content table {
+  border-collapse: collapse;
+
+  thead,
+  tr,
+  td,
+  th {
+    border-width: 1px;
+    border-color: var(--wp--preset--color--turtlemint-child-gray);
+    border-style: solid;
+  }
+
+  thead {
+    tr {
+      th {
+        strong {
+          font-weight: 600;
+        }
+
+        &:nth-child(even) {
+          background-color: var(--wp--preset--color--turtlemint-child-gray);
+        }
+
+        &:nth-child(odd) {
+          background-color: var(--wp--preset--color--turtlemint-child-primary);
+        }
+      }
+    }
+  }
+
+  tr {
+
+    th,
+    td {
+      word-break: normal;
+      padding: 12px;
+    }
+  }
+
+  &.has-fixed-layout {
+    thead {
+      tr {
+        th {
+          width: 300px !important;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 767.98px) {
+    &.has-fixed-layout {
+      thead {
+        tr {
+          th {
+            width: 200px !important;
+          }
+        }
+      }
+    }
+  }
+}
+
+
+.table-striped {
+  border-bottom: 0 !important;
+
+  thead {
+    tr {
+      th {
+        border: 1px solid #e0e0e0;
+        border-bottom: 1px solid #e0e0e0 !important;
+        border-left: 0 !important;
+        color: var(--wp--preset--color--turtlemint-child-black);
+        font-weight: 600 !important;
+
+        &:nth-child(even) {
+          background-color: white !important;
+        }
+
+        &:nth-child(odd) {
+          background-color: white !important;
+        }
+
+        &:first-child {
+          border-top-left-radius: 8px;
+          border-left: 1px solid #e0e0e0 !important;
+        }
+
+        &:last-child {
+          border-top-right-radius: 8px;
+        }
+      }
+    }
+  }
+
+  tbody {
+    tr {
+      border: 0;
+
+      td {
+        background-color: white;
+        border: 0;
+        border-bottom: 0 !important;
+        border: 1px solid #e0e0e0;
+        border-left: 0 !important;
+        color: var(--wp--preset--color--turtlemint-child-tm-gray);
+
+        &:first-child {
+          border-left: 1px solid #e0e0e0 !important;
+          text-align: center;
+        }
+      }
+
+      &:nth-child(even) {
+        td {
+          background-color: #F5F5F5;
+        }
+      }
+
+      &:last-child {
+        td {
+          border-bottom: 1px solid #e0e0e0 !important;
+
+          &:first-child {
+            border-bottom-left-radius: 8px;
+          }
+
+          &:last-child {
+            border-bottom-right-radius: 8px;
+          }
+        }
+      }
+    }
+  }
+}

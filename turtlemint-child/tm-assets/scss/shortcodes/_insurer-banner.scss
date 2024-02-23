@@ -1,0 +1,140 @@
+.tm-ic-banner {
+  background-image: url(../images/ic-gradient-bg.webp);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: bottom center;
+  padding-bottom: 60px;
+  min-height: 434px;
+  overflow: hidden;
+
+  .banner-section {
+    gap: 33px 30px;
+  }
+
+  .insurer-logo {
+    margin-bottom: 12px;
+    object-fit: contain;
+    object-position: left center;
+  }
+
+  .insurer-title {
+    margin-bottom: 33px;
+  }
+
+  .insurer-quick-links {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 24px;
+    gap: 8px 0px;
+    color: var(--wp--preset--color--turtlemint-child-tm-gray) !important;
+    .tm-link a{
+      color: var(--wp--preset--color--turtlemint-child-tm-gray) !important;
+
+      &:hover{
+        color: var(--wp--preset--color--turtlemint-child-primary) !important;
+      }
+    }
+
+    p {
+      margin-bottom: 0px;
+
+      &:not(:last-child) {
+        margin-left: 3px;
+      }
+
+      &:first-child {
+        margin-left: 0px;
+      }
+    }
+
+    .comma {
+      margin-right: 5px;
+    }
+  }
+
+  .wp-block-columns {
+    align-items: center !important;
+  }
+
+  @media (max-width: 991.98px) {
+    .banner-section {
+      .wp-block-column {
+        &:first-child {
+          flex-basis: 50% !important;
+        }
+
+        &:nth-child(2) {
+          flex-basis: 50% !important;
+        }
+      }
+    }
+  }
+
+  @media (max-width: 781.98px) {
+    background-image: url(../images/ic-gradient-bg-mob.webp);
+    padding-bottom: 31px;
+    min-height: 692px;
+
+    .banner-section {
+      &:nth-child(2) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    }
+  }
+
+  @media (max-width: 767.98px) {
+    .banner-section {
+      .wp-block-column {
+        &:first-child {
+          flex-basis: 100% !important;
+        }
+
+        &:nth-child(2) {
+          flex-basis: 100% !important;
+          width: 100%;
+        }
+      }
+    }
+
+    .insurer-quick-links {
+      margin-bottom: 16px;
+      display: block;
+      line-height: 28px;
+    }
+
+    .insurer-logo {
+      width: 90px;
+      height: 56px;
+    }
+  }
+
+  &.tm-ic-nh-banner {
+    min-height: auto;
+    padding-bottom: 45px;
+    background-image: url(../images/nh-gradient-bg.webp);
+    position: relative;
+    z-index: 1;
+    overflow: visible;
+
+    .pt-12 {
+      padding-top: 12px;
+      overflow: visible;
+    }
+
+    .banner-section {
+      @media (max-width: 781.98px) {
+        margin-top: 0;
+        flex-direction: column-reverse;
+        gap: 0;
+      }
+    }
+
+    @media (max-width: 781.98px) {
+      padding: 15px 0 31px 0;
+    }
+  }
+}

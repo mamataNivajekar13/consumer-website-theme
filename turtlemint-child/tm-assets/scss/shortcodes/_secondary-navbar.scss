@@ -1,0 +1,189 @@
+.tm-secondary-nav {
+  position: sticky;
+  top: 76px;
+  z-index: 9999;
+  background-color: var(--wp--preset--color--turtlemint-child-white);
+
+  .nav-horizontal-scroll {
+    position: relative;
+    ul {
+      overflow: visible;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      align-content: center;
+      align-items: center;
+      overflow-x: scroll;
+      width: 100%;
+      gap: 10px;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      overflow-y: visible;
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+      -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      &::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+        background: transparent;
+      }
+
+      &::-webkit-scrollbar-horizontal {
+        display: none;
+        height: 0;
+      }
+
+      &::-webkit-scrollbar-track {
+        background: transparent;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        height: 0;
+        background: transparent;
+      }
+      li {
+        &.menu-item {
+          a {
+            position: relative;
+            display: block;
+            padding: 20px 6px;
+            text-align: center;
+            word-break: keep-all;
+            font-weight: 500;
+            cursor: pointer;
+            white-space: nowrap;
+            color: var(--wp--preset--color--turtlemint-child-black);
+            &:after {
+              content: "";
+              height: 3.6px;
+              width: 100%;
+              border-radius: 20px;
+              background-color: transparent;
+              display: block;
+              position: absolute;
+              bottom: 0px;
+              left: 0px;
+              transition: background-color 0.3s ease;
+            }
+            &:hover,
+            &:active {
+              color: var(--wp--preset--color--turtlemint-child-primary);
+              font-weight: 500;
+            }
+          }
+        }
+        &.nav-active {
+          a {
+            color: var(--wp--preset--color--turtlemint-child-primary);
+            font-weight: 600;
+            &:after {
+              background-color: var(
+                --wp--preset--color--turtlemint-child-primary
+              );
+            }
+            &:hover {
+              font-weight: 600;
+            }
+          }
+        }
+      }
+    }
+    .dropdown {
+      .icon {
+        margin-left: 5px;
+        &:before {
+          height: 10px;
+          width: 12px;
+          background-size: calc(100% + 10px);
+          background-position-y: -141px;
+          background-position-x: -5px;
+          transition: transform 0.2s ease;
+        }
+      }
+      &.expanded {
+        .icon {
+          &:before {
+            transform: rotate(180deg);
+          }
+        }
+      }
+    }
+    .dropdown-expand {
+      position: absolute;
+      top: 64px;
+      right: 0;
+      width: 280px;
+      max-width: 280px;
+      display: none;
+      &.nav-show {
+        display: block;
+      }
+      ul {
+        display: flex;
+        flex-direction: column;
+        border-radius: 8px;
+        background: var(--wp--preset--color--turtlemint-child-white);
+        box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.14);
+        padding: 8px 0px;
+        gap: 0px;
+        li {
+          width: 100%;
+          a {
+            width: calc(100% - 28px);
+            padding: 12px 14px;
+            text-align: left;
+            &:after {
+              display: none;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &-seperator {
+    height: 2px;
+    width: 100%;
+    background-color: var(--wp--preset--color--turtlemint-child-tm-gray-1);
+    display: block;
+    margin-top: -2.8px !important;
+  }
+  @media (max-width: 767.98px) {
+    top: 80px;
+    .nav-horizontal-scroll {
+      margin-left: -20px;
+      margin-right: -20px;
+      padding-left: 20px;
+      padding-right: 20px;
+      .dropdown-expand {
+        max-width: 70%;
+        top: 41px;
+        right: 20px;
+        ul {
+          .menu-item {
+            a {
+              padding: 10px 14px;
+            }
+          }
+        }
+      }
+      ul {
+        gap: 22px;
+        li.menu-item {
+          a {
+            max-width: 100% !important;
+            width: 100%;
+            padding: 10px 0px;
+          }
+        }
+      }
+    }
+  }
+}

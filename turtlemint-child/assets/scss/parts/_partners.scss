@@ -1,0 +1,63 @@
+.tm-partners{
+    margin-top: 0px !important;
+    .tm-button{
+        margin: auto;
+        margin-top: 0px;
+    }
+    // old UI - Start
+    &__wraper{
+        display: grid;
+        gap: 20px;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        justify-items: center;
+        .partner{
+            height: 150px;
+            width: 150px;
+            display: none;
+            &:nth-child(-n+5){
+                display: block;
+            }
+            img{
+                height: 100%;
+                width: 100%;
+                object-fit: contain;
+            }
+        }
+    }
+    @media(max-width:870.99px){
+        &__wraper{
+            grid-template-columns: 1fr 1fr;
+            .partner{
+                &:nth-child(5){
+                    display: none;
+                }
+            }
+        }
+    }
+    // old UI - End
+    .tm-insurance-companies-list {
+        display: grid;
+        grid-template-columns: repeat(5, 181px);
+        justify-content: center;
+        text-align: center;
+        &.column-4-list{
+            grid-template-columns: repeat(4, 181px);
+        }
+        @include media-breakpoint-down(xl){
+            grid-template-columns: repeat(5, 1fr);
+            &.column-4-list{
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+        @include media-breakpoint-down(md){
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            &.column-4-list{
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    }
+    .cta-links{
+        text-align: center;
+    }
+}

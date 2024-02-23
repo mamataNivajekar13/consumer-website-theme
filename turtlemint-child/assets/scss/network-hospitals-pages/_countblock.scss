@@ -1,0 +1,21 @@
+.count-wrapper {
+    background-color: var(--wp--preset--color--white);
+    border-radius: 16px;
+    padding: 6px 16px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    color: #121617;
+    border: 1px solid #E0E0E0;
+    display: inline-block;
+
+    @media (max-width: 781px) {
+        margin-bottom: 16px;
+    }
+}
+
+.has-text-align-md-right {
+    @media (min-width: 782px) {
+        text-align: right !important;
+    }
+}

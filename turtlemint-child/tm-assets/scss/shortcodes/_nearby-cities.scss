@@ -1,0 +1,27 @@
+.nearby_section {
+    border-radius: 8px;
+
+    &--item {
+        padding: 0 14px;
+
+        a {
+            color: #4d5556;
+            display: grid;
+            grid-template-columns: 1fr auto;
+            justify-content: space-between;
+            align-items: center;
+            grid-gap: 20px;
+            padding: 14px 0;
+            border-bottom: 1px solid var(--wp--preset--color--turtlemint-child-tm-gray-1);
+            font-weight: 400;
+            cursor: pointer;
+        }
+
+        &:last-child {
+            a {
+                border-bottom: 0;
+            }
+        }
+    }
+
+}

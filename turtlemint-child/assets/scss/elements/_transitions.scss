@@ -1,0 +1,37 @@
+.button-pulse{
+    animation: buttonPulse linear 0.8s 2 forwards;
+
+    @include media-breakpoint-down(md){
+        .button-pulse{
+            animation-name: buttonPulseMobile;
+        }
+    }
+}
+
+@keyframes buttonPulse {
+	0% {
+		transform: scale(1);
+	}
+
+	50% {
+        transform: scale(1.1073);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
+
+@keyframes buttonPulseMobile {
+	0% {
+		transform: scale(1);
+	}
+
+	50% {
+		transform: scale(1.113);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}

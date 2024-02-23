@@ -1,0 +1,139 @@
+.tm-section-hero-banner {
+    figure {
+        margin-top: 0px;
+        position: relative;
+
+        figcaption {
+            &.wp-element-caption {
+                background: var(--wp--preset--color--turtlemint-child-white);
+                border: 1px solid var(--wp--preset--color--turtlemint-child-gray);
+                border-radius: 60px;
+                padding: 15px 40px;
+                position: absolute;
+                bottom: 15.2%;
+                left: -2%;
+                text-align: left;
+            }
+        }
+    }
+
+    @media (min-width: 768px) {
+        min-height: 686px;
+
+        .banner-image {
+            text-align: right;
+            min-height: 566px;
+            max-height: 566px;
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+        }
+    }
+
+    @media (min-width: 992px) {
+
+        .get-a-quote-ctas,
+        form,
+        .select-life-insurance-type {
+            max-width: 83%;
+        }
+    }
+
+    @media (max-width: 991.98px) {
+        figure {
+            figcaption {
+                &.wp-element-caption {
+                    left: 0;
+                }
+            }
+        }
+    }
+
+    @media (max-width: 767.98px) {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+
+        .get-a-quote-ctas,
+        form,
+        .select-life-insurance-type {
+            max-width: 80%;
+        }
+
+        .wp-block-cover {
+            &__image-background {
+                content: url(../images/bg-home-mob.webp) !important;
+            }
+
+            &__inner-container {
+                &>.wp-block-group {
+                    &>.wp-block-columns {
+                        flex-direction: column;
+                    }
+                }
+            }
+        }
+
+        h1 {
+            margin-bottom: 25px !important;
+            max-width: 80% !important;
+        }
+
+        .banner-image {
+            min-height: 258px;
+            max-height: 258px;
+            width: 100%;
+
+            figcaption {
+                &.wp-element-caption {
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    width: calc(100% - 70px);
+                    padding: 5px 30px;
+                    left: 5px;
+                    bottom: -10%;
+                    background-color: var(--wp--custom--tm-transparent-white);
+                    backdrop-filter: blur(2px);
+                }
+            }
+        }
+    }
+
+    @media (max-width: 575.98px) {
+        padding-top: 30px !important;
+        padding-bottom: 30px !important;
+
+        .get-a-quote-ctas,
+        form,
+        .select-life-insurance-type {
+            max-width: 100%;
+        }
+
+        .select-life-insurance-type {
+            margin-bottom: 20px !important;
+            gap: 5px;
+        }
+
+        .tm-list {
+            margin-bottom: 25px !important;
+        }
+
+        .wp-block-cover {
+            &__image-background {
+                content: url(../images/bg-home-mob.webp) !important;
+            }
+
+            &__inner-container {
+                &>.wp-block-group {
+                    &>.wp-block-columns {
+                        flex-direction: column;
+                    }
+                }
+            }
+        }
+
+        h1 {
+            margin-bottom: 25px !important;
+            max-width: 80% !important;
+        }
+    }
+}

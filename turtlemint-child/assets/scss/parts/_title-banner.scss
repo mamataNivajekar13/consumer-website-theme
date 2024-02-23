@@ -1,0 +1,106 @@
+.tm-section-title-banner {
+    position: relative;
+
+    .tm-button {
+        margin-top: 30px;
+
+        a {
+            min-width: 200px;
+        }
+    }
+
+    .wp-block-columns{
+        .wp-block-column{
+            z-index: 1;
+        }
+    }
+
+    .taxonomy-banner-image {
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+        height: 100%;
+        width: calc(100% - 20px);
+        object-fit: contain;
+        object-position: top right;
+        z-index: -1;
+    }
+
+    .wp-block-term-description {
+        margin-top: 20px;
+        margin-bottom: 0px;
+        p {
+            margin-top: 0px;
+
+            &:last-child {
+                margin-bottom: 0px;
+            }
+        }
+    }
+
+    .wp-block-cover__image-background{
+        object-fit:contain;
+    }
+
+    @media(max-width:767.98px) {
+        text-align: center;
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        margin-bottom: 24px !important;
+
+        .wp-block-cover__image-background{
+            object-fit:contain;
+            width: 85%;
+            margin-left: auto;
+        }
+
+        .tm-button {
+            margin-left: auto !important;
+        }
+        .taxonomy-banner-image{
+            z-index: -1;
+        }
+        .wp-block-columns {
+            .wp-block-column {
+                flex-basis: 50% !important;
+                padding-top: 0px !important;
+                padding-bottom: 0px !important;
+
+                &:first-child {
+                    text-align: left;
+                }
+            }
+        }
+        .wp-block-cover{
+            .wp-block-columns {
+                .wp-block-column {
+    
+                    &:first-child {
+                        padding-top: 30px !important;
+                        padding-bottom: 30px !important;
+                    }
+                }
+            }
+        }
+        & > .wp-block-group{
+            padding-top: 45px !important;
+            padding-bottom: 45px !important;
+        }
+    }
+}
+
+.tm-style-1{
+    .tm-section-title-banner{
+        &>.wp-block-group{
+            padding-top: 0px !important;
+            padding-bottom: 40px !important;
+        }
+    }
+    &.single-post{
+        .tm-section-title-banner{
+            &>.wp-block-group{
+                padding-bottom: 0px !important;
+            }
+        }
+    }
+}

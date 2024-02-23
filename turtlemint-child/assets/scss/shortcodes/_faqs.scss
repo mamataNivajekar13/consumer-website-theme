@@ -1,0 +1,27 @@
+body:not(.tm-style-1){
+    .tm-section-faq{
+        padding: 50px;
+        box-shadow: var(--wp--custom--tm-shadow-3);
+        &__wraper{
+            &:not(:first-child){
+                margin-top: 60px;
+            }
+            .faq-group-title{
+                background-color: var(--wp--preset--color--turtlemint-child-cultured);
+                padding: 8px;
+                text-align: center;
+            }
+        }
+        @include media-breakpoint-down(md){
+            padding: 20px;
+            &__wraper{
+                &:not(:first-child){
+                    margin-top: 40px;
+                }
+                .faq-group-title{
+                    margin-bottom: 20px !important;
+                }
+            }
+        }
+    }
+}

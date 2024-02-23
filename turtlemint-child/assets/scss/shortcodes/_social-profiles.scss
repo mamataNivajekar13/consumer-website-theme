@@ -1,0 +1,15 @@
+.tm-social-profiles {
+    list-style-type: none;
+    display: flex;
+    padding-left: 0px;
+    gap: 15px;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    padding-left: 0px !important;
+    li{
+        display: flex;
+        a{
+            display: flex;
+        }
+    }
+}

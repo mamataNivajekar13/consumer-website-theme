@@ -1,0 +1,5992 @@
+[
+  {
+    "city": "anantapur",
+    "nearby_cities": [
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad",
+      "kadapa"
+    ]
+  },
+  {
+    "city": "chittoor",
+    "nearby_cities": [
+      "anantapur",
+      "east godavari",
+      "guntur",
+      "hyderabad",
+      "kadapa"
+    ]
+  },
+  {
+    "city": "east godavari",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "guntur",
+      "hyderabad",
+      "kadapa"
+    ]
+  },
+  {
+    "city": "guntur",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "hyderabad",
+      "kadapa"
+    ]
+  },
+  {
+    "city": "hyderabad",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "kadapa"
+    ]
+  },
+  {
+    "city": "kadapa",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "kakinada",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "khammam",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "krishna",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "kurnool",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "nalgonda",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "nellore",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "ongole",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "prakasam",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "proddattur",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "rajahmundry",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "srikakulam",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "tirupati",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "vijayawada",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "vishakapatnam",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "vizianagaram",
+    "nearby_cities": [
+      "anantapur",
+      "chittoor",
+      "east godavari",
+      "guntur",
+      "hyderabad"
+    ]
+  },
+  {
+    "city": "papum pare",
+    "nearby_cities": [
+      "dimapur",
+      "kohima",
+      "barpeta",
+      "bongaigaon",
+      "cachar"
+    ]
+  },
+  {
+    "city": "barpeta",
+    "nearby_cities": [
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh",
+      "golaghat"
+    ]
+  },
+  {
+    "city": "bongaigaon",
+    "nearby_cities": [
+      "barpeta",
+      "cachar",
+      "darrang",
+      "dibrugarh",
+      "golaghat"
+    ]
+  },
+  {
+    "city": "cachar",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "darrang",
+      "dibrugarh",
+      "golaghat"
+    ]
+  },
+  {
+    "city": "darrang",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "dibrugarh",
+      "golaghat"
+    ]
+  },
+  {
+    "city": "dibrugarh",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "golaghat"
+    ]
+  },
+  {
+    "city": "golaghat",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "guwahati",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "jorhat",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "kamrup metropolitian",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "kamrup rural",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "kokrajhar",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "nagaon",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "sibsagar",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "silchar",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "sonitpur",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "tinsukia",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "araria",
+    "nearby_cities": [
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur",
+      "bhojpur"
+    ]
+  },
+  {
+    "city": "banka",
+    "nearby_cities": [
+      "araria",
+      "begusarai",
+      "bhabua",
+      "bhagalpur",
+      "bhojpur"
+    ]
+  },
+  {
+    "city": "begusarai",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "bhabua",
+      "bhagalpur",
+      "bhojpur"
+    ]
+  },
+  {
+    "city": "bhabua",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhagalpur",
+      "bhojpur"
+    ]
+  },
+  {
+    "city": "bhagalpur",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhojpur"
+    ]
+  },
+  {
+    "city": "bhojpur",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "buxar",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "chapra",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "darbhanga",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "gaya",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "gopal ganj",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "hajipur",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "jahanabad",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "katihar",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "kishanganj",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "madhepura",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "motihari",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "munger",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "muzaffarpur",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "nalanda",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "patna",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "purnia",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "rohtas",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "samastipur",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "saran",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "siwan",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "supaul",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "tirhut",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "vaishali",
+    "nearby_cities": [
+      "araria",
+      "banka",
+      "begusarai",
+      "bhabua",
+      "bhagalpur"
+    ]
+  },
+  {
+    "city": "chandigarh",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kangra",
+      "kullu",
+      "mandi"
+    ]
+  },
+  {
+    "city": "ambikapur",
+    "nearby_cities": [
+      "surguja",
+      "koriya",
+      "korba",
+      "raigarh",
+      "bilaspur"
+    ]
+  },
+  {
+    "city": "balod",
+    "nearby_cities": [
+      "durg",
+      "bhilai",
+      "raipur",
+      "bilaspur",
+      "jagdalpur"
+    ]
+  },
+  {
+    "city": "bhilai",
+    "nearby_cities": [
+      "durg",
+      "raipur",
+      "balod",
+      "bilaspur",
+      "korba"
+    ]
+  },
+  {
+    "city": "bilaspur",
+    "nearby_cities": [
+      "korba",
+      "raipur",
+      "bhilai",
+      "raigarh",
+      "durg"
+    ]
+  },
+  {
+    "city": "durg",
+    "nearby_cities": [
+      "bhilai",
+      "raipur",
+      "balod",
+      "bilaspur",
+      "korba"
+    ]
+  },
+  {
+    "city": "jagdalpur",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "korba",
+    "nearby_cities": [
+      "bilaspur",
+      "surguja",
+      "raigarh",
+      "ambikapur",
+      "koriya"
+    ]
+  },
+  {
+    "city": "koriya",
+    "nearby_cities": [
+      "ambikapur",
+      "surguja",
+      "korba",
+      "bilaspur",
+      "raigarh"
+    ]
+  },
+  {
+    "city": "raigarh",
+    "nearby_cities": [
+      "korba",
+      "surguja",
+      "bilaspur",
+      "ambikapur",
+      "koriya"
+    ]
+  },
+  {
+    "city": "raipur",
+    "nearby_cities": [
+      "bhilai",
+      "durg",
+      "balod",
+      "bilaspur",
+      "korba"
+    ]
+  },
+  {
+    "city": "surguja",
+    "nearby_cities": [
+      "ambikapur",
+      "korba",
+      "koriya",
+      "raigarh",
+      "bilaspur"
+    ]
+  },
+  {
+    "city": "dadra & nagar haveli",
+    "nearby_cities": [
+      "silvassa",
+      "daman",
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli"
+    ]
+  },
+  {
+    "city": "silvassa",
+    "nearby_cities": [
+      "dadra & nagar haveli",
+      "daman",
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli"
+    ]
+  },
+  {
+    "city": "daman",
+    "nearby_cities": [
+      "silvassa",
+      "dadra & nagar haveli",
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli"
+    ]
+  },
+  {
+    "city": "delhi",
+    "nearby_cities": [
+      "kirti nagar",
+      "okhla",
+      "sant nagar",
+      "ambala",
+      "badshahpur"
+    ]
+  },
+  {
+    "city": "kirti nagar",
+    "nearby_cities": [
+      "delhi",
+      "okhla",
+      "sant nagar",
+      "ambala",
+      "badshahpur"
+    ]
+  },
+  {
+    "city": "okhla",
+    "nearby_cities": [
+      "delhi",
+      "kirti nagar",
+      "sant nagar",
+      "ambala",
+      "badshahpur"
+    ]
+  },
+  {
+    "city": "sant nagar",
+    "nearby_cities": [
+      "delhi",
+      "kirti nagar",
+      "okhla",
+      "ambala",
+      "badshahpur"
+    ]
+  },
+  {
+    "city": "mapusa",
+    "nearby_cities": [
+      "margao",
+      "north goa",
+      "panaji",
+      "ponda",
+      "south goa"
+    ]
+  },
+  {
+    "city": "margao",
+    "nearby_cities": [
+      "mapusa",
+      "north goa",
+      "panaji",
+      "ponda",
+      "south goa"
+    ]
+  },
+  {
+    "city": "north goa",
+    "nearby_cities": [
+      "mapusa",
+      "margao",
+      "panaji",
+      "ponda",
+      "south goa"
+    ]
+  },
+  {
+    "city": "panaji",
+    "nearby_cities": [
+      "mapusa",
+      "margao",
+      "north goa",
+      "ponda",
+      "south goa"
+    ]
+  },
+  {
+    "city": "ponda",
+    "nearby_cities": [
+      "mapusa",
+      "margao",
+      "north goa",
+      "panaji",
+      "south goa"
+    ]
+  },
+  {
+    "city": "south goa",
+    "nearby_cities": [
+      "mapusa",
+      "margao",
+      "north goa",
+      "panaji",
+      "ponda"
+    ]
+  },
+  {
+    "city": "adalaj ahmedabad",
+    "nearby_cities": [
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar",
+      "ankleshwar"
+    ]
+  },
+  {
+    "city": "ahmedabad",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "amreli",
+      "anand",
+      "anjar",
+      "ankleshwar"
+    ]
+  },
+  {
+    "city": "amreli",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "anand",
+      "anjar",
+      "ankleshwar"
+    ]
+  },
+  {
+    "city": "anand",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anjar",
+      "ankleshwar"
+    ]
+  },
+  {
+    "city": "anjar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "ankleshwar"
+    ]
+  },
+  {
+    "city": "ankleshwar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "banaskantha",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "bardoli",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "baroda",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "bhadaj",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "bharuch",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "bhavnagar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "bhuj",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "borsad",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "dahod",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "deesa",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "dhoraji",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "dwarka",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "gandhidham",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "gandhinagar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "godhra",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "himatnagar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "idar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "jamnagar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "jetpur",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "junagadh",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "kachchh",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "kadi",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "kalol",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "kapadwanj",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "kutch",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "mehsana",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "modasa",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "morbi",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "morvi",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "nadiad",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "navsari",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "palanpur",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "panch mahals",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "patan",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "rajkot",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "sabarkantha",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "sanand",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "savar kundla",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "sidhpur",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "silvasa",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "surat",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "surendranagar",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "vadali",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "vadodara",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "valsad",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "vapi",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "vyara",
+    "nearby_cities": [
+      "adalaj ahmedabad",
+      "ahmedabad",
+      "amreli",
+      "anand",
+      "anjar"
+    ]
+  },
+  {
+    "city": "ambala",
+    "nearby_cities": [
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri",
+      "faridabad"
+    ]
+  },
+  {
+    "city": "badshahpur",
+    "nearby_cities": [
+      "ambala",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri",
+      "faridabad"
+    ]
+  },
+  {
+    "city": "bahadurgarh",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bhiwani",
+      "charkhi dadri",
+      "faridabad"
+    ]
+  },
+  {
+    "city": "bhiwani",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "charkhi dadri",
+      "faridabad"
+    ]
+  },
+  {
+    "city": "charkhi dadri",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "faridabad"
+    ]
+  },
+  {
+    "city": "faridabad",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "fatehabad",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "gurgaon",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "hisar",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "jhajjar",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "jind",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "kaithal",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "karnal",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "kurukshetra",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "mahendragarh",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "mewat",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "palwal",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "panchkula",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "panipat",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "rewari",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "rohtak",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "sirsa",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "sonipat",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "yamuna nagar",
+    "nearby_cities": [
+      "ambala",
+      "badshahpur",
+      "bahadurgarh",
+      "bhiwani",
+      "charkhi dadri"
+    ]
+  },
+  {
+    "city": "chamba",
+    "nearby_cities": [
+      "hamirpur",
+      "kangra",
+      "kullu",
+      "mandi",
+      "shimla"
+    ]
+  },
+  {
+    "city": "hamirpur",
+    "nearby_cities": [
+      "chamba",
+      "kangra",
+      "kullu",
+      "mandi",
+      "shimla"
+    ]
+  },
+  {
+    "city": "kangra",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kullu",
+      "mandi",
+      "shimla"
+    ]
+  },
+  {
+    "city": "kullu",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kangra",
+      "mandi",
+      "shimla"
+    ]
+  },
+  {
+    "city": "mandi",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kangra",
+      "kullu",
+      "shimla"
+    ]
+  },
+  {
+    "city": "shimla",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kangra",
+      "kullu",
+      "mandi"
+    ]
+  },
+  {
+    "city": "sirmaur",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kangra",
+      "kullu",
+      "mandi"
+    ]
+  },
+  {
+    "city": "solan",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kangra",
+      "kullu",
+      "mandi"
+    ]
+  },
+  {
+    "city": "una",
+    "nearby_cities": [
+      "chamba",
+      "hamirpur",
+      "kangra",
+      "kullu",
+      "mandi"
+    ]
+  },
+  {
+    "city": "anantnag",
+    "nearby_cities": [
+      "baramulla",
+      "budgam",
+      "jammu",
+      "kathua",
+      "kulgam"
+    ]
+  },
+  {
+    "city": "baramulla",
+    "nearby_cities": [
+      "anantnag",
+      "budgam",
+      "jammu",
+      "kathua",
+      "kulgam"
+    ]
+  },
+  {
+    "city": "budgam",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "jammu",
+      "kathua",
+      "kulgam"
+    ]
+  },
+  {
+    "city": "jammu",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "budgam",
+      "kathua",
+      "kulgam"
+    ]
+  },
+  {
+    "city": "kathua",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "budgam",
+      "jammu",
+      "kulgam"
+    ]
+  },
+  {
+    "city": "kulgam",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "budgam",
+      "jammu",
+      "kathua"
+    ]
+  },
+  {
+    "city": "pulwama",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "budgam",
+      "jammu",
+      "kathua"
+    ]
+  },
+  {
+    "city": "samba",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "budgam",
+      "jammu",
+      "kathua"
+    ]
+  },
+  {
+    "city": "srinagar",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "budgam",
+      "jammu",
+      "kathua"
+    ]
+  },
+  {
+    "city": "udhampur",
+    "nearby_cities": [
+      "anantnag",
+      "baramulla",
+      "budgam",
+      "jammu",
+      "kathua"
+    ]
+  },
+  {
+    "city": "bokaro",
+    "nearby_cities": [
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum",
+      "garhwa"
+    ]
+  },
+  {
+    "city": "deoghar",
+    "nearby_cities": [
+      "bokaro",
+      "dhanbad",
+      "dumka",
+      "east singhbhum",
+      "garhwa"
+    ]
+  },
+  {
+    "city": "dhanbad",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dumka",
+      "east singhbhum",
+      "garhwa"
+    ]
+  },
+  {
+    "city": "dumka",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "east singhbhum",
+      "garhwa"
+    ]
+  },
+  {
+    "city": "east singhbhum",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "garhwa"
+    ]
+  },
+  {
+    "city": "garhwa",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "gumla",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "hazaribagh",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "jamshedpur",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "koderma",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "palamu",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "ramgarh",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "ranchi",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "seraikela kharsawan",
+    "nearby_cities": [
+      "bokaro",
+      "deoghar",
+      "dhanbad",
+      "dumka",
+      "east singhbhum"
+    ]
+  },
+  {
+    "city": "bagalkote",
+    "nearby_cities": [
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary",
+      "bengaluru"
+    ]
+  },
+  {
+    "city": "ballari",
+    "nearby_cities": [
+      "bagalkote",
+      "belagavi",
+      "belgaum",
+      "bellary",
+      "bengaluru"
+    ]
+  },
+  {
+    "city": "belagavi",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belgaum",
+      "bellary",
+      "bengaluru"
+    ]
+  },
+  {
+    "city": "belgaum",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "bellary",
+      "bengaluru"
+    ]
+  },
+  {
+    "city": "bellary",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bengaluru"
+    ]
+  },
+  {
+    "city": "bengaluru",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "bidar",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "bijapur",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "chikkamagaluru",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "chitradurga",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "davanagere",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "dharwad",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "gadag",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "gulbarga",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "hassan",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "hospet",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "hubli",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "kodagu",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "kolar",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "koppal",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "mandya",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "mangalore",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "mysore",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "raichur",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "shimoga",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "tumkur",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "udupi",
+    "nearby_cities": [
+      "bagalkote",
+      "ballari",
+      "belagavi",
+      "belgaum",
+      "bellary"
+    ]
+  },
+  {
+    "city": "alappuzha",
+    "nearby_cities": [
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam",
+      "idukki"
+    ]
+  },
+  {
+    "city": "alleppey",
+    "nearby_cities": [
+      "alappuzha",
+      "calicut",
+      "cochin",
+      "ernakulam",
+      "idukki"
+    ]
+  },
+  {
+    "city": "calicut",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "cochin",
+      "ernakulam",
+      "idukki"
+    ]
+  },
+  {
+    "city": "cochin",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "ernakulam",
+      "idukki"
+    ]
+  },
+  {
+    "city": "ernakulam",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "idukki"
+    ]
+  },
+  {
+    "city": "idukki",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "kannur",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "kasaragod",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "kochi",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "kollam",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "kottayam",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "kozhikode",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "kunnamkulam",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "malappuram",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "palakkad",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "pathanamthitta",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "thiruvalla",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "thiruvananthapuram",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "thrissur",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "trissur",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "trivandrum",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "wayanad",
+    "nearby_cities": [
+      "alappuzha",
+      "alleppey",
+      "calicut",
+      "cochin",
+      "ernakulam"
+    ]
+  },
+  {
+    "city": "badnawar",
+    "nearby_cities": [
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind",
+      "bhopal"
+    ]
+  },
+  {
+    "city": "balaghat",
+    "nearby_cities": [
+      "badnawar",
+      "barwani",
+      "betul",
+      "bhind",
+      "bhopal"
+    ]
+  },
+  {
+    "city": "barwani",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "betul",
+      "bhind",
+      "bhopal"
+    ]
+  },
+  {
+    "city": "betul",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "bhind",
+      "bhopal"
+    ]
+  },
+  {
+    "city": "bhind",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhopal"
+    ]
+  },
+  {
+    "city": "bhopal",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "chhatarpur",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "chhindwara",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "chindwara",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "damoh",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "dewas",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "dhar",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "gadarwara",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "guna",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "gwalior",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "harda",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "hoshangabad",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "indore",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "jabalpur",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "jhabua",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "katni",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "khandwa",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "khargone",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "lakhnadon",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "malwa",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "mandsaur",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "mhow",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "morena",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "nalkheda",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "narsinghpur",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "neemuch",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "raisen",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "rajgarh",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "ratlam",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "rewa",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "sagar",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "sanawad",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "satna",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "sehore",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "shahdol",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "shajapur",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "sheopur",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "shivpuri",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "sidhi",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "tikamgarh",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "ujjain",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "umaria",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "vidisha",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "waidhan",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "west nimar",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "alibaug",
+    "nearby_cities": [
+      "badnawar",
+      "balaghat",
+      "barwani",
+      "betul",
+      "bhind"
+    ]
+  },
+  {
+    "city": "ahmednagar",
+    "nearby_cities": [
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad",
+      "badlapur"
+    ]
+  },
+  {
+    "city": "airoli",
+    "nearby_cities": [
+      "ahmednagar",
+      "akola",
+      "amravati",
+      "aurangabad",
+      "badlapur"
+    ]
+  },
+  {
+    "city": "akola",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "amravati",
+      "aurangabad",
+      "badlapur"
+    ]
+  },
+  {
+    "city": "amravati",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "aurangabad",
+      "badlapur"
+    ]
+  },
+  {
+    "city": "aurangabad",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "badlapur"
+    ]
+  },
+  {
+    "city": "badlapur",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "baramati",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "beed",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "buldana",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "buldhana",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "chandrapur",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "chinchwad",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "dhule",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "dombivali",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "dombivli",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "hingoli",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "ichalkaranji",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "jalgaon",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "jalna",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "kalyan",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "kankavli",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "karad",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "karjat",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "kolhapur",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "kurla",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "latur",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "malegaon",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "mangaon",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "mumbai",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "kalyan",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "malad",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "vashi",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "mumbai",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "nagpur",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "nanded",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "nashik",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "navi mumbai",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "osmanabad",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "palghar",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "panvel",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "parbhani",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "pune",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "rahatni",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "raigad",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "ratnagiri",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "sangamner",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "sangli",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "sant ravidas nagar",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "saoner",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "satara",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "sindhudurg",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "solapur",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "thane",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "udgir",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "ulhasnagar",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "vasai",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "wadkkhal",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "wardha",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "yavatmal",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "dohad",
+    "nearby_cities": [
+      "ahmednagar",
+      "airoli",
+      "akola",
+      "amravati",
+      "aurangabad"
+    ]
+  },
+  {
+    "city": "imphal east",
+    "nearby_cities": [
+      "imphal west",
+      "thoubal",
+      "dimapur",
+      "kohima",
+      "aizawl"
+    ]
+  },
+  {
+    "city": "imphal west",
+    "nearby_cities": [
+      "imphal east",
+      "thoubal",
+      "dimapur",
+      "kohima",
+      "aizawl"
+    ]
+  },
+  {
+    "city": "thoubal",
+    "nearby_cities": [
+      "imphal east",
+      "imphal west",
+      "dimapur",
+      "kohima",
+      "aizawl"
+    ]
+  },
+  {
+    "city": "shilong",
+    "nearby_cities": [
+      "barpeta",
+      "bongaigaon",
+      "cachar",
+      "darrang",
+      "dibrugarh"
+    ]
+  },
+  {
+    "city": "aizawl",
+    "nearby_cities": [
+      "imphal east",
+      "imphal west",
+      "thoubal",
+      "shilong",
+      "dimapur"
+    ]
+  },
+  {
+    "city": "dimapur",
+    "nearby_cities": [
+      "kohima",
+      "imphal east",
+      "imphal west",
+      "thoubal",
+      "papum pare"
+    ]
+  },
+  {
+    "city": "kohima",
+    "nearby_cities": [
+      "dimapur",
+      "imphal east",
+      "imphal west",
+      "thoubal",
+      "papum pare"
+    ]
+  },
+  {
+    "city": "angul",
+    "nearby_cities": [
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur",
+      "bhubaneshwar"
+    ]
+  },
+  {
+    "city": "balasore",
+    "nearby_cities": [
+      "angul",
+      "baleswar",
+      "bargarh",
+      "berhampur",
+      "bhubaneshwar"
+    ]
+  },
+  {
+    "city": "baleswar",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "bargarh",
+      "berhampur",
+      "bhubaneshwar"
+    ]
+  },
+  {
+    "city": "bargarh",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "berhampur",
+      "bhubaneshwar"
+    ]
+  },
+  {
+    "city": "berhampur",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "bhubaneshwar"
+    ]
+  },
+  {
+    "city": "bhubaneshwar",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "bhubaneswar",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "bolangir",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "cuttack",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "dhenkanal",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "ganjam",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "jagatsinghpur",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "jajapur",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "jharsuguda",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "kendrapara",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "kendujhar",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "khurdha",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "koraput",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "mayurbhanj",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "puri",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "rourkela",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "sambalpur",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "sundargarh",
+    "nearby_cities": [
+      "angul",
+      "balasore",
+      "baleswar",
+      "bargarh",
+      "berhampur"
+    ]
+  },
+  {
+    "city": "pondicherry",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "amritsar",
+    "nearby_cities": [
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda",
+      "bhatinda"
+    ]
+  },
+  {
+    "city": "anandpur sahib",
+    "nearby_cities": [
+      "amritsar",
+      "barnala",
+      "batala",
+      "bathinda",
+      "bhatinda"
+    ]
+  },
+  {
+    "city": "barnala",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "batala",
+      "bathinda",
+      "bhatinda"
+    ]
+  },
+  {
+    "city": "batala",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "bathinda",
+      "bhatinda"
+    ]
+  },
+  {
+    "city": "bathinda",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bhatinda"
+    ]
+  },
+  {
+    "city": "bhatinda",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "dhuri",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "faridkot",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "fatehgarh sahib",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "firozpur",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "gurdaspur",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "hoshiarpur",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "jalandhar",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "kapurthala",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "khanna",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "ludhiana",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "mansa",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "moga",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "mohali",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "mukerian",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "muktsar",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "nakodar",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "nawanshahr",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "pathankot",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "patiala",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "phagwara",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "rajpura",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "ropar",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "rupnagar",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "sangrur",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "sunam",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "tarn taran",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "zirakpur",
+    "nearby_cities": [
+      "amritsar",
+      "anandpur sahib",
+      "barnala",
+      "batala",
+      "bathinda"
+    ]
+  },
+  {
+    "city": "ajmer",
+    "nearby_cities": [
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara",
+      "bhinmal"
+    ]
+  },
+  {
+    "city": "alwar",
+    "nearby_cities": [
+      "ajmer",
+      "barmer",
+      "bharatpur",
+      "bhilwara",
+      "bhinmal"
+    ]
+  },
+  {
+    "city": "barmer",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "bharatpur",
+      "bhilwara",
+      "bhinmal"
+    ]
+  },
+  {
+    "city": "bharatpur",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bhilwara",
+      "bhinmal"
+    ]
+  },
+  {
+    "city": "bhilwara",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhinmal"
+    ]
+  },
+  {
+    "city": "bhinmal",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "bhiwadi",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "bikaner",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "bundi",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "chittorgarh",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "chomu",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "churu",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "dausa",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "dungarpur",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "ganganagar",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "hanumangarh",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "jaipur",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "jalore",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "jhalawar",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "jhunjhunu",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "jodhpur",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "kekri",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "kota",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "nagaur",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "pali",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "phalodi",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "pratapgarh",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "rajsamand",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "sawai madhopur",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "sikar",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "sirohi",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "sri ganganagar",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "sujangarh",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "tonk",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "udaipur",
+    "nearby_cities": [
+      "ajmer",
+      "alwar",
+      "barmer",
+      "bharatpur",
+      "bhilwara"
+    ]
+  },
+  {
+    "city": "gangtok",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "attur",
+    "nearby_cities": [
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore",
+      "dharmapuri"
+    ]
+  },
+  {
+    "city": "chennai",
+    "nearby_cities": [
+      "attur",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore",
+      "dharmapuri"
+    ]
+  },
+  {
+    "city": "chidambaram",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "coimbatore",
+      "cuddalore",
+      "dharmapuri"
+    ]
+  },
+  {
+    "city": "coimbatore",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "cuddalore",
+      "dharmapuri"
+    ]
+  },
+  {
+    "city": "cuddalore",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "dharmapuri"
+    ]
+  },
+  {
+    "city": "dharmapuri",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "dindigul",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "erode",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "hosur",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "kanchipuram",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "kanyakumari",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "karur",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "krishnagiri",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "kumbakonam",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "madurai",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "nagercoil",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "namakkal",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "nilgiris",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "perambalur",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "pollachi",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "ramanathapuram",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "salem",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "sivagangai",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "thanjavur",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "theni",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "thoothukudi",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "tiruchengodu",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "tiruchirapalli",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "tirunelveli",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "tiruppur",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "tiruvallur",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "tiruvannamalai",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "trichy",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "vellore",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "viluppuram",
+    "nearby_cities": [
+      "attur",
+      "chennai",
+      "chidambaram",
+      "coimbatore",
+      "cuddalore"
+    ]
+  },
+  {
+    "city": "karimnagar",
+    "nearby_cities": [
+      "mahabub nagar",
+      "medak",
+      "nirmal",
+      "nizamabad",
+      "rangareddy"
+    ]
+  },
+  {
+    "city": "mahabub nagar",
+    "nearby_cities": [
+      "karimnagar",
+      "medak",
+      "nirmal",
+      "nizamabad",
+      "rangareddy"
+    ]
+  },
+  {
+    "city": "medak",
+    "nearby_cities": [
+      "karimnagar",
+      "mahabub nagar",
+      "nirmal",
+      "nizamabad",
+      "rangareddy"
+    ]
+  },
+  {
+    "city": "nirmal",
+    "nearby_cities": [
+      "karimnagar",
+      "mahabub nagar",
+      "medak",
+      "nizamabad",
+      "rangareddy"
+    ]
+  },
+  {
+    "city": "nizamabad",
+    "nearby_cities": [
+      "karimnagar",
+      "mahabub nagar",
+      "medak",
+      "nirmal",
+      "rangareddy"
+    ]
+  },
+  {
+    "city": "rangareddy",
+    "nearby_cities": [
+      "karimnagar",
+      "mahabub nagar",
+      "medak",
+      "nirmal",
+      "nizamabad"
+    ]
+  },
+  {
+    "city": "sanga reddy",
+    "nearby_cities": [
+      "karimnagar",
+      "mahabub nagar",
+      "medak",
+      "nirmal",
+      "nizamabad"
+    ]
+  },
+  {
+    "city": "secunderabad",
+    "nearby_cities": [
+      "karimnagar",
+      "mahabub nagar",
+      "medak",
+      "nirmal",
+      "nizamabad"
+    ]
+  },
+  {
+    "city": "warangal",
+    "nearby_cities": [
+      "karimnagar",
+      "mahabub nagar",
+      "medak",
+      "nirmal",
+      "nizamabad"
+    ]
+  },
+  {
+    "city": "agra",
+    "nearby_cities": [
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh",
+      "badaun"
+    ]
+  },
+  {
+    "city": "aligarh",
+    "nearby_cities": [
+      "agra",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh",
+      "badaun"
+    ]
+  },
+  {
+    "city": "allahabad",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "ambedkar nagar",
+      "azamgarh",
+      "badaun"
+    ]
+  },
+  {
+    "city": "ambedkar nagar",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "azamgarh",
+      "badaun"
+    ]
+  },
+  {
+    "city": "azamgarh",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "badaun"
+    ]
+  },
+  {
+    "city": "badaun",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "baghpat",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "bahraich",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "balrampur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "banda",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "bareilly",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "basti",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "bijnor",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "bulandshahr",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "chandauli",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "deoria",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "etah",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "etawah",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "faizabad",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "farrukhabad",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "firozabad",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "gautam buddha nagar",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "ghaziabad",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "ghazipur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "gonda",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "gorakhpur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "hapur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "hardoi",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "hathras",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "jalaun",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "jaunpur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "jhansi",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "jyotiba phule nagar",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "kanpur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "kushinagar",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "lakhimpur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "lucknow",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "mahoba",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "mainpuri",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "mathura",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "meerut",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "modinagar",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "moradabad",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "muzaffarnagar",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "noida",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "pilibhit",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "rae bareli",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "rampur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "saharanpur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "sambhal",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "sant kabir nagar",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "shahabad",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "shahjahanpur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "shamli",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "sitapur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "sonbhadra",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "sultanpur",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "unnao",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "varanasi",
+    "nearby_cities": [
+      "agra",
+      "aligarh",
+      "allahabad",
+      "ambedkar nagar",
+      "azamgarh"
+    ]
+  },
+  {
+    "city": "dehradun",
+    "nearby_cities": [
+      "haldwani",
+      "haridwar",
+      "kashipur",
+      "nainital",
+      "ramnagar"
+    ]
+  },
+  {
+    "city": "haldwani",
+    "nearby_cities": [
+      "dehradun",
+      "haridwar",
+      "kashipur",
+      "nainital",
+      "ramnagar"
+    ]
+  },
+  {
+    "city": "haridwar",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "kashipur",
+      "nainital",
+      "ramnagar"
+    ]
+  },
+  {
+    "city": "kashipur",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "haridwar",
+      "nainital",
+      "ramnagar"
+    ]
+  },
+  {
+    "city": "nainital",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "haridwar",
+      "kashipur",
+      "ramnagar"
+    ]
+  },
+  {
+    "city": "ramnagar",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "haridwar",
+      "kashipur",
+      "nainital"
+    ]
+  },
+  {
+    "city": "rishikesh",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "haridwar",
+      "kashipur",
+      "nainital"
+    ]
+  },
+  {
+    "city": "roorkee",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "haridwar",
+      "kashipur",
+      "nainital"
+    ]
+  },
+  {
+    "city": "rudrapur",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "haridwar",
+      "kashipur",
+      "nainital"
+    ]
+  },
+  {
+    "city": "udham singh nagar",
+    "nearby_cities": [
+      "dehradun",
+      "haldwani",
+      "haridwar",
+      "kashipur",
+      "nainital"
+    ]
+  },
+  {
+    "city": "asansol",
+    "nearby_cities": [
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore",
+      "behrampur"
+    ]
+  },
+  {
+    "city": "bankura",
+    "nearby_cities": [
+      "asansol",
+      "barasat",
+      "bardhaman",
+      "barrackpore",
+      "behrampur"
+    ]
+  },
+  {
+    "city": "barasat",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "bardhaman",
+      "barrackpore",
+      "behrampur"
+    ]
+  },
+  {
+    "city": "bardhaman",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "barrackpore",
+      "behrampur"
+    ]
+  },
+  {
+    "city": "barrackpore",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "behrampur"
+    ]
+  },
+  {
+    "city": "behrampur",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "birbhum",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "burdwan",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "cooch behar",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "darjeeling",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "durgapur",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "haldia",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "hooghly",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "howrah",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "jalpaiguri",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "kharagpur",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "kolkata",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "malda",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "midnapore",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "murshidabad",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "nadia",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "north 24 parganas",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "siliguri",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  },
+  {
+    "city": "south 24 parganas",
+    "nearby_cities": [
+      "asansol",
+      "bankura",
+      "barasat",
+      "bardhaman",
+      "barrackpore"
+    ]
+  }
+]

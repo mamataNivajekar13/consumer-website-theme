@@ -1,0 +1,3344 @@
+[
+    {
+        "state": "gujarat",
+        "city": "vadodara",
+        "lat": "22.3071588",
+        "lng": "73.1812187"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "indore",
+        "lat": "22.7195687",
+        "lng": "75.8577258"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "dhar",
+        "lat": "22.5980549",
+        "lng": "75.3039628"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "dewas",
+        "lat": "22.9675929",
+        "lng": "76.0534454"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "ujjain",
+        "lat": "23.1764665",
+        "lng": "75.7885163"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "ratlam",
+        "lat": "23.3315103",
+        "lng": "75.0366677"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "mandsaur",
+        "lat": "24.0734356",
+        "lng": "75.0679018"
+    },
+    {
+        "state": "telangana",
+        "city": "hyderabad",
+        "lat": "17.385044",
+        "lng": "78.486671"
+    },
+    {
+        "state": "west bengal",
+        "city": "south dinajpur",
+        "lat": "25.3715308",
+        "lng": "88.556531"
+    },
+    {
+        "state": "karnataka",
+        "city": "bangalore",
+        "lat": "12.9715987",
+        "lng": "77.5945627"
+    },
+    {
+        "state": "west bengal",
+        "city": "siliguri",
+        "lat": "26.7271012",
+        "lng": "88.3952861"
+    },
+    {
+        "state": "maharashtra",
+        "city": "solapur",
+        "lat": "17.6599188",
+        "lng": "75.9063906"
+    },
+    {
+        "state": "uttarakhand",
+        "city": "dehradun",
+        "lat": "30.3164945",
+        "lng": "78.0321918"
+    },
+    {
+        "state": "uttarakhand",
+        "city": "haridwar",
+        "lat": "29.9456906",
+        "lng": "78.1642478"
+    },
+    {
+        "state": "punjab",
+        "city": "ludhiana",
+        "lat": "30.900965",
+        "lng": "75.8572758"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "meerut",
+        "lat": "28.9844618",
+        "lng": "77.7064137"
+    },
+    {
+        "state": "punjab",
+        "city": "moga",
+        "lat": "30.8230114",
+        "lng": "75.1734471"
+    },
+    {
+        "state": "punjab",
+        "city": "amritsar",
+        "lat": "31.6339793",
+        "lng": "74.8722642"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "baghpat",
+        "lat": "28.9427827",
+        "lng": "77.227607"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "muzaffarnagar",
+        "lat": "29.4726817",
+        "lng": "77.7085091"
+    },
+    {
+        "state": "delhi",
+        "city": "delhi",
+        "lat": "28.7040592",
+        "lng": "77.1024902"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "ghaziabad",
+        "lat": "28.6691565",
+        "lng": "77.4537578"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "pilibhit",
+        "lat": "28.62494",
+        "lng": "79.8075272"
+    },
+    {
+        "state": "uttarakhand",
+        "city": "nainital",
+        "lat": "29.3924139",
+        "lng": "79.4533773"
+    },
+    {
+        "state": "gujarat",
+        "city": "bharuch",
+        "lat": "21.7051358",
+        "lng": "72.9958748"
+    },
+    {
+        "state": "maharashtra",
+        "city": "nagpur",
+        "lat": "21.1458004",
+        "lng": "79.0881546"
+    },
+    {
+        "state": "maharashtra",
+        "city": "pune",
+        "lat": "18.5204303",
+        "lng": "73.8567437"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "nellore",
+        "lat": "14.4425987",
+        "lng": "79.986456"
+    },
+    {
+        "state": "gujarat",
+        "city": "ahmedabad",
+        "lat": "23.022505",
+        "lng": "72.5713621"
+    },
+    {
+        "state": "gujarat",
+        "city": "surat",
+        "lat": "21.1702401",
+        "lng": "72.8310607"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "gautam buddha nagar",
+        "lat": "28.338333",
+        "lng": "77.6077865"
+    },
+    {
+        "state": "west bengal",
+        "city": "north 24 parganas",
+        "lat": "22.710047",
+        "lng": "88.7108964"
+    },
+    {
+        "state": "west bengal",
+        "city": "howrah",
+        "lat": "22.5957689",
+        "lng": "88.2636394"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "guntur",
+        "lat": "16.3066525",
+        "lng": "80.4365402"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "chennai",
+        "lat": "13.0826802",
+        "lng": "80.2707184"
+    },
+    {
+        "state": "jammu & kashmir",
+        "city": "jammu",
+        "lat": "32.7266016",
+        "lng": "74.8570259"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tiruchirappalli",
+        "lat": "10.7904833",
+        "lng": "78.7046725"
+    },
+    {
+        "state": "maharashtra",
+        "city": "aurangabad",
+        "lat": "19.8761653",
+        "lng": "75.3433139"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "thanjavur",
+        "lat": "10.7869994",
+        "lng": "79.1378274"
+    },
+    {
+        "state": "maharashtra",
+        "city": "navi mumbai",
+        "lat": "19.0330488",
+        "lng": "73.0296625"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "visakhapatnam",
+        "lat": "17.6868159",
+        "lng": "83.2184815"
+    },
+    {
+        "state": "rajasthan",
+        "city": "jaipur",
+        "lat": "26.9124336",
+        "lng": "75.7872709"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "gwalior",
+        "lat": "26.2124007",
+        "lng": "78.1772053"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "vellore",
+        "lat": "12.9165167",
+        "lng": "79.1324986"
+    },
+    {
+        "state": "maharashtra",
+        "city": "nashik",
+        "lat": "19.9974533",
+        "lng": "73.7898023"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "allahabad",
+        "lat": "25.4358011",
+        "lng": "81.846311"
+    },
+    {
+        "state": "bihar",
+        "city": "patna",
+        "lat": "25.5940947",
+        "lng": "85.1375645"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "kanpur",
+        "lat": "26.449923",
+        "lng": "80.3318736"
+    },
+    {
+        "state": "haryana",
+        "city": "gurgaon",
+        "lat": "28.4594965",
+        "lng": "77.0266383"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "lucknow",
+        "lat": "26.8466937",
+        "lng": "80.946166"
+    },
+    {
+        "state": "bihar",
+        "city": "darbhanga",
+        "lat": "26.1542045",
+        "lng": "85.8918454"
+    },
+    {
+        "state": "telangana",
+        "city": "k.v.rangareddy",
+        "lat": "17.352603",
+        "lng": "78.5064199"
+    },
+    {
+        "state": "kerala",
+        "city": "kottayam",
+        "lat": "9.5915668",
+        "lng": "76.5221531"
+    },
+    {
+        "state": "haryana",
+        "city": "faridabad",
+        "lat": "28.4089123",
+        "lng": "77.3177894"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "coimbatore",
+        "lat": "11.0168445",
+        "lng": "76.9558321"
+    },
+    {
+        "state": "haryana",
+        "city": "rewari",
+        "lat": "28.1919738",
+        "lng": "76.6190774"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "nagapattinam",
+        "lat": "10.7672313",
+        "lng": "79.8448512"
+    },
+    {
+        "state": "west bengal",
+        "city": "kolkata",
+        "lat": "22.572646",
+        "lng": "88.363895"
+    },
+    {
+        "state": "maharashtra",
+        "city": "mumbai",
+        "lat": "19.0759837",
+        "lng": "72.8776559"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "cuddapah",
+        "lat": "14.4673154",
+        "lng": "78.8242089"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "raipur",
+        "lat": "21.2513844",
+        "lng": "81.6296413"
+    },
+    {
+        "state": "punjab",
+        "city": "gurdaspur",
+        "lat": "32.0413917",
+        "lng": "75.403086"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "gonda",
+        "lat": "27.1339874",
+        "lng": "81.9618979"
+    },
+    {
+        "state": "punjab",
+        "city": "jalandhar",
+        "lat": "31.3260152",
+        "lng": "75.5761829"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "gorakhpur",
+        "lat": "26.7605545",
+        "lng": "83.3731675"
+    },
+    {
+        "state": "delhi",
+        "city": "north east",
+        "lat": "28.7246777",
+        "lng": "77.2577571"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "deoria",
+        "lat": "26.5024286",
+        "lng": "83.7791283"
+    },
+    {
+        "state": "punjab",
+        "city": "hoshiarpur",
+        "lat": "31.5143178",
+        "lng": "75.911483"
+    },
+    {
+        "state": "punjab",
+        "city": "kapurthala",
+        "lat": "31.3722571",
+        "lng": "75.4017654"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "azamgarh",
+        "lat": "26.0739138",
+        "lng": "83.1859495"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "ballia",
+        "lat": "25.763119",
+        "lng": "84.149622"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "mathura",
+        "lat": "27.4924134",
+        "lng": "77.673673"
+    },
+    {
+        "state": "west bengal",
+        "city": "coochbehar",
+        "lat": "26.3452397",
+        "lng": "89.4482079"
+    },
+    {
+        "state": "telangana",
+        "city": "medak",
+        "lat": "18.0529357",
+        "lng": "78.261853"
+    },
+    {
+        "state": "west bengal",
+        "city": "nadia",
+        "lat": "23.4709656",
+        "lng": "88.556531"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "bhopal",
+        "lat": "23.2599333",
+        "lng": "77.412615"
+    },
+    {
+        "state": "maharashtra",
+        "city": "latur",
+        "lat": "18.4087934",
+        "lng": "76.5603828"
+    },
+    {
+        "state": "maharashtra",
+        "city": "ahmednagar",
+        "lat": "19.0948287",
+        "lng": "74.7479789"
+    },
+    {
+        "state": "karnataka",
+        "city": "kolar",
+        "lat": "13.1362143",
+        "lng": "78.1290986"
+    },
+    {
+        "state": "telangana",
+        "city": "nizamabad",
+        "lat": "18.6725047",
+        "lng": "78.0940867"
+    },
+    {
+        "state": "maharashtra",
+        "city": "satara",
+        "lat": "17.6804639",
+        "lng": "74.018261"
+    },
+    {
+        "state": "maharashtra",
+        "city": "sangli",
+        "lat": "16.8523973",
+        "lng": "74.5814773"
+    },
+    {
+        "state": "maharashtra",
+        "city": "ratnagiri",
+        "lat": "16.990215",
+        "lng": "73.3120233"
+    },
+    {
+        "state": "west bengal",
+        "city": "west midnapore",
+        "lat": "22.5045936",
+        "lng": "87.460397"
+    },
+    {
+        "state": "maharashtra",
+        "city": "jalgaon",
+        "lat": "21.0076578",
+        "lng": "75.5626039"
+    },
+    {
+        "state": "odisha",
+        "city": "dhenkanal",
+        "lat": "20.6504753",
+        "lng": "85.5981223"
+    },
+    {
+        "state": "west bengal",
+        "city": "burdwan",
+        "lat": "23.2324214",
+        "lng": "87.8614793"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "srikakulam",
+        "lat": "18.2949165",
+        "lng": "83.8938018"
+    },
+    {
+        "state": "karnataka",
+        "city": "mysore",
+        "lat": "12.2958104",
+        "lng": "76.6393805"
+    },
+    {
+        "state": "gujarat",
+        "city": "junagadh",
+        "lat": "21.5222203",
+        "lng": "70.4579436"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "jaunpur",
+        "lat": "25.7464145",
+        "lng": "82.6837033"
+    },
+    {
+        "state": "maharashtra",
+        "city": "thane",
+        "lat": "19.2183307",
+        "lng": "72.9780897"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "bilaspur",
+        "lat": "22.0796545",
+        "lng": "82.1409152"
+    },
+    {
+        "state": "maharashtra",
+        "city": "akola",
+        "lat": "20.7002159",
+        "lng": "77.0081678"
+    },
+    {
+        "state": "haryana",
+        "city": "sonipat",
+        "lat": "28.9930823",
+        "lng": "77.0150735"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "varanasi",
+        "lat": "25.3176452",
+        "lng": "82.9739144"
+    },
+    {
+        "state": "haryana",
+        "city": "panipat",
+        "lat": "29.3909464",
+        "lng": "76.9635023"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "agra",
+        "lat": "27.1766701",
+        "lng": "78.0080745"
+    },
+    {
+        "state": "haryana",
+        "city": "mahendragarh",
+        "lat": "28.2734201",
+        "lng": "76.1401349"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "kanyakumari",
+        "lat": "8.0843512",
+        "lng": "77.5495019"
+    },
+    {
+        "state": "chandigarh",
+        "city": "chandigarh",
+        "lat": "30.7333148",
+        "lng": "76.7794179"
+    },
+    {
+        "state": "west bengal",
+        "city": "hooghly",
+        "lat": "22.9011588",
+        "lng": "88.3898552"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "chhindwada",
+        "lat": "22.057437",
+        "lng": "78.9381729"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "jhansi",
+        "lat": "25.4484257",
+        "lng": "78.5684594"
+    },
+    {
+        "state": "karnataka",
+        "city": "bellary",
+        "lat": "15.1393932",
+        "lng": "76.9214428"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "hamirpur",
+        "lat": "25.9548043",
+        "lng": "80.1526271"
+    },
+    {
+        "state": "maharashtra",
+        "city": "nanded",
+        "lat": "19.1485289",
+        "lng": "77.3191471"
+    },
+    {
+        "state": "kerala",
+        "city": "thrissur",
+        "lat": "10.5276416",
+        "lng": "76.2144349"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "maharajganj",
+        "lat": "27.1446035",
+        "lng": "83.5621737"
+    },
+    {
+        "state": "maharashtra",
+        "city": "kolhapur",
+        "lat": "16.7049873",
+        "lng": "74.2432527"
+    },
+    {
+        "state": "haryana",
+        "city": "jhajjar",
+        "lat": "28.6054875",
+        "lng": "76.6537749"
+    },
+    {
+        "state": "goa",
+        "city": "south goa",
+        "lat": "15.11766",
+        "lng": "74.123996"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "krishna",
+        "lat": "16.6099914",
+        "lng": "80.7214417"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "dindigul",
+        "lat": "10.3623794",
+        "lng": "77.9694579"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "ananthapur",
+        "lat": "14.6757944",
+        "lng": "77.6307018"
+    },
+    {
+        "state": "telangana",
+        "city": "adilabad",
+        "lat": "19.6765668",
+        "lng": "78.5320841"
+    },
+    {
+        "state": "west bengal",
+        "city": "south 24 parganas",
+        "lat": "22.1366735",
+        "lng": "88.556531"
+    },
+    {
+        "state": "odisha",
+        "city": "khorda",
+        "lat": "20.130141",
+        "lng": "85.4788065"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "sagar",
+        "lat": "23.838805",
+        "lng": "78.7378068"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "jabalpur",
+        "lat": "23.1685786",
+        "lng": "79.9338798"
+    },
+    {
+        "state": "telangana",
+        "city": "karimnagar",
+        "lat": "18.4385553",
+        "lng": "79.1288412"
+    },
+    {
+        "state": "odisha",
+        "city": "puri",
+        "lat": "19.8134554",
+        "lng": "85.8312359"
+    },
+    {
+        "state": "odisha",
+        "city": "cuttack",
+        "lat": "20.462521",
+        "lng": "85.8829895"
+    },
+    {
+        "state": "karnataka",
+        "city": "koduru",
+        "lat": "13.9376005",
+        "lng": "75.1646396"
+    },
+    {
+        "state": "telangana",
+        "city": "warangal",
+        "lat": "17.9689008",
+        "lng": "79.5940544"
+    },
+    {
+        "state": "karnataka",
+        "city": "mandya",
+        "lat": "12.5218157",
+        "lng": "76.8951488"
+    },
+    {
+        "state": "karnataka",
+        "city": "tumkur",
+        "lat": "13.3378762",
+        "lng": "77.117325"
+    },
+    {
+        "state": "odisha",
+        "city": "baleswar",
+        "lat": "21.4933578",
+        "lng": "86.9134794"
+    },
+    {
+        "state": "odisha",
+        "city": "bhadrak",
+        "lat": "21.0573616",
+        "lng": "86.4962996"
+    },
+    {
+        "state": "punjab",
+        "city": "patiala",
+        "lat": "30.3397809",
+        "lng": "76.3868797"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "madurai",
+        "lat": "9.9252007",
+        "lng": "78.1197754"
+    },
+    {
+        "state": "kerala",
+        "city": "tiruvananthapuram",
+        "lat": "8.5241391",
+        "lng": "76.9366376"
+    },
+    {
+        "state": "rajasthan",
+        "city": "udaipur",
+        "lat": "24.585445",
+        "lng": "73.712479"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tiruvallur",
+        "lat": "13.1230558",
+        "lng": "79.9119526"
+    },
+    {
+        "state": "gujarat",
+        "city": "rajkot",
+        "lat": "22.3038945",
+        "lng": "70.8021599"
+    },
+    {
+        "state": "bihar",
+        "city": "begusarai",
+        "lat": "25.4181638",
+        "lng": "86.1271542"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "kanchipuram",
+        "lat": "12.818456",
+        "lng": "79.6946586"
+    },
+    {
+        "state": "jammu & kashmir",
+        "city": "srinagar",
+        "lat": "34.0836708",
+        "lng": "74.7972825"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "east godavari",
+        "lat": "17.32125",
+        "lng": "82.0407137"
+    },
+    {
+        "state": "punjab",
+        "city": "firozpur",
+        "lat": "30.9331348",
+        "lng": "74.6224755"
+    },
+    {
+        "state": "karnataka",
+        "city": "gulbarga",
+        "lat": "17.329731",
+        "lng": "76.8342957"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "vizianagaram",
+        "lat": "18.1066576",
+        "lng": "83.3955506"
+    },
+    {
+        "state": "kerala",
+        "city": "kannur",
+        "lat": "11.8744775",
+        "lng": "75.3703662"
+    },
+    {
+        "state": "maharashtra",
+        "city": "raigarh (mh)",
+        "lat": "18.5157519",
+        "lng": "73.1821623"
+    },
+    {
+        "state": "haryana",
+        "city": "rohtak",
+        "lat": "28.8955152",
+        "lng": "76.606611"
+    },
+    {
+        "state": "haryana",
+        "city": "hissar",
+        "lat": "29.1491875",
+        "lng": "75.7216527"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tuticorin",
+        "lat": "8.7641661",
+        "lng": "78.1348361"
+    },
+    {
+        "state": "maharashtra",
+        "city": "dhule",
+        "lat": "20.9042201",
+        "lng": "74.7748979"
+    },
+    {
+        "state": "punjab",
+        "city": "sangrur",
+        "lat": "30.2457963",
+        "lng": "75.8420716"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "erode",
+        "lat": "11.3410364",
+        "lng": "77.7171642"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "shajapur",
+        "lat": "23.4225728",
+        "lng": "76.2871419"
+    },
+    {
+        "state": "punjab",
+        "city": "bhatinda",
+        "lat": "30.210994",
+        "lng": "74.9454745"
+    },
+    {
+        "state": "maharashtra",
+        "city": "washim",
+        "lat": "20.111238",
+        "lng": "77.1303079"
+    },
+    {
+        "state": "bihar",
+        "city": "gaya",
+        "lat": "24.7913957",
+        "lng": "85.0002336"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "ghazipur",
+        "lat": "25.5877901",
+        "lng": "83.5783078"
+    },
+    {
+        "state": "goa",
+        "city": "north goa",
+        "lat": "15.5163112",
+        "lng": "73.9830029"
+    },
+    {
+        "state": "gujarat",
+        "city": "bhavnagar",
+        "lat": "21.7644725",
+        "lng": "72.1519304"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "moradabad",
+        "lat": "28.8386481",
+        "lng": "78.7733286"
+    },
+    {
+        "state": "rajasthan",
+        "city": "sikar",
+        "lat": "27.6093912",
+        "lng": "75.1397935"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "barabanki",
+        "lat": "26.9268042",
+        "lng": "81.1833809"
+    },
+    {
+        "state": "punjab",
+        "city": "faridkot",
+        "lat": "30.593204",
+        "lng": "74.8273184"
+    },
+    {
+        "state": "karnataka",
+        "city": "bijapur",
+        "lat": "16.8301708",
+        "lng": "75.710031"
+    },
+    {
+        "state": "rajasthan",
+        "city": "alwar",
+        "lat": "27.5529907",
+        "lng": "76.6345735"
+    },
+    {
+        "state": "assam",
+        "city": "kamrup",
+        "lat": "25.9410942",
+        "lng": "91.2891036"
+    },
+    {
+        "state": "gujarat",
+        "city": "valsad",
+        "lat": "20.5992349",
+        "lng": "72.9342451"
+    },
+    {
+        "state": "punjab",
+        "city": "mansa",
+        "lat": "29.9995069",
+        "lng": "75.3936808"
+    },
+    {
+        "state": "daman & diu",
+        "city": "daman",
+        "lat": "20.3973736",
+        "lng": "72.8327991"
+    },
+    {
+        "state": "west bengal",
+        "city": "bankura",
+        "lat": "23.2312686",
+        "lng": "87.0783875"
+    },
+    {
+        "state": "gujarat",
+        "city": "dholka",
+        "lat": "22.7420906",
+        "lng": "72.4497173"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "chittoor",
+        "lat": "13.217176",
+        "lng": "79.1003289"
+    },
+    {
+        "state": "gujarat",
+        "city": "navsari",
+        "lat": "20.9467019",
+        "lng": "72.9520348"
+    },
+    {
+        "state": "odisha",
+        "city": "keonjhar",
+        "lat": "21.628933",
+        "lng": "85.5816847"
+    },
+    {
+        "state": "telangana",
+        "city": "khammam",
+        "lat": "17.2472528",
+        "lng": "80.1514447"
+    },
+    {
+        "state": "odisha",
+        "city": "angul",
+        "lat": "20.8444033",
+        "lng": "85.1510818"
+    },
+    {
+        "state": "maharashtra",
+        "city": "sindhudurg",
+        "lat": "16.1668396",
+        "lng": "73.5594128"
+    },
+    {
+        "state": "karnataka",
+        "city": "hassan",
+        "lat": "13.0033234",
+        "lng": "76.1003894"
+    },
+    {
+        "state": "karnataka",
+        "city": "dakshina kannada",
+        "lat": "12.8437814",
+        "lng": "75.2479061"
+    },
+    {
+        "state": "odisha",
+        "city": "sambalpur",
+        "lat": "21.4668716",
+        "lng": "83.9811665"
+    },
+    {
+        "state": "odisha",
+        "city": "bargarh",
+        "lat": "21.3470154",
+        "lng": "83.6320212"
+    },
+    {
+        "state": "odisha",
+        "city": "sundargarh",
+        "lat": "22.120021",
+        "lng": "84.037224"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "rewa",
+        "lat": "24.5362477",
+        "lng": "81.3036946"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "durg",
+        "lat": "21.1904494",
+        "lng": "81.2849169"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "bhilai",
+        "lat": "21.1938475",
+        "lng": "81.3509416"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "rajnandgaon",
+        "lat": "21.0976046",
+        "lng": "81.0337066"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "salem",
+        "lat": "11.664325",
+        "lng": "78.1460142"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "pondicherry",
+        "lat": "11.9415915",
+        "lng": "79.8083133"
+    },
+    {
+        "state": "jharkhand",
+        "city": "ranchi",
+        "lat": "23.3440997",
+        "lng": "85.309562"
+    },
+    {
+        "state": "kerala",
+        "city": "palakkad",
+        "lat": "10.7867303",
+        "lng": "76.6547932"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "prakasam",
+        "lat": "15.348463",
+        "lng": "79.560344"
+    },
+    {
+        "state": "maharashtra",
+        "city": "chandrapur",
+        "lat": "19.9615398",
+        "lng": "79.2961468"
+    },
+    {
+        "state": "karnataka",
+        "city": "dharwad",
+        "lat": "15.4589236",
+        "lng": "75.007808"
+    },
+    {
+        "state": "kerala",
+        "city": "kozhikode",
+        "lat": "11.2587531",
+        "lng": "75.78041"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "dharmapuri",
+        "lat": "12.1210997",
+        "lng": "78.1582143"
+    },
+    {
+        "state": "maharashtra",
+        "city": "parbhani",
+        "lat": "19.2608384",
+        "lng": "76.774776"
+    },
+    {
+        "state": "haryana",
+        "city": "jind",
+        "lat": "29.325508",
+        "lng": "76.2997909"
+    },
+    {
+        "state": "haryana",
+        "city": "bhiwani",
+        "lat": "28.7974684",
+        "lng": "76.1322058"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "shimla",
+        "lat": "31.1048145",
+        "lng": "77.1734033"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "una",
+        "lat": "31.4684649",
+        "lng": "76.2708152"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "kangra",
+        "lat": "32.1014764",
+        "lng": "76.2731465"
+    },
+    {
+        "state": "gujarat",
+        "city": "sabarkantha",
+        "lat": "23.8476704",
+        "lng": "72.9932969"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "cuddalore",
+        "lat": "11.7480419",
+        "lng": "79.7713687"
+    },
+    {
+        "state": "rajasthan",
+        "city": "kota",
+        "lat": "25.2138156",
+        "lng": "75.8647527"
+    },
+    {
+        "state": "bihar",
+        "city": "kishanganj",
+        "lat": "26.0982167",
+        "lng": "87.9450379"
+    },
+    {
+        "state": "karnataka",
+        "city": "raichur",
+        "lat": "16.216018",
+        "lng": "77.3565608"
+    },
+    {
+        "state": "maharashtra",
+        "city": "osmanabad",
+        "lat": "18.185332",
+        "lng": "76.0419642"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "mirzapur",
+        "lat": "25.1336987",
+        "lng": "82.5644344"
+    },
+    {
+        "state": "maharashtra",
+        "city": "wardha",
+        "lat": "20.745319",
+        "lng": "78.6021946"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "bastar",
+        "lat": "19.1071317",
+        "lng": "81.9534815"
+    },
+    {
+        "state": "karnataka",
+        "city": "chitradurga",
+        "lat": "14.2250932",
+        "lng": "76.3980464"
+    },
+    {
+        "state": "assam",
+        "city": "jorhat",
+        "lat": "26.7509207",
+        "lng": "94.2036696"
+    },
+    {
+        "state": "assam",
+        "city": "sibsagar",
+        "lat": "26.9826098",
+        "lng": "94.6424521"
+    },
+    {
+        "state": "assam",
+        "city": "dibrugarh",
+        "lat": "27.4705449",
+        "lng": "94.9124625"
+    },
+    {
+        "state": "assam",
+        "city": "tinsukia",
+        "lat": "27.4885539",
+        "lng": "95.355758"
+    },
+    {
+        "state": "karnataka",
+        "city": "shimoga",
+        "lat": "13.9299299",
+        "lng": "75.568101"
+    },
+    {
+        "state": "bihar",
+        "city": "nalanda",
+        "lat": "25.2621826",
+        "lng": "85.4788065"
+    },
+    {
+        "state": "karnataka",
+        "city": "bidar",
+        "lat": "17.9103939",
+        "lng": "77.5199079"
+    },
+    {
+        "state": "haryana",
+        "city": "karnal",
+        "lat": "29.6856929",
+        "lng": "76.9904825"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "shahjahanpur",
+        "lat": "27.8756335",
+        "lng": "79.9107646"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "bareilly",
+        "lat": "28.3670355",
+        "lng": "79.4304381"
+    },
+    {
+        "state": "haryana",
+        "city": "ambala",
+        "lat": "30.3752011",
+        "lng": "76.782122"
+    },
+    {
+        "state": "haryana",
+        "city": "panchkula",
+        "lat": "30.6942091",
+        "lng": "76.860565"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "bijnor",
+        "lat": "29.3731673",
+        "lng": "78.1350904"
+    },
+    {
+        "state": "haryana",
+        "city": "yamuna nagar",
+        "lat": "30.1290485",
+        "lng": "77.2673901"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "saharanpur",
+        "lat": "29.9680035",
+        "lng": "77.5552066"
+    },
+    {
+        "state": "haryana",
+        "city": "kurukshetra",
+        "lat": "29.9695121",
+        "lng": "76.878282"
+    },
+    {
+        "state": "punjab",
+        "city": "ropar",
+        "lat": "30.9661003",
+        "lng": "76.5230961"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "bahraich",
+        "lat": "27.5705152",
+        "lng": "81.5976672"
+    },
+    {
+        "state": "maharashtra",
+        "city": "buldhana",
+        "lat": "20.5292147",
+        "lng": "76.1841701"
+    },
+    {
+        "state": "maharashtra",
+        "city": "yavatmal",
+        "lat": "20.3899385",
+        "lng": "78.1306846"
+    },
+    {
+        "state": "gujarat",
+        "city": "jamnagar",
+        "lat": "22.4707019",
+        "lng": "70.05773"
+    },
+    {
+        "state": "gujarat",
+        "city": "gandhi nagar",
+        "lat": "23.2156354",
+        "lng": "72.6369415"
+    },
+    {
+        "state": "west bengal",
+        "city": "raigachhi",
+        "lat": "22.6349838",
+        "lng": "88.4730853"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "kaushambhi",
+        "lat": "25.361054",
+        "lng": "81.4031707"
+    },
+    {
+        "state": "rajasthan",
+        "city": "sriganganagar",
+        "lat": "29.9093759",
+        "lng": "73.8799805"
+    },
+    {
+        "state": "jharkhand",
+        "city": "deoghar",
+        "lat": "24.485179",
+        "lng": "86.694785"
+    },
+    {
+        "state": "maharashtra",
+        "city": "amravati",
+        "lat": "20.9319821",
+        "lng": "77.7523039"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "vidisha",
+        "lat": "23.5235719",
+        "lng": "77.8139718"
+    },
+    {
+        "state": "jammu & kashmir",
+        "city": "anantnag",
+        "lat": "33.7311255",
+        "lng": "75.1487007"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "virudhunagar",
+        "lat": "9.5680116",
+        "lng": "77.9624435"
+    },
+    {
+        "state": "telangana",
+        "city": "nalgonda",
+        "lat": "17.0574663",
+        "lng": "79.2684169"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "damoh",
+        "lat": "23.8323022",
+        "lng": "79.4386591"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "kurnool",
+        "lat": "15.8281257",
+        "lng": "78.0372792"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "solan",
+        "lat": "30.9084245",
+        "lng": "77.0999031"
+    },
+    {
+        "state": "punjab",
+        "city": "fg sahib",
+        "lat": "30.6528287",
+        "lng": "76.3930507"
+    },
+    {
+        "state": "kerala",
+        "city": "ernakulam",
+        "lat": "9.9816358",
+        "lng": "76.2998842"
+    },
+    {
+        "state": "bihar",
+        "city": "munger",
+        "lat": "25.3707993",
+        "lng": "86.4733903"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "raigarh",
+        "lat": "21.8974003",
+        "lng": "83.3949632"
+    },
+    {
+        "state": "assam",
+        "city": "lakhimpur",
+        "lat": "27.2063587",
+        "lng": "94.1513764"
+    },
+    {
+        "state": "meghalaya",
+        "city": "east khasi hills",
+        "lat": "25.3681768",
+        "lng": "91.7538817"
+    },
+    {
+        "state": "karnataka",
+        "city": "belgaum",
+        "lat": "15.8496953",
+        "lng": "74.4976741"
+    },
+    {
+        "state": "jharkhand",
+        "city": "giridih",
+        "lat": "24.19135",
+        "lng": "86.2996368"
+    },
+    {
+        "state": "karnataka",
+        "city": "chikmagalur",
+        "lat": "13.3161441",
+        "lng": "75.7720439"
+    },
+    {
+        "state": "bihar",
+        "city": "vaishali",
+        "lat": "25.6838206",
+        "lng": "85.354965"
+    },
+    {
+        "state": "maharashtra",
+        "city": "jalna",
+        "lat": "19.8346659",
+        "lng": "75.8816345"
+    },
+    {
+        "state": "west bengal",
+        "city": "east midnapore",
+        "lat": "21.9372879",
+        "lng": "87.7763333"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "maunathbhanjan",
+        "lat": "25.9904256",
+        "lng": "83.5070203"
+    },
+    {
+        "state": "rajasthan",
+        "city": "bhilwara",
+        "lat": "25.3407388",
+        "lng": "74.6313183"
+    },
+    {
+        "state": "jammu & kashmir",
+        "city": "baramulla",
+        "lat": "34.1472665",
+        "lng": "74.2648829"
+    },
+    {
+        "state": "rajasthan",
+        "city": "ajmer",
+        "lat": "26.4498954",
+        "lng": "74.6399163"
+    },
+    {
+        "state": "rajasthan",
+        "city": "pali",
+        "lat": "25.7780623",
+        "lng": "73.331147"
+    },
+    {
+        "state": "kerala",
+        "city": "malappuram",
+        "lat": "11.0509762",
+        "lng": "76.0710967"
+    },
+    {
+        "state": "bihar",
+        "city": "rohtas",
+        "lat": "25.0685878",
+        "lng": "84.0167423"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "sant kabir nagar",
+        "lat": "26.7657567",
+        "lng": "83.0833901"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "west godavari",
+        "lat": "16.9174181",
+        "lng": "81.3399414"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "karur",
+        "lat": "10.9600778",
+        "lng": "78.0766036"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "jyotiba phule nagar",
+        "lat": "28.8635062",
+        "lng": "78.3387066"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tiruppur",
+        "lat": "11.1085242",
+        "lng": "77.3410656"
+    },
+    {
+        "state": "uttarakhand",
+        "city": "tehri",
+        "lat": "30.3738609",
+        "lng": "78.4324809"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "nilgiris",
+        "lat": "11.4916043",
+        "lng": "76.7336521"
+    },
+    {
+        "state": "kerala",
+        "city": "wayanad",
+        "lat": "11.6853575",
+        "lng": "76.1319953"
+    },
+    {
+        "state": "karnataka",
+        "city": "uttara kannada",
+        "lat": "14.7937065",
+        "lng": "74.6868815"
+    },
+    {
+        "state": "bihar",
+        "city": "muzaffarpur",
+        "lat": "26.1196607",
+        "lng": "85.390982"
+    },
+    {
+        "state": "gujarat",
+        "city": "anand",
+        "lat": "22.5645175",
+        "lng": "72.928871"
+    },
+    {
+        "state": "gujarat",
+        "city": "dahod",
+        "lat": "22.8344992",
+        "lng": "74.2606185"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "sultanpur",
+        "lat": "26.2585371",
+        "lng": "82.0659858"
+    },
+    {
+        "state": "haryana",
+        "city": "sirsa",
+        "lat": "29.5320731",
+        "lng": "75.0317734"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "faizabad",
+        "lat": "26.7729751",
+        "lng": "82.1457934"
+    },
+    {
+        "state": "bihar",
+        "city": "bhagalpur",
+        "lat": "25.2371958",
+        "lng": "86.9745702"
+    },
+    {
+        "state": "gujarat",
+        "city": "mahesana",
+        "lat": "23.5879607",
+        "lng": "72.3693252"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "basti",
+        "lat": "26.8139844",
+        "lng": "82.7629893"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "kheri",
+        "lat": "27.9462395",
+        "lng": "80.7787163"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "unnao",
+        "lat": "26.5393449",
+        "lng": "80.4878195"
+    },
+    {
+        "state": "jharkhand",
+        "city": "dhanbad",
+        "lat": "23.7956531",
+        "lng": "86.4303859"
+    },
+    {
+        "state": "maharashtra",
+        "city": "bhandara",
+        "lat": "21.177658",
+        "lng": "79.6570127"
+    },
+    {
+        "state": "gujarat",
+        "city": "patan",
+        "lat": "23.8500156",
+        "lng": "72.1210274"
+    },
+    {
+        "state": "gujarat",
+        "city": "kheda",
+        "lat": "22.750651",
+        "lng": "72.6846658"
+    },
+    {
+        "state": "jharkhand",
+        "city": "palamu",
+        "lat": "23.8409874",
+        "lng": "84.1012861"
+    },
+    {
+        "state": "jharkhand",
+        "city": "daltonganj",
+        "lat": "24.0465121",
+        "lng": "84.0768462"
+    },
+    {
+        "state": "bihar",
+        "city": "siwan",
+        "lat": "26.2243204",
+        "lng": "84.3599953"
+    },
+    {
+        "state": "bihar",
+        "city": "araria",
+        "lat": "26.1324689",
+        "lng": "87.4528067"
+    },
+    {
+        "state": "maharashtra",
+        "city": "beed",
+        "lat": "18.990088",
+        "lng": "75.7531324"
+    },
+    {
+        "state": "bihar",
+        "city": "katihar",
+        "lat": "25.5540648",
+        "lng": "87.5591073"
+    },
+    {
+        "state": "rajasthan",
+        "city": "jhalawar",
+        "lat": "24.5973494",
+        "lng": "76.1609838"
+    },
+    {
+        "state": "rajasthan",
+        "city": "bikaner",
+        "lat": "28.0229348",
+        "lng": "73.3119159"
+    },
+    {
+        "state": "bihar",
+        "city": "khagaria",
+        "lat": "25.50452",
+        "lng": "86.4701416"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "etah",
+        "lat": "27.5625106",
+        "lng": "78.6654148"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "kushinagar",
+        "lat": "26.7398787",
+        "lng": "83.8869698"
+    },
+    {
+        "state": "jharkhand",
+        "city": "lohardaga",
+        "lat": "23.4415776",
+        "lng": "84.6869722"
+    },
+    {
+        "state": "gujarat",
+        "city": "banaskantha",
+        "lat": "24.3454739",
+        "lng": "71.7622481"
+    },
+    {
+        "state": "haryana",
+        "city": "fatehabad",
+        "lat": "29.5131814",
+        "lng": "75.4509532"
+    },
+    {
+        "state": "rajasthan",
+        "city": "banswara",
+        "lat": "23.5461394",
+        "lng": "74.4349761"
+    },
+    {
+        "state": "gujarat",
+        "city": "kachchh",
+        "lat": "23.7337326",
+        "lng": "69.8597406"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "ramanathapuram",
+        "lat": "9.3639356",
+        "lng": "78.8394819"
+    },
+    {
+        "state": "bihar",
+        "city": "purnia",
+        "lat": "25.7771391",
+        "lng": "87.4752551"
+    },
+    {
+        "state": "rajasthan",
+        "city": "barmer",
+        "lat": "25.7521467",
+        "lng": "71.3966865"
+    },
+    {
+        "state": "rajasthan",
+        "city": "jhunjhunu",
+        "lat": "28.1317038",
+        "lng": "75.4022233"
+    },
+    {
+        "state": "rajasthan",
+        "city": "bharatpur",
+        "lat": "27.2151863",
+        "lng": "77.5029996"
+    },
+    {
+        "state": "rajasthan",
+        "city": "sawai madhopur",
+        "lat": "26.012373",
+        "lng": "76.3560109"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "aligarh",
+        "lat": "27.8973944",
+        "lng": "78.0880129"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "bulandshahar",
+        "lat": "28.406963",
+        "lng": "77.8498292"
+    },
+    {
+        "state": "rajasthan",
+        "city": "churu",
+        "lat": "28.2925364",
+        "lng": "74.9707262"
+    },
+    {
+        "state": "rajasthan",
+        "city": "jodhpur",
+        "lat": "26.2389469",
+        "lng": "73.0243094"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "perambalur",
+        "lat": "11.2342104",
+        "lng": "78.8806852"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "etawah",
+        "lat": "26.7829103",
+        "lng": "79.027659"
+    },
+    {
+        "state": "west bengal",
+        "city": "birbhum",
+        "lat": "23.8401675",
+        "lng": "87.6186379"
+    },
+    {
+        "state": "bihar",
+        "city": "east champaran",
+        "lat": "26.6098139",
+        "lng": "84.8567932"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "kanpur dehat",
+        "lat": "26.526707",
+        "lng": "79.8296743"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "villupuram",
+        "lat": "11.9401378",
+        "lng": "79.4861449"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tiruvannamalai",
+        "lat": "12.2252841",
+        "lng": "79.0746957"
+    },
+    {
+        "state": "pondicherry",
+        "city": "karaikal",
+        "lat": "10.9254398",
+        "lng": "79.8380056"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tiruvarur",
+        "lat": "10.7661312",
+        "lng": "79.6343691"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "pudukottai",
+        "lat": "10.3832867",
+        "lng": "78.800129"
+    },
+    {
+        "state": "rajasthan",
+        "city": "karauli",
+        "lat": "26.488323",
+        "lng": "77.0161436"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tirunelveli",
+        "lat": "8.715018",
+        "lng": "77.765628"
+    },
+    {
+        "state": "jharkhand",
+        "city": "ramgarh",
+        "lat": "23.6362593",
+        "lng": "85.5124209"
+    },
+    {
+        "state": "punjab",
+        "city": "khamanon",
+        "lat": "30.8152368",
+        "lng": "76.3463624"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "sant ravidas nagar",
+        "lat": "25.326373",
+        "lng": "82.4319405"
+    },
+    {
+        "state": "gujarat",
+        "city": "surendra nagar",
+        "lat": "22.6806403",
+        "lng": "71.5946492"
+    },
+    {
+        "state": "jharkhand",
+        "city": "hazaribagh",
+        "lat": "23.9924669",
+        "lng": "85.3636758"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "firozabad",
+        "lat": "27.1591961",
+        "lng": "78.3957331"
+    },
+    {
+        "state": "assam",
+        "city": "nagaon",
+        "lat": "26.348009",
+        "lng": "92.6838111"
+    },
+    {
+        "state": "odisha",
+        "city": "mayurbhanj",
+        "lat": "22.0086978",
+        "lng": "86.4187308"
+    },
+    {
+        "state": "jharkhand",
+        "city": "bokaro",
+        "lat": "23.6692956",
+        "lng": "86.151112"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "namakkal",
+        "lat": "11.2193848",
+        "lng": "78.1678418"
+    },
+    {
+        "state": "rajasthan",
+        "city": "tonk",
+        "lat": "26.1659063",
+        "lng": "75.7962852"
+    },
+    {
+        "state": "kerala",
+        "city": "idukki",
+        "lat": "9.8583987",
+        "lng": "76.9527836"
+    },
+    {
+        "state": "rajasthan",
+        "city": "nagaur",
+        "lat": "27.1983368",
+        "lng": "73.7493272"
+    },
+    {
+        "state": "kerala",
+        "city": "alappuzha",
+        "lat": "9.4980667",
+        "lng": "76.3388484"
+    },
+    {
+        "state": "kerala",
+        "city": "pathanamthitta",
+        "lat": "9.2647582",
+        "lng": "76.7870414"
+    },
+    {
+        "state": "kerala",
+        "city": "kollam",
+        "lat": "8.8932118",
+        "lng": "76.6141396"
+    },
+    {
+        "state": "odisha",
+        "city": "jharsuguda",
+        "lat": "21.8554375",
+        "lng": "84.0061661"
+    },
+    {
+        "state": "bihar",
+        "city": "saharsa",
+        "lat": "25.8773651",
+        "lng": "86.5927887"
+    },
+    {
+        "state": "west bengal",
+        "city": "murshidabad",
+        "lat": "24.1759039",
+        "lng": "88.2801785"
+    },
+    {
+        "state": "telangana",
+        "city": "rangareddiguda",
+        "lat": "16.9016191",
+        "lng": "78.1788872"
+    },
+    {
+        "state": "odisha",
+        "city": "jajapur",
+        "lat": "20.8341019",
+        "lng": "86.3326058"
+    },
+    {
+        "state": "gujarat",
+        "city": "panchmahal",
+        "lat": "22.8011177",
+        "lng": "73.5594128"
+    },
+    {
+        "state": "odisha",
+        "city": "ganjam",
+        "lat": "19.3871214",
+        "lng": "85.0523356"
+    },
+    {
+        "state": "jharkhand",
+        "city": "seraikela kharsawan",
+        "lat": "22.8561261",
+        "lng": "86.0121573"
+    },
+    {
+        "state": "rajasthan",
+        "city": "dausa",
+        "lat": "26.8996953",
+        "lng": "76.332411"
+    },
+    {
+        "state": "bihar",
+        "city": "gopalganj",
+        "lat": "26.4605776",
+        "lng": "84.4402462"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "sivaganga",
+        "lat": "9.8432999",
+        "lng": "78.4808775"
+    },
+    {
+        "state": "telangana",
+        "city": "rangareddy",
+        "lat": "17.0496831",
+        "lng": "78.3842227"
+    },
+    {
+        "state": "jharkhand",
+        "city": "singhbhum east",
+        "lat": "22.4866756",
+        "lng": "86.4996546"
+    },
+    {
+        "state": "bihar",
+        "city": "west champaran",
+        "lat": "27.1543104",
+        "lng": "84.3542049"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "hoshangabad",
+        "lat": "22.7518961",
+        "lng": "77.7288655"
+    },
+    {
+        "state": "rajasthan",
+        "city": "chittorgarh",
+        "lat": "24.8829177",
+        "lng": "74.6229699"
+    },
+    {
+        "state": "west bengal",
+        "city": "north dinajpur",
+        "lat": "25.9810393",
+        "lng": "88.050979"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "fatehpur",
+        "lat": "25.9209503",
+        "lng": "80.7996035"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "raisen",
+        "lat": "23.3327329",
+        "lng": "77.7823973"
+    },
+    {
+        "state": "telangana",
+        "city": "mahaboobnagar",
+        "lat": "16.7934933",
+        "lng": "77.973865"
+    },
+    {
+        "state": "rajasthan",
+        "city": "baran",
+        "lat": "25.1011438",
+        "lng": "76.5131637"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "khargone",
+        "lat": "21.8257464",
+        "lng": "75.6184061"
+    },
+    {
+        "state": "bihar",
+        "city": "bhojpur",
+        "lat": "25.466155",
+        "lng": "84.5222189"
+    },
+    {
+        "state": "maharashtra",
+        "city": "gondia",
+        "lat": "21.4549477",
+        "lng": "80.1960712"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "katni",
+        "lat": "23.8343441",
+        "lng": "80.3893814"
+    },
+    {
+        "state": "bihar",
+        "city": "sitamarhi",
+        "lat": "26.5886976",
+        "lng": "85.5012971"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "khandwa",
+        "lat": "21.8314037",
+        "lng": "76.3497612"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "shahdol",
+        "lat": "23.300232",
+        "lng": "81.3568619"
+    },
+    {
+        "state": "west bengal",
+        "city": "amtala",
+        "lat": "22.3668822",
+        "lng": "88.2777344"
+    },
+    {
+        "state": "jharkhand",
+        "city": "godda",
+        "lat": "24.8255215",
+        "lng": "87.2135177"
+    },
+    {
+        "state": "assam",
+        "city": "barpeta",
+        "lat": "26.3215985",
+        "lng": "90.9820668"
+    },
+    {
+        "state": "assam",
+        "city": "cachar",
+        "lat": "24.7821253",
+        "lng": "92.8577105"
+    },
+    {
+        "state": "karnataka",
+        "city": "ramanagar",
+        "lat": "12.7208614",
+        "lng": "77.2798963"
+    },
+    {
+        "state": "bihar",
+        "city": "lakhisarai",
+        "lat": "25.1571454",
+        "lng": "86.0951592"
+    },
+    {
+        "state": "assam",
+        "city": "goalpara",
+        "lat": "26.1641342",
+        "lng": "90.6251541"
+    },
+    {
+        "state": "haryana",
+        "city": "kaithal",
+        "lat": "29.8042758",
+        "lng": "76.4039016"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "raebareli",
+        "lat": "26.2144806",
+        "lng": "81.2528139"
+    },
+    {
+        "state": "assam",
+        "city": "sonitpur",
+        "lat": "26.6769864",
+        "lng": "92.6983868"
+    },
+    {
+        "state": "maharashtra",
+        "city": "baramati",
+        "lat": "18.1791791",
+        "lng": "74.6077971"
+    },
+    {
+        "state": "kerala",
+        "city": "kasaragod",
+        "lat": "12.4995966",
+        "lng": "74.9869276"
+    },
+    {
+        "state": "nagaland",
+        "city": "dimapur",
+        "lat": "25.9091406",
+        "lng": "93.7265605"
+    },
+    {
+        "state": "gujarat",
+        "city": "amreli",
+        "lat": "21.6015242",
+        "lng": "71.2203555"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "chandauli",
+        "lat": "25.2604696",
+        "lng": "83.264538"
+    },
+    {
+        "state": "rajasthan",
+        "city": "jalor",
+        "lat": "25.3444799",
+        "lng": "72.6253763"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "sirmaur",
+        "lat": "30.5628455",
+        "lng": "77.4701972"
+    },
+    {
+        "state": "meghalaya",
+        "city": "west garo hills",
+        "lat": "25.7573475",
+        "lng": "90.2244662"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "hardoi",
+        "lat": "27.3965071",
+        "lng": "80.1250479"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "theni",
+        "lat": "10.0079322",
+        "lng": "77.4735441"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "guna",
+        "lat": "24.6323648",
+        "lng": "77.3001762"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "kovilpatti",
+        "lat": "9.1726696",
+        "lng": "77.8714879"
+    },
+    {
+        "state": "west bengal",
+        "city": "bardhaman",
+        "lat": "23.2324214",
+        "lng": "87.8614793"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "pratapgarh",
+        "lat": "25.9026232",
+        "lng": "81.7787021"
+    },
+    {
+        "state": "karnataka",
+        "city": "kodagu",
+        "lat": "12.3374942",
+        "lng": "75.8069082"
+    },
+    {
+        "state": "west bengal",
+        "city": "darjeeling",
+        "lat": "27.0410218",
+        "lng": "88.2662745"
+    },
+    {
+        "state": "andaman & nicobar islands",
+        "city": "south andaman",
+        "lat": "10.7448873",
+        "lng": "92.4999918"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "sitapur",
+        "lat": "27.5680156",
+        "lng": "80.6789519"
+    },
+    {
+        "state": "uttarakhand",
+        "city": "haldwani",
+        "lat": "29.2182644",
+        "lng": "79.5129767"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "kullu",
+        "lat": "31.959205",
+        "lng": "77.1089377"
+    },
+    {
+        "state": "gujarat",
+        "city": "jaisalmer",
+        "lat": "26.9106374",
+        "lng": "70.9116168"
+    },
+    {
+        "state": "karnataka",
+        "city": "chamrajnagar",
+        "lat": "11.9261471",
+        "lng": "76.9437312"
+    },
+    {
+        "state": "punjab",
+        "city": "mohali",
+        "lat": "30.7046486",
+        "lng": "76.7178726"
+    },
+    {
+        "state": "telangana",
+        "city": "medipalli s o",
+        "lat": "17.4047632",
+        "lng": "78.6009619"
+    },
+    {
+        "state": "odisha",
+        "city": "gajapati",
+        "lat": "19.1912221",
+        "lng": "84.1857115"
+    },
+    {
+        "state": "rajasthan",
+        "city": "dungarpur",
+        "lat": "23.841668",
+        "lng": "73.7146623"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "farrukhabad",
+        "lat": "27.3825853",
+        "lng": "79.5840195"
+    },
+    {
+        "state": "bihar",
+        "city": "jahanabad",
+        "lat": "25.2132649",
+        "lng": "84.9853322"
+    },
+    {
+        "state": "manipur",
+        "city": "imphal",
+        "lat": "24.8170111",
+        "lng": "93.9368439"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "ambedkarnagar",
+        "lat": "26.3745075",
+        "lng": "82.6915429"
+    },
+    {
+        "state": "tripura",
+        "city": "west tripura",
+        "lat": "23.899682",
+        "lng": "91.4048249"
+    },
+    {
+        "state": "west bengal",
+        "city": "purulia",
+        "lat": "23.2482587",
+        "lng": "86.4996546"
+    },
+    {
+        "state": "west bengal",
+        "city": "malda",
+        "lat": "25.0108408",
+        "lng": "88.1410967"
+    },
+    {
+        "state": "sikkim",
+        "city": "sikkim state",
+        "lat": "27.3516407",
+        "lng": "88.3239309"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "rampur",
+        "lat": "28.798299",
+        "lng": "79.0220287"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "morena",
+        "lat": "26.4947172",
+        "lng": "77.9940222"
+    },
+    {
+        "state": "odisha",
+        "city": "sonapur",
+        "lat": "20.8410126",
+        "lng": "83.8973977"
+    },
+    {
+        "state": "rajasthan",
+        "city": "sirohi",
+        "lat": "24.8851548",
+        "lng": "72.8574558"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "mandi",
+        "lat": "31.5892006",
+        "lng": "76.9182097"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tiruchengode",
+        "lat": "11.3790235",
+        "lng": "77.8949435"
+    },
+    {
+        "state": "uttarakhand",
+        "city": "almora",
+        "lat": "29.5892407",
+        "lng": "79.646666"
+    },
+    {
+        "state": "west bengal",
+        "city": "jalpaiguri",
+        "lat": "26.5214579",
+        "lng": "88.7195567"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "banda",
+        "lat": "25.4762689",
+        "lng": "80.3395498"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "satna",
+        "lat": "24.6005075",
+        "lng": "80.8322428"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "tikamgarh",
+        "lat": "24.7456147",
+        "lng": "78.8320779"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "sehore",
+        "lat": "23.2032399",
+        "lng": "77.0844044"
+    },
+    {
+        "state": "arunachal pradesh",
+        "city": "papum pare",
+        "lat": "27.2240654",
+        "lng": "93.5003454"
+    },
+    {
+        "state": "assam",
+        "city": "nalbari",
+        "lat": "26.4446185",
+        "lng": "91.4410527"
+    },
+    {
+        "state": "chhattisgarh",
+        "city": "ambikapur",
+        "lat": "23.1294374",
+        "lng": "83.1861138"
+    },
+    {
+        "state": "odisha",
+        "city": "kalahandi",
+        "lat": "19.9137363",
+        "lng": "83.1649001"
+    },
+    {
+        "state": "bihar",
+        "city": "samastipur",
+        "lat": "25.8560271",
+        "lng": "85.7868233"
+    },
+    {
+        "state": "bihar",
+        "city": "madhubani",
+        "lat": "26.3482938",
+        "lng": "86.0711661"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "sidhi",
+        "lat": "24.3956038",
+        "lng": "81.8825279"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "seoni",
+        "lat": "22.0868691",
+        "lng": "79.5434841"
+    },
+    {
+        "state": "rajasthan",
+        "city": "dholpur",
+        "lat": "26.6965521",
+        "lng": "77.8907576"
+    },
+    {
+        "state": "odisha",
+        "city": "balangir",
+        "lat": "20.7011108",
+        "lng": "83.4846069"
+    },
+    {
+        "state": "telangana",
+        "city": "asifnagar",
+        "lat": "17.3918603",
+        "lng": "78.443144"
+    },
+    {
+        "state": "karnataka",
+        "city": "mangalore",
+        "lat": "12.9141417",
+        "lng": "74.8559568"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "sonbhadra",
+        "lat": "24.4570238",
+        "lng": "82.9931607"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "santkabir nagar",
+        "lat": "26.7671755",
+        "lng": "83.0361376"
+    },
+    {
+        "state": "karnataka",
+        "city": "koppal",
+        "lat": "15.3504652",
+        "lng": "76.1567298"
+    },
+    {
+        "state": "rajasthan",
+        "city": "rajsamand",
+        "lat": "25.0583257",
+        "lng": "73.8860034"
+    },
+    {
+        "state": "bihar",
+        "city": "bhabua",
+        "lat": "25.0426227",
+        "lng": "83.6055732"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "mahoba",
+        "lat": "25.2945119",
+        "lng": "79.8858951"
+    },
+    {
+        "state": "gujarat",
+        "city": "narmada",
+        "lat": "21.8757175",
+        "lng": "73.5594128"
+    },
+    {
+        "state": "jharkhand",
+        "city": "kodarma",
+        "lat": "24.4676805",
+        "lng": "85.5933645"
+    },
+    {
+        "state": "jharkhand",
+        "city": "garhwa",
+        "lat": "24.1548982",
+        "lng": "83.7995617"
+    },
+    {
+        "state": "odisha",
+        "city": "nayagarh",
+        "lat": "20.1231332",
+        "lng": "85.1038426"
+    },
+    {
+        "state": "odisha",
+        "city": "rayagada",
+        "lat": "19.1714939",
+        "lng": "83.4116756"
+    },
+    {
+        "state": "jammu & kashmir",
+        "city": "badgam",
+        "lat": "33.9348549",
+        "lng": "74.6400432"
+    },
+    {
+        "state": "rajasthan",
+        "city": "hanumangarh",
+        "lat": "29.5821848",
+        "lng": "74.3292106"
+    },
+    {
+        "state": "rajasthan",
+        "city": "bundi",
+        "lat": "25.4325869",
+        "lng": "75.6482726"
+    },
+    {
+        "state": "telangana",
+        "city": "rangareddi",
+        "lat": "17.0496831",
+        "lng": "78.3842227"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "chhatarpur",
+        "lat": "24.9167821",
+        "lng": "79.5910058"
+    },
+    {
+        "state": "odisha",
+        "city": "jagatsinghpur",
+        "lat": "20.2548998",
+        "lng": "86.1706221"
+    },
+    {
+        "state": "assam",
+        "city": "bongaigaon",
+        "lat": "26.5030072",
+        "lng": "90.5535724"
+    },
+    {
+        "state": "jharkhand",
+        "city": "singhbhum west",
+        "lat": "22.3650858",
+        "lng": "85.4375574"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "narsinghpur",
+        "lat": "22.9473179",
+        "lng": "79.1923266"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "balaghat",
+        "lat": "21.812876",
+        "lng": "80.1838293"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "ariyalur",
+        "lat": "11.1400585",
+        "lng": "79.0786281"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "budaun",
+        "lat": "28.0311101",
+        "lng": "79.1271229"
+    },
+    {
+        "state": "karnataka",
+        "city": "chikamagalur",
+        "lat": "13.3161441",
+        "lng": "75.7720439"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "auraiya",
+        "lat": "26.4605377",
+        "lng": "79.5112528"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "barwani",
+        "lat": "22.0363157",
+        "lng": "74.903339"
+    },
+    {
+        "state": "maharashtra",
+        "city": "gadchiroli",
+        "lat": "20.184871",
+        "lng": "79.9947956"
+    },
+    {
+        "state": "gujarat",
+        "city": "porbandar",
+        "lat": "21.6416979",
+        "lng": "69.6293059"
+    },
+    {
+        "state": "meghalaya",
+        "city": "ri bhoi",
+        "lat": "25.9321374",
+        "lng": "92.0665197"
+    },
+    {
+        "state": "jharkhand",
+        "city": "latehar",
+        "lat": "23.7463215",
+        "lng": "84.5091102"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "jalaun",
+        "lat": "26.1458649",
+        "lng": "79.3296565"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "jhabua",
+        "lat": "22.769666",
+        "lng": "74.5920921"
+    },
+    {
+        "state": "karnataka",
+        "city": "ramanagaram",
+        "lat": "12.7208614",
+        "lng": "77.2798963"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "ettayapuram",
+        "lat": "9.1470884",
+        "lng": "77.9995589"
+    },
+    {
+        "state": "jharkhand",
+        "city": "chatra",
+        "lat": "24.206475",
+        "lng": "84.8718433"
+    },
+    {
+        "state": "bihar",
+        "city": "tulapatganj",
+        "lat": "26.3070469",
+        "lng": "86.3486638"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "rajgarh",
+        "lat": "23.8508581",
+        "lng": "76.7336521"
+    },
+    {
+        "state": "jharkhand",
+        "city": "sahibganj",
+        "lat": "25.2381216",
+        "lng": "87.6453592"
+    },
+    {
+        "state": "bihar",
+        "city": "arwal",
+        "lat": "25.2427603",
+        "lng": "84.6655981"
+    },
+    {
+        "state": "bihar",
+        "city": "madhepura",
+        "lat": "25.9239677",
+        "lng": "86.7946387"
+    },
+    {
+        "state": "bihar",
+        "city": "buxar",
+        "lat": "25.5647103",
+        "lng": "83.9777482"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "madambakkam",
+        "lat": "12.8566981",
+        "lng": "80.0547404"
+    },
+    {
+        "state": "arunachal pradesh",
+        "city": "east siang",
+        "lat": "28.0550482",
+        "lng": "95.3520876"
+    },
+    {
+        "state": "gujarat",
+        "city": "dadra and nagar haveli",
+        "lat": "",
+        "lng": ""
+    },
+    {
+        "state": "karnataka",
+        "city": "ullal",
+        "lat": "12.8146637",
+        "lng": "74.8585442"
+    },
+    {
+        "state": "assam",
+        "city": "golaghat",
+        "lat": "26.5238515",
+        "lng": "93.962337"
+    },
+    {
+        "state": "mizoram",
+        "city": "aizwal",
+        "lat": "23.7307175",
+        "lng": "92.7173106"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "vilathikulam",
+        "lat": "9.1315855",
+        "lng": "78.1645798"
+    },
+    {
+        "state": "gujarat",
+        "city": "dangs",
+        "lat": "20.8253781",
+        "lng": "73.7007088"
+    },
+    {
+        "state": "orissa",
+        "city": "koraput",
+        "lat": "18.813487",
+        "lng": "82.7123327"
+    },
+    {
+        "state": "assam",
+        "city": "guwahati",
+        "lat": "26.1157917",
+        "lng": "91.7085933"
+    },
+    {
+        "state": "odisha",
+        "city": "kendrapara",
+        "lat": "20.5035436",
+        "lng": "86.4199321"
+    },
+    {
+        "state": "bihar",
+        "city": "supaul",
+        "lat": "26.1233718",
+        "lng": "86.6045134"
+    },
+    {
+        "state": "bihar",
+        "city": "sheikhpura",
+        "lat": "25.1391653",
+        "lng": "85.8392151"
+    },
+    {
+        "state": "assam",
+        "city": "kokrajhar",
+        "lat": "26.4014362",
+        "lng": "90.266699"
+    },
+    {
+        "state": "odisha",
+        "city": "nabarangapur",
+        "lat": "19.2277163",
+        "lng": "82.5490885"
+    },
+    {
+        "state": "gujarat",
+        "city": "mehsana",
+        "lat": "23.5879607",
+        "lng": "72.3693252"
+    },
+    {
+        "state": "west bengal",
+        "city": "bagdogra",
+        "lat": "26.6986114",
+        "lng": "88.3116995"
+    },
+    {
+        "state": "jharkhand",
+        "city": "dumka",
+        "lat": "24.2684794",
+        "lng": "87.2488088"
+    },
+    {
+        "state": "jharkhand",
+        "city": "jamshedpur",
+        "lat": "22.8045665",
+        "lng": "86.2028754"
+    },
+    {
+        "state": "bihar",
+        "city": "nawada",
+        "lat": "24.8866859",
+        "lng": "85.5434572"
+    },
+    {
+        "state": "jharkhand",
+        "city": "jamtara",
+        "lat": "23.9612357",
+        "lng": "86.8048018"
+    },
+    {
+        "state": "jharkhand",
+        "city": "gumla",
+        "lat": "23.0441295",
+        "lng": "84.5379455"
+    },
+    {
+        "state": "karnataka",
+        "city": "gadag",
+        "lat": "15.4315406",
+        "lng": "75.6355149"
+    },
+    {
+        "state": "tripura",
+        "city": "north tripura",
+        "lat": "24.0797139",
+        "lng": "92.2630393"
+    },
+    {
+        "state": "bihar",
+        "city": "saran",
+        "lat": "25.8559698",
+        "lng": "84.8567932"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "betul",
+        "lat": "21.9011601",
+        "lng": "77.8960201"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "periyakulam",
+        "lat": "10.1238778",
+        "lng": "77.5474707"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "nazarethpettai",
+        "lat": "13.047231",
+        "lng": "80.0801306"
+    },
+    {
+        "state": "manipur",
+        "city": "ukhrul",
+        "lat": "25.0967563",
+        "lng": "94.3617273"
+    },
+    {
+        "state": "meghalaya",
+        "city": "west kashi hills",
+        "lat": "25.5624625",
+        "lng": "91.2891036"
+    },
+    {
+        "state": "karnataka",
+        "city": "hiriyur",
+        "lat": "13.9451543",
+        "lng": "76.6140227"
+    },
+    {
+        "state": "nagaland",
+        "city": "kohima",
+        "lat": "25.6751129",
+        "lng": "94.1085998"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "hathras",
+        "lat": "27.5980718",
+        "lng": "78.0492265"
+    },
+    {
+        "state": "jammu & kashmir",
+        "city": "kathua",
+        "lat": "32.3863082",
+        "lng": "75.5173465"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "the nilgiri",
+        "lat": "11.4916043",
+        "lng": "76.7336521"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "mugalivakkam",
+        "lat": "13.0209529",
+        "lng": "80.1613511"
+    },
+    {
+        "state": "himachal pradesh",
+        "city": "sunder nagar",
+        "lat": "31.5299004",
+        "lng": "76.888941"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "chengalpattu",
+        "lat": "12.6819372",
+        "lng": "79.9888413"
+    },
+    {
+        "state": "kerala",
+        "city": "thiruvananthapuram",
+        "lat": "8.5241391",
+        "lng": "76.9366376"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "bulandshahr",
+        "lat": "28.406963",
+        "lng": "77.8498292"
+    },
+    {
+        "state": "jharkhand",
+        "city": "gomoh",
+        "lat": "23.8702222",
+        "lng": "86.1520657"
+    },
+    {
+        "state": "uttarakhand",
+        "city": "champawat",
+        "lat": "29.3360974",
+        "lng": "80.0910275"
+    },
+    {
+        "state": "jharkhand",
+        "city": "jaina",
+        "lat": "23.6738159",
+        "lng": "86.0249117"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "miryalaguda",
+        "lat": "16.8738909",
+        "lng": "79.5661694"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "bhind",
+        "lat": "26.5637768",
+        "lng": "78.7860916"
+    },
+    {
+        "state": "jammu & kashmir",
+        "city": "pulwama",
+        "lat": "33.8716117",
+        "lng": "74.8945692"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "tisaiyanvillai",
+        "lat": "8.3343425",
+        "lng": "77.8634844"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "shivpuri",
+        "lat": "25.4320478",
+        "lng": "77.6643815"
+    },
+    {
+        "state": "bihar",
+        "city": "banka",
+        "lat": "24.8874179",
+        "lng": "86.919838"
+    },
+    {
+        "state": "bihar",
+        "city": "jamui",
+        "lat": "24.9255887",
+        "lng": "86.2258592"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "rajahmundry",
+        "lat": "17.0005383",
+        "lng": "81.8040345"
+    },
+    {
+        "state": "rajasthan",
+        "city": "ganganagar",
+        "lat": "29.9093759",
+        "lng": "73.8799805"
+    },
+    {
+        "state": "telangana",
+        "city": "mahboobnagar",
+        "lat": "16.7488379",
+        "lng": "78.0035172"
+    },
+    {
+        "state": "west Bengal",
+        "city": "domjur",
+        "lat": "22.6266173",
+        "lng": "88.2197268"
+    },
+    {
+        "state": "west Bengal",
+        "city": "arambag",
+        "lat": "22.8765026",
+        "lng": "87.7909507"
+    },
+    {
+        "state": "karnataka",
+        "city": "bengaluru",
+        "lat": "12.9715987",
+        "lng": "77.5945627"
+    },
+    {
+        "state": "gujarat",
+        "city": "gandhidham",
+        "lat": "23.075297",
+        "lng": "70.133673"
+    },
+    {
+        "state": "maharashtra",
+        "city": "bhusawal",
+        "lat": "21.0417707",
+        "lng": "75.7875517"
+    },
+    {
+        "state": "uttar pradesh",
+        "city": "gyanpur",
+        "lat": "25.3434554",
+        "lng": "82.4779833"
+    },
+    {
+        "state": "west bengal",
+        "city": "darjeeling",
+        "lat": "27.0410218",
+        "lng": "88.2662745"
+    },
+    {
+        "state": "bihar",
+        "city": "bochaha",
+        "lat": "25.565388",
+        "lng": "85.7484934"
+    },
+    {
+        "state": "haryana",
+        "city": "karnawas",
+        "lat": "28.1281203",
+        "lng": "76.6015556"
+    },
+    {
+        "state": "rajasthan",
+        "city": "rajakhera",
+        "lat": "26.8946488",
+        "lng": "78.1706939"
+    },
+    {
+        "state": "gujarat",
+        "city": "pardi",
+        "lat": "20.5124532",
+        "lng": "72.947993"
+    },
+    {
+        "state": "maharashtra",
+        "city": "rahuri",
+        "lat": "19.3950986",
+        "lng": "74.6520835"
+    },
+    {
+        "state": "punjab",
+        "city": "malout",
+        "lat": "30.1890199",
+        "lng": "74.4996955"
+    },
+    {
+        "state": "bihar",
+        "city": "sampatchak",
+        "lat": "25.5420237",
+        "lng": "85.1755352"
+    },
+    {
+        "state": "gujarat",
+        "city": "nadiad",
+        "lat": "22.6915853",
+        "lng": "72.8633635"
+    },
+    {
+        "state": "gujarat",
+        "city": "palsana",
+        "lat": "21.0863483",
+        "lng": "72.9779219"
+    },
+    {
+        "state": "tamil nadu",
+        "city": "sillamarathupatty",
+        "lat": "9.9710154",
+        "lng": "77.3539774"
+    },
+    {
+        "state": "maharashtra",
+        "city": "maval",
+        "lat": "18.7552105",
+        "lng": "73.4445392"
+    },
+    {
+        "state": "punjab",
+        "city": "sunam",
+        "lat": "30.1305581",
+        "lng": "75.8013975"
+    },
+    {
+        "state": "rajasthan",
+        "city": "nawalgarh",
+        "lat": "27.8454214",
+        "lng": "75.2546476"
+    },
+    {
+        "state": "andhra pradesh",
+        "city": "nandyal",
+        "lat": "15.4776876",
+        "lng": "78.487285"
+    },
+    {
+        "state": "madhya pradesh",
+        "city": "gird",
+        "lat": "25.9633548",
+        "lng": "78.1036988"
+    },
+    {
+        "state": "maharashtra",
+        "city": "kalyan",
+        "lat": "19.2403305",
+        "lng": "73.1305395"
+    },
+    {
+        "state": "bihar",
+        "city": "phulwari",
+        "lat": "25.573158",
+        "lng": "85.0693039"
+    },
+    {
+        "state": "maharashtra",
+        "city": "shrirampur",
+        "lat": "19.6194767",
+        "lng": "74.6567407"
+    },
+    {
+        "state": "haryana",
+        "city": "palripanihara",
+        "lat": "28.3176178",
+        "lng": "76.1290961"
+    },
+    {
+        "state": "maharashtra",
+        "city": "panvel",
+        "lat": "18.9894007",
+        "lng": "73.1175162"
+    }
+]
