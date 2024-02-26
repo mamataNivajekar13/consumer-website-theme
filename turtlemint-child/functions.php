@@ -172,6 +172,12 @@ include get_stylesheet_directory() . '/shortcodes/tm-cg-nearby-cities.php';
 // CG search box
 include get_stylesheet_directory() . '/shortcodes/tm-cg-search-box.php';
 
+if(!function_exists('get_field')){
+    function get_field($selector, $post_id = false, $format_value = false, $escape_html = false){
+        return null;
+    }
+}
+
 /********** File Version **********/
 function fileVersion($filePath){
 	return filemtime(get_stylesheet_directory() . $filePath);
@@ -2766,12 +2772,14 @@ function tm_event_category(){
     /* Theme Settings - start */
     $theme_settings_verticals = get_field('verticals', 'option');
 
-    foreach ($theme_settings_verticals as $theme_settings_vertical) {
-        $vertical_taxonomy_slug = $theme_settings_vertical['vertical_taxonomy_slug'];
-
-        if($vertical_taxonomy_slug == $taxonomy_slug){
-            $vertical_name = ucwords($theme_settings_vertical['display_vertical_name_as']);
-            $vertical_name_category = $vertical_name;
+    if($theme_settings_verticals){
+        foreach ($theme_settings_verticals as $theme_settings_vertical) {
+            $vertical_taxonomy_slug = $theme_settings_vertical['vertical_taxonomy_slug'];
+    
+            if($vertical_taxonomy_slug == $taxonomy_slug){
+                $vertical_name = ucwords($theme_settings_vertical['display_vertical_name_as']);
+                $vertical_name_category = $vertical_name;
+            }
         }
     }
     /* Theme Settings - end */
@@ -2866,12 +2874,14 @@ function form_section_validation(){
 
     /* Theme Settings - start */
     $theme_settings_verticals = get_field('verticals', 'option');
-    foreach ($theme_settings_verticals as $theme_settings_vertical) {
-        $vertical_taxonomy_slug = $theme_settings_vertical['vertical_taxonomy_slug'];
-
-        if($vertical_taxonomy_slug == $taxonomy_slug){
-        $vertical_form_shortcode = $theme_settings_vertical['vertical_form_shortcode'];
-        return $vertical_form_shortcode;
+    if($theme_settings_verticals !== null){
+        foreach ($theme_settings_verticals as $theme_settings_vertical) {
+            $vertical_taxonomy_slug = $theme_settings_vertical['vertical_taxonomy_slug'];
+    
+            if($vertical_taxonomy_slug == $taxonomy_slug){
+            $vertical_form_shortcode = $theme_settings_vertical['vertical_form_shortcode'];
+            return $vertical_form_shortcode;
+            }
         }
     }
     /* Theme Settings - end */

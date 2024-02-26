@@ -6,13 +6,21 @@
 <?php
     $canonicalUrl = site_url().$_SERVER['REQUEST_URI'];
 ?>
+<link rel="canonical" href="<?php echo removeUrlParameters($canonicalUrl); ?>">
+
+<!-- Preload Fonts -->
 <link rel="preload" href="<?php echo get_stylesheet_directory_uri() ?>/assets/fonts/Montserrat-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="<?php echo get_stylesheet_directory_uri() ?>/assets/fonts/Montserrat-Bold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="<?php echo get_stylesheet_directory_uri() ?>/assets/fonts/Montserrat-Medium.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="<?php echo get_stylesheet_directory_uri() ?>/assets/fonts/Montserrat-SemiBold.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 
-<link rel="canonical" href="<?php echo removeUrlParameters($canonicalUrl); ?>">
-<link rel="preload" href="<?php echo site_url() ?>/wp-content/uploads/turtlemint-logo.webp" as="image">
+<?php 
+    $logo_url = esc_url( wp_get_attachment_url( get_theme_mod( 'custom_logo' ) ) );
+    if($logo_url){
+        echo '<link rel="preload" href="'.$logo_url.'" as="image">';
+    }
+?>
+
 <style>
     .wp-site-blocks >*+*{margin-top: 0px!important;margin-bottom: 0px;}body section{margin-top: 80px!important;margin-bottom: 80px!important;}@media(max-width:767.98px){body section{margin-top: 40px!important;margin-bottom: 40px!important;}}section.has-background{padding-top:80px;padding-bottom:80px}.tm-style-1 section.has-background{padding-top:24px;padding-bottom:24px}@media(max-width:767px){section.has-background{padding-top:40px;padding-bottom:40px}.tm-post-content{margin-bottom: 25px!important;}}.tm-weight-medium {font-weight: 500 !important;}.tm-weight-semi-bold {font-weight: 600 !important;}.tm-weight-bold {font-weight: 700 !important;}.hiddenSection{display: none !important;}.tm-style-1 h1,.tm-style-1 h2,.tm-style-1 h3,.tm-style-1 h4,.tm-style-1 h5,.tm-style-1 h6,.tm-style-1 p:not(.tm-cta){margin-top:0 !important}
 </style>

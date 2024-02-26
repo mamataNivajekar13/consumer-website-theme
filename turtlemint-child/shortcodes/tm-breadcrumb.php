@@ -26,14 +26,18 @@ function tmBreadcrumb($atts){
     
     /* Theme Settings - start */
     $theme_settings_verticals = get_field('verticals', 'option');
-    foreach ($theme_settings_verticals as $theme_settings_vertical) {
+
+    if($theme_settings_verticals !== null){
+      foreach ($theme_settings_verticals as $theme_settings_vertical) {
         $vertical_taxonomy_slug = $theme_settings_vertical['vertical_taxonomy_slug'];
 
         if($vertical_taxonomy_slug == $taxonomy_slug){
           $breadcrumb_links = $theme_settings_vertical['breadcrumb_links'];
           $vertical_name = ucwords($theme_settings_vertical['display_vertical_name_as']);
         }
+      }
     }
+
     /* Theme Settings - end */
     if(get_field('insurer_name', $term)){
       $insurer_display_name = ucwords(get_field('insurer_name', $term));
