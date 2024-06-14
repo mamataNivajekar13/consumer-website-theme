@@ -1,9 +1,0 @@
-.tm-ic-latest-articles{
-    @media(max-width:767.98px){
-        .tm-posts{
-            & > *:nth-child(n+3) {
-                display: none;
-            }
-        }
-    }
-}

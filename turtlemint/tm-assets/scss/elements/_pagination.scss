@@ -1,0 +1,79 @@
+.wp-block-query-pagination,
+.nav-links {
+    gap: 0 !important;
+    margin-top: 45px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    .wp-block-query-pagination-numbers {
+        margin-right: 0px !important;
+        margin-bottom: 0px !important;
+        display: flex;
+    }
+
+    .wp-block-query-pagination-next,
+    .wp-block-query-pagination-previous {
+        font-size: 0px;
+
+        .wp-block-query-pagination-next-arrow,
+        .wp-block-query-pagination-previous-arrow {
+            font-size: initial;
+        }
+    }
+
+    .page-numbers,
+    .wp-block-query-pagination-next-arrow,
+    .wp-block-query-pagination-previous-arrow {
+        background-color: var(--wp--preset--color--turtlemint-white);
+        border: 1px solid var(--wp--custom--tm-border-black);
+        padding: 8px 12px;
+        text-decoration: none !important;
+        margin: 0px;
+        height: calc(36px - 16px);
+        display: flex;
+        align-items: center;
+        line-height: 100% !important;
+
+        &:link:hover {
+            background-color: var(--wp--preset--color--turtlemint-primary);
+            color: var(--wp--preset--color--turtlemint-white);
+        }
+    }
+
+    .page-numbers {
+        &:not(:last-child) {
+            border-right: none;
+        }
+
+        &:first-child {
+            border-top-left-radius: 0.25rem;
+            border-bottom-left-radius: 0.25rem;
+        }
+
+        &:last-child {
+            border-top-right-radius: 0.25rem;
+            border-bottom-right-radius: 0.25rem;
+        }
+
+        &.current {
+            background-color: var(--wp--preset--color--turtlemint-primary);
+            color: var(--wp--preset--color--turtlemint-white);
+        }
+    }
+
+    .wp-block-query-pagination-next,
+    .wp-block-query-pagination-previous {
+        text-decoration: none !important;
+    }
+
+    @media(max-width:767.98px) {
+        margin-top: 30px !important;
+    }
+
+    @include media-breakpoint-down(sm) {
+        .page-numbers {
+            padding: 8px 10px;
+        }
+    }
+}

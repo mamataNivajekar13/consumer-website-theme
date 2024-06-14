@@ -1,0 +1,1428 @@
+.tm-sprite-1, .tm-sprite-2, .tm-sprite-3, .tm-sprite-4, .tm-sprite-5, .tm-sprite-6, .tm-sprite-7, .tm-sprite-8, .tm-sprite-9, .tm-sprite-10{
+  background-repeat: no-repeat;
+}
+
+.tm-sprite-1 {
+  display: inline-block;
+  background-image: url(../images/sprite_set1.webp);
+  height: 56px;
+  width: 56px;
+  background-size: calc(100% + 20px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-policies-issued,
+  &.bg-calender,
+  &.bg-branches,
+  &.bg-hospitals,
+  &.bg-garages {
+    height: 46px;
+    width: 46px;
+    background-size: calc(100% + 16px);
+    background-position-y: -8px;
+    background-position-x: -8px;
+
+    @media (max-width: 767.98px) {
+      background-size: calc(100% + 12px);
+      background-position-y: -6px;
+      background-position-x: -6px;
+    }
+  }
+
+  &.bg-calender {
+    background-position-y: -62px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -51px;
+    }
+  }
+
+  &.bg-branches {
+    background-position-y: -115.7px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -96px;
+    }
+  }
+
+  &.bg-hospitals {
+    background-position-y: -169.5px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -141.5px;
+    }
+  }
+
+  &.bg-garages {
+    background-position-y: -708px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -593.5px;
+    }
+  }
+
+  &.bg-chevron-down-green,
+  &.bg-chevron-right-green,
+  &.bg-chevron-up-green {
+    height: 24px;
+    width: 24px;
+    background-size: calc(100% + 10px);
+    background-position-y: -122px;
+    background-position-x: -5px;
+  }
+
+  &.bg-chevron-right-green {
+    transform: rotate(-90deg);
+  }
+
+  &.bg-chevron-up-green {
+    transform: rotate(180deg);
+  }
+
+  &.bg-calendar-with-date,
+  &.bg-clock-border,
+  &.bg-coverage,
+  &.bg-hands {
+    height: 24px;
+    width: 24px;
+    background-position-x: -4px;
+    background-position-y: -143px;
+    background-size: calc(100% + 8px);
+
+    @media (max-width: 767.98px) {
+      background-position-y: -125.5px;
+      height: 20px;
+      width: 20px;
+    }
+  }
+
+  &.bg-clock-border {
+    background-position-y: -171px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -150px;
+    }
+  }
+
+  &.bg-coverage {
+    background-position-y: -198.5px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -174.5px;
+    }
+  }
+
+  &.bg-hands {
+    background-position-y: -226.5px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -198.5px;
+    }
+  }
+
+  &.bg-phone-grey,
+  &.bg-envelope-grey {
+    height: 32px;
+    width: 32px;
+    background-size: calc(100% + 10px);
+    background-position-x: -5px;
+    background-position-y: -333px;
+
+    @media (max-width: 767.98px) {
+      width: 24px;
+      height: 24px;
+      background-position-y: -254px;
+      background-position-x: -4px;
+      background-size: calc(100% + 8px);
+    }
+  }
+
+  &.bg-envelope-grey {
+    background-position-y: -369px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -282px;
+    }
+  }
+
+  &.bg-search {
+    height: 24px;
+    width: 24px;
+    background-size: calc(100% + 10px);
+    background-position-x: -5px;
+    background-position-y: -416px;
+  }
+
+  &.bg-location-pin {
+    height: 24px;
+    width: 24px;
+    background-size: calc(100% + 10px);
+    background-position-x: -5px;
+    background-position-y: -443px;
+  }
+
+  &.bg-xmark-red {
+    width: 24px;
+    height: 24px;
+    background-position-y: -337.5px;
+    background-position-x: -4px;
+    background-size: calc(100% + 8px);
+  }
+
+  &.bg-download{
+    width: 26px;
+    height: 27px;
+    background-position-y: -470px;
+    background-position-x: -4px;
+    background-size: calc(100% + 8px);
+  }
+}
+
+.tm-sprite-2 {
+  display: inline-block;
+  background-image: url(../images/sprite_set2.webp);
+  height: 145px;
+  width: 180px;
+  background-size: calc(100% + 20px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-calculator-3d {
+    height: 110px;
+    width: 147px;
+
+    @media (max-width: 767.98px) {
+      width: 96px;
+      height: 81px;
+      background-size: calc(100% + 10px);
+      background-position-x: -5px;
+      background-position-y: -3px;
+    }
+  }
+
+  &.bg-network-hospitals {
+    width: 148px;
+    height: 110px;
+    background-size: calc(100% + 30px);
+    background-position-x: -15px;
+    background-position-y: -490px;
+
+    @media (max-width: 767.98px) {
+      width: 96px;
+      height: 81px;
+      background-position-x: -8px;
+      background-position-y: -345px;
+    }
+  }
+
+  &.bg-premium-3d {
+    background-position-y: -102px;
+    background-position-x: -20px;
+    width: 98px;
+    height: 96px;
+    background-size: calc(100% + 40px);
+
+    @media (max-width: 767.98px) {
+      height: 60px;
+      width: 60px;
+      background-size: calc(100% + 25px);
+      background-position-x: -12px;
+      background-position-y: -63px;
+    }
+  }
+
+  &.bg-exclusion-3d {
+    background-position-y: -285px;
+    background-position-x: -30px;
+    background-size: calc(100% + 60px);
+    width: 78px;
+    height: 90px;
+
+    @media (max-width: 767.98px) {
+      height: 80px;
+      width: 69px;
+      background-size: calc(100% + 50px);
+      background-position-x: -25px;
+      background-position-y: -245px;
+    }
+  }
+
+  &.bg-search-2 {
+    height: 44px;
+    width: 70px;
+    background-size: calc(100% + 25px);
+    background-position-x: -13px;
+    background-position-y: -324px;
+  }
+
+  &.bg-certified-3d, &.bg-advise-3d, &.bg-support-3d {
+    height: 45px;
+    width: 45px;
+    background-position-x: -20px;
+    background-size: calc(100% + 40px);
+  }
+
+  &.bg-certified-3d {
+    background-position-y: -331px;
+  }
+
+  &.bg-advise-3d {
+    background-position-y: -379px;
+  }
+
+  &.bg-support-3d {
+    background-position-y: -424px;
+  }
+
+  &.bg-coverage-3d, &.bg-premium-2-3d, &.bg-eligibility-3d, &.bg-claim-3d{
+    height: 62px;
+    width: 62px;
+    background-position-x: -27.5px;
+    background-size: calc(100% + 55px);
+    @media(max-width:767.98px){
+      height: 40px;
+      width: 40px;
+      background-position-x: -17.5px;
+      background-size: calc(100% + 35px);
+    }
+  }
+
+  &.bg-coverage-3d{
+    background-position-y: -651.8px;
+    @media(max-width:767.98px){
+      background-position-y: -417.5px;
+    }
+  }
+  &.bg-eligibility-3d{
+    background-position-y: -811.8px;
+    background-position-x: -35px;
+    background-size: calc(100% + 70px);
+    @media(max-width:767.98px){
+      background-position-y: -522.5px;
+      background-position-x: -22px;
+      background-size: calc(100% + 45px);
+    }
+  }
+  &.bg-premium-2-3d{
+    background-size: calc(100% + 60px);
+    background-position-y: -820.5px;
+    background-position-x: -30px;
+    @media(max-width:767.98px){
+      background-position-y: -524px;
+      background-position-x: -19px;
+      background-size: calc(100% + 38px);
+    }
+  }
+  &.bg-claim-3d{
+    background-position-y: -1039px;
+    background-position-x: -41.5px;
+    background-size: calc(100% + 80px);
+    @media(max-width:767.98px){
+      background-position-y: -658.5px;
+      background-position-x: -26px;
+      background-size: calc(100% + 50px);
+    }
+  }
+
+  &.bg-amb_chrg_lim, &.bg-alt_thep, &.bg-cop_lim, &.bg-rest_lim, &.bg-dcbl, &.bg-dcp_cover, &.bg-dom_treat_lim, &.bg-wb_lim, &.bg-mat_wp, &.bg-nb_lim, &.bg-ncb_lim, &.bg-od_exp_lim, &.bg-op_lim, &.bg-post_hosp, &.bg-pre_hosp, &.bg-conv_lim, &.bg-rrl{
+    height: 75px;
+    width: 75px;
+    background-position-x: -12px;
+    background-size: calc(100% + 25px);
+    @media(max-width:767.98px){
+      width: 60px;
+      height: 60px;
+    }
+  }
+  &.bg-amb_chrg_lim {
+    background-position-y: -1503px;
+    @media(max-width:767.98px){
+      background-position-y: -1279px;
+    }
+  }
+  &.bg-rest_lim {
+    background-position-y: -791px;
+    @media(max-width:767.98px){
+      background-position-y: -674px;
+    }
+  }
+  &.bg-ncb_lim {
+    background-position-y: -878px;
+    @media(max-width:767.98px){
+      background-position-y: -748px;
+    } 
+  }
+  &.bg-dcbl {
+    background-position-y: -965px;
+    @media(max-width:767.98px){
+      background-position-y: -822px;
+    }
+  }
+  &.bg-post_hosp {
+    background-position-y: -1056px;
+    @media(max-width:767.98px){
+      background-position-y: -900px;
+    }
+  }
+  &.bg-mat_wp {
+    background-position-y: -1143px;
+    @media(max-width:767.98px){
+      background-position-y: -975px;
+    }
+  }
+  &.bg-dom_treat_lim {
+    background-position-y: -1234px;
+    @media(max-width:767.98px){
+      background-position-y: -1051px;
+    }
+  }
+  &.bg-alt_thep {
+    background-position-y: -1321px;
+    @media(max-width:767.98px){
+      background-position-y: -1125px;
+    }
+  }
+  &.bg-cop_lim {
+    background-position-y: -1411px;
+    @media(max-width:767.98px){
+      background-position-y: -1201px;
+    }
+  }
+  &.bg-wb_lim {
+    background-position-y: -1588px;
+    @media(max-width:767.98px){
+      background-position-y: -1353px;
+    }
+  }
+  &.bg-pre_hosp {
+    background-position-y: -1680px;
+    @media(max-width:767.98px){
+      background-position-y: -1429px;
+    }
+  }
+  &.bg-od_exp_lim {
+    background-position-y: -1767px;
+    @media(max-width:767.98px){
+      background-position-y: -1504px;
+    }
+  }
+  &.bg-nb_lim {
+    background-position-y: -1854px;
+    @media(max-width:767.98px){
+      background-position-y: -1580px;
+    }
+  }
+  &.bg-op_lim {
+    background-position-y: -1947px;
+    @media(max-width:767.98px){
+      background-position-y: -1656px;
+    }
+  }
+  &.bg-conv_lim {
+    background-position-y: -2035px;
+    @media(max-width:767.98px){
+      background-position-y: -1732px;
+    }
+  }
+  &.bg-dcp_cover {
+    background-position-y: -2122px;
+    @media(max-width:767.98px){
+      background-position-y: -1806px;
+    }
+  }
+  &.bg-rrl {
+    background-position-y: -2211px;
+    @media(max-width:767.98px){
+      background-position-y: -1881px
+    }
+  }
+  &.bg-delhi, &.bg-mumbai, &.bg-ahmedabad, &.bg-pune, &.bg-hyderabad, &.bg-bangalore, &.bg-chennai, &.bg-kolkata{
+    height: 92px;
+    width: 92px;
+    @media(max-width:768.98px){
+      height: 40px;
+      width: 40px;
+      background-size: calc(100% + 10px);
+      background-position-x: -5px;
+    }
+  }
+  &.bg-delhi{
+    background-position-y: -2577px;
+    @media(max-width:767.98px){
+      background-position-y: -1151px;
+    }
+  }
+  &.bg-mumbai{
+    background-position-y: -2683px;
+    @media(max-width:767.98px){
+      background-position-y: -1195px;
+    }
+  }
+  &.bg-pune{
+    background-position-y: -2785px;
+    @media(max-width:767.98px){
+      background-position-y: -1246px;
+    }
+  }
+  &.bg-hyderabad{
+    background-position-y: -2895px;
+    @media(max-width:767.98px){
+      background-position-y: -1292px;
+    }
+  }
+  &.bg-bangalore{
+    background-position-y: -2999px;
+    @media(max-width:767.98px){
+      background-position-y: -1340px;
+    }
+  }
+  &.bg-chennai{
+    background-position-y: -3104px;
+    @media(max-width:767.98px){
+      background-position-y: -1386px;
+    }
+  }
+  &.bg-kolkata{
+    background-position-y: -3213px;
+    @media(max-width:767.98px){
+      background-position-y: -1434px;
+    }
+  }
+  &.bg-ahmedabad{
+    background-position-y: -3317px;
+    @media(max-width:767.98px){
+      background-position-y: -1481px;
+    }
+  }
+
+  &-before {
+    &:before {
+      content: "";
+      display: block;
+      width: 52px;
+      height: 50px;
+      background-image: url(../images/sprite_set2.webp);
+      background-size: calc(100% + 30px);
+      background-position-x: -15px;
+      background-position-y: -119px;
+      position: absolute;
+
+      @media(max-width:767.98px) {
+        background-position-x: -22px;
+        background-position-y: -163px;
+        background-size: calc(100% + 45px);
+        width: 66px;
+        height: 62px;
+      }
+    }
+
+    &.tm-ic-exclusions {
+      &:before {
+        background-size: calc(100% + 45px);
+        background-position-x: -23px;
+        background-position-y: -217px;
+        width: 60px;
+        height: 70px;
+      }
+    }
+
+    &.bg-network-hospitals {
+      &:before {
+        width: 148px;
+        height: 110px;
+        background-size: calc(100% + 30px);
+        background-position-x: -15px;
+        background-position-y: -490px;
+      }
+    }
+  }
+}
+
+.tm-sprite-3 {
+  display: inline-block;
+  background-image: url(../images/sprite_set3.webp);
+  height: 56px;
+  width: 56px;
+  background-size: calc(100% + 20px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-twitter,
+  &.bg-facebook,
+  &.bg-instagram,
+  &.bg-linkedin-in,
+  &.bg-youtube {
+    background-position-x: -3px;
+    background-position-y: -3px;
+    height: 25px;
+    width: 25px;
+    background-size: calc(100% + 6px);
+  }
+
+  &.bg-instagram {
+    background-position-y: -31.6px;
+  }
+
+  &.bg-facebook {
+    background-position-y: -61.7px;
+  }
+
+  &.bg-linkedin-in {
+    background-position-y: -90.5px;
+  }
+
+  &.bg-youtube {
+    height: 20px;
+    width: 28px;
+    background-position-y: -134.5px;
+  }
+
+  &.bg-xmark {
+    height: 48px;
+    width: 48px;
+    background-position-y: -726px;
+    background-position-x: -7.5px;
+    background-size: calc(100% + 15px);
+  }
+
+  &.bg-xmark-light-2 {
+    height: 16px;
+    width: 16px;
+    background-position-y: -373.5px;
+    background-position-x: -5px;
+    background-size: calc(100% + 10px);
+  }
+
+  &.bg-moible {
+    height: 42px;
+    width: 23px;
+    background-position-y: -648.5px;
+    background-position-x: -10px;
+    background-size: calc(100% + 20px);
+  }
+
+  &.bg-play-store {
+    height: 20px;
+    width: 20px;
+    background-position-y: -453.5px;
+    background-position-x: -4px;
+    background-size: calc(100% + 8px);
+  }
+
+  &.bg-chevron-right {
+    background-position-y: -142px;
+    background-position-x: -5px;
+    height: 7.5px;
+    width: 12px;
+    background-size: calc(100% + 10px);
+    transform: rotate(-90deg);
+  }
+
+  &.bg-chevron-down {
+    background-position-y: -142px;
+    background-position-x: -5px;
+    height: 7.5px;
+    width: 12px;
+    background-size: calc(100% + 10px);
+  }
+
+  &.bg-arrow-right {
+    height: 24px;
+    width: 24px;
+    background-size: calc(100% + 30px);
+    background-position-x: -15px;
+    background-position-y: -481px;
+    transform: rotate(180deg);
+  }
+
+  &-before {
+    &:before {
+      content: "";
+      display: inline-block;
+      height: 56px;
+      width: 56px;
+      background-position-y: -134.5px;
+      background-size: 100%;
+      background-image: url(../images/sprite_set3.webp);
+    }
+
+    &.bg-phone {
+      &:before {
+        height: 15px;
+        width: 15px;
+        background-position-x: -19.5px;
+        background-position-y: -84px;
+        background-size: calc(100% + 3px);
+      }
+    }
+
+    &.bg-envelope {
+      &:before {
+        height: 12px;
+        width: 15px;
+        background-position-y: -101px;
+        background-position-x: -19.5px;
+        background-size: calc(100% + 3px);
+      }
+    }
+
+    &.bg-bars {
+      &:before {
+        background-position-y: -282.3px;
+        background-position-x: -7.5px;
+        width: 22px;
+        height: 18px;
+        background-size: calc(100% + 15px);
+      }
+    }
+
+    &.bg-xmark {
+      &:before {
+        width: 15px;
+        height: 15px;
+        background-position-y: -205px;
+        background-position-x: -5px;
+        background-size: calc(100% + 10px);
+      }
+    }
+
+    &.bg-chevron-right-light {
+      &:before {
+        background-position-x: -7.5px;
+        background-position-y: -380px;
+        background-size: calc(100% + 15px);
+        width: 20px;
+        height: 20px;
+      }
+    }
+
+    &.bg-chevron-left-light {
+      &:before {
+        background-position-x: -7.5px;
+        background-position-y: -380px;
+        background-size: calc(100% + 15px);
+        width: 20px;
+        height: 20px;
+        transform: rotate(180deg);
+      }
+    }
+
+    &.bg-xmark-light {
+      &:before {
+        background-position-x: -5px;
+        background-position-y: -461.4px;
+        background-size: calc(100% + 10px);
+        width: 30px;
+        height: 30px;
+      }
+    }
+
+    &.bg-checkmark-green {
+      &:before {
+        background-position-x: -10px;
+        background-position-y: -801px;
+        background-size: calc(100% + 20px);
+        width: 28px;
+        height: 28px;
+      }
+    }
+  }
+
+  &-after {
+    &:after {
+      content: "";
+      display: inline-block;
+      height: 56px;
+      width: 56px;
+      background-position-y: -134.5px;
+      background-size: 100%;
+      background-image: url(../images/sprite_set3.webp);
+    }
+
+    &.bg-chevron-down,
+    &.bg-chevron-up {
+      &:after {
+        background-position-y: -127.5px;
+        background-position-x: -4px;
+        height: 10px;
+        width: 12px;
+        background-size: calc(100% + 8px);
+      }
+    }
+
+    &.bg-chevron-up {
+      &:after {
+        transform: rotate(180deg);
+      }
+    }
+
+    &.bg-circle-chevron-right {
+      &:after {
+        background-position-y: -347px;
+        background-position-x: -10px;
+        background-size: calc(100% + 20px);
+      }
+    }
+
+    &.bg-chevron-filled-circle-dark {
+      &:after {
+        height: 20px;
+        width: 20px;
+        background-position-y: -480px;
+        background-position-x: -7.5px;
+        background-size: calc(100% + 15px);
+      }
+    }
+  }
+}
+
+.tm-sprite-4 {
+  display: inline-block;
+  background-image: url(../images/sprite_set4.webp);
+  height: 50px;
+  width: 110px;
+  background-size: calc(100% + 20px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-irda {
+    width: 100px;
+    height: 36.66px;
+  }
+
+  &.bg-global-sign {
+    background-position-y: -58px;
+    background-position-x: -9.5px;
+    height: 40px;
+    width: 107px;
+    background-size: calc(100% + 19px);
+  }
+}
+
+.tm-sprite-5 {
+  display: inline-block;
+  background-image: url(../images/sprite_set5.webp);
+  height: 56px;
+  width: 56px;
+  background-size: calc(100% + 20px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-star {
+    background-size: calc(100% + 50px);
+    background-position-y: -336px;
+    background-position-x: -25px;
+    width: 25px;
+    height: 24px;
+  }
+
+  &.bg-unbiased-advise,
+  &.bg-certified,
+  &.bg-claim-assistance,
+  &.bg-digital-support {
+    background-size: calc(100% + 70px);
+    background-position-x: -35px;
+  }
+
+  &.bg-certified {
+    background-position-x: -26px;
+    background-position-y: -61px;
+    background-size: calc(100% + 50px);
+  }
+
+  &.bg-claim-assistance {
+    background-size: calc(100% + 50px);
+    background-position-y: -118px;
+    background-position-x: -23px;
+  }
+
+  &.bg-digital-support {
+    background-position-y: -173px;
+    background-position-x: -25px;
+    background-size: calc(100% + 48px);
+  }
+}
+
+.tm-sprite-6 {
+  display: inline-block;
+  background-image: url(../images/sprite_set6.webp);
+  height: 83px;
+  width: 83px;
+  background-size: calc(100% + 10px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-third-party {
+    background-position-x: -5px;
+    background-position-y: -4px;
+
+    @media (max-width: 767.98px) {
+      height: 53px;
+      width: 53px;
+    }
+  }
+
+  &.bg-car-cover {
+    background-position-x: -5px;
+    background-position-y: -90px;
+
+    @media (max-width: 767.98px) {
+      height: 53px;
+      width: 53px;
+      background-position-y: -64px;
+    }
+  }
+
+  &.bg-best-insurers,
+  &.bg-claim-support,
+  &.bg-best-recommendations {
+    height: 40px;
+    width: 64px;
+    background-size: calc(100% + 30px);
+    background-position-x: -15px;
+    background-position-y: -179px;
+  }
+
+  &.bg-claim-support {
+    background-position-y: -226px;
+  }
+
+  &.bg-best-recommendations {
+    background-position-y: -273px;
+  }
+}
+
+.tm-sprite-7 {
+  display: inline-block;
+  background-image: url(../images/sprite_set7.webp);
+  height: 83px;
+  width: 83px;
+  background-size: calc(100% + 10px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-term-life,
+  &.bg-investment-plans,
+  &.bg-ulips,
+  &.bg-child-insurance-plans,
+  &.bg-whole-life-plan,
+  &.bg-pension-plans {
+    background-position-y: -208px;
+    background-position-x: -5px;
+
+    @media (max-width: 767.98px) {
+      height: 53px;
+      width: 53px;
+      background-position-y: -143px;
+    }
+  }
+
+  &.bg-investment-plans {
+    background-position-y: -292px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -200px;
+    }
+  }
+
+  &.bg-ulips {
+    background-position-y: -377px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -258px;
+    }
+  }
+
+  &.bg-child-insurance-plans {
+    background-position-y: -464px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -315px;
+    }
+  }
+
+  &.bg-whole-life-plan {
+    background-position-y: -549px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -374px;
+    }
+  }
+
+  &.bg-pension-plans {
+    background-position-y: -634px;
+
+    @media (max-width: 767.98px) {
+      background-position-y: -432px;
+    }
+  }
+
+  &.bg-term-life-plans,
+  &.bg-tax-planning,
+  &.bg-child-savings,
+  &.bg-retirement-plans {
+    background-position-y: -9px;
+    background-position-x: -30px;
+    background-size: calc(100% + 60px);
+    height: 56px;
+    width: 56px;
+  }
+
+  &.bg-tax-planning {
+    background-position-y: -72px;
+  }
+
+  &.bg-child-savings {
+    background-position-y: -135px;
+  }
+
+  &.bg-retirement-plans {
+    background-position-y: -198px;
+  }
+}
+
+.tm-sprite-8 {
+  display: inline-block;
+  background-image: url(../images/sprite_set8.webp);
+  height: 83px;
+  width: 83px;
+  background-size: calc(100% + 10px);
+  background-position-x: -10px;
+  background-position-y: -10px;
+
+  &.bg-profile,
+  &.tm-location-2,
+  &.bg-checkmark-green-2 {
+    background-position-y: -30px;
+    background-position-x: -10px;
+    background-size: calc(100% + 20px);
+    width: 76px;
+    height: 80px;
+  }
+
+  &.tm-location-2 {
+    background-position-y: -111px;
+    background-position-x: -10px;
+  }
+
+  &.bg-checkmark-green-2 {
+    background-position-y: -316px;
+    background-position-x: -14px;
+    background-size: calc(100% + 30px);
+
+    @media (max-width: 767.98px) {
+      background-position-y: -284px;
+    }
+  }
+
+  &.bg-message {
+    background-position-y: -239px;
+    background-position-x: -15px;
+    background-size: calc(100% + 30px);
+  }
+
+  &.bg-call-2 {
+    background-position-y: -827px;
+    background-position-x: -35px;
+    height: 32px;
+    width: 32px;
+    background-size: calc(100% + 70px);
+  }
+}
+
+.tm-sprite-9 {
+  display: inline-block;
+  background-image: url(../images/sprite_set9.webp);
+  width: 165px;
+  height: 165px;
+  background-size: calc(100% + 143px);
+  background-position-x: -10px;
+  background-position-y: -6px;
+
+  @media(max-width:767.98px){
+    width: 88px;
+    height: 84px;
+    background-size: calc(100% + 75px);
+    background-position-y: -2px;
+  }
+  
+  &.bg-happy-customer, &.bg-trained-advisor, &.bg-insurance-partners, &.bg-policies-sold, &.bg-quote-compared, &.bg-claims-processed{
+    width: 165px;
+    height: 153px;
+    background-position-x: -71.3px;
+    @media(max-width:767.98px){
+      background-position-x: -37.5px;
+      width: 88px;
+      height: 84px;
+      background-size: calc(100% + 75px);
+      background-position-y: -2px;
+    }
+  }
+
+  &.bg-happy-customer{
+    background-size: calc(100% + 130px);
+    background-position-x: -65px;
+    background-position-y: -157px;
+    @media(max-width:767.98px){
+      background-size: calc(100% + 75px);
+      background-position-x: -37.5px;
+      background-position-y: -87px;
+    }
+  }
+
+  &.bg-insurance-partners{
+    background-size: calc(100% + 145px);
+    background-position-x: -72px;
+    background-position-y: -330px;
+    @media(max-width:767.98px){
+      background-size: calc(100% + 78px);
+      background-position-x: -39px;
+      background-position-y: -175.5px;
+    }
+  }
+
+  &.bg-policies-sold{
+    background-size: calc(100% + 190px);
+    background-position-x: -94px;
+    background-position-y: -557px;
+    width: 165px;
+    @media(max-width:767.98px){
+      width: 145px;
+      background-size: calc(100% + 50px);
+      background-position-x: -24px;
+      background-position-y: -306px;
+    }
+  }
+
+  &.bg-quote-compared{
+    background-size: calc(100% + 120px);
+    background-position-x: -60px;
+    background-position-y: -1649px;
+    width: 165px;
+    @media(max-width:767.98px){
+      width: 145px;
+      background-size: calc(100% + 10px);
+      background-position-x: -6px;
+      background-position-y: -896px;
+    }
+  }
+
+  &.bg-claims-processed{
+    background-size: calc(100% + 120px);
+    background-position-x: -60px;
+    background-position-y: -1807px;
+    width: 165px;
+    @media(max-width:767.98px){
+      width: 145px;
+      background-size: calc(100% + 10px);
+      background-position-x: -6px;
+      background-position-y: -982px;
+    }
+  }
+
+  &.bg-compare-quotes, &.bg-filling-application, &.bg-claims{
+    height: 233px;
+    width: 233px;
+    background-size: calc(100% + 155px);
+    background-position-x: -77.5px;
+    @media(max-width:767.98px){
+      height: 118px;
+      width: 118px;
+      background-size: calc(100% + 79px);
+      background-position-x: -39.5px;
+    }
+  }
+
+  &.bg-compare-quotes{
+    background-position-y: -783px;
+    @media(max-width:767.98px){
+      background-position-y: -397.6px;
+    }
+  }
+
+  &.bg-filling-application{
+    background-position-y: -1022px;
+    @media(max-width:767.98px){
+      background-position-y: -519.5px;
+    }
+  }
+
+  &.bg-claims{
+    background-position-y: -1262px;
+    @media(max-width:767.98px){
+      background-position-y: -640.8px;
+    }
+  }
+
+  &.bg-advisor-network{
+    width: 361px;
+    height: 202px;
+    background-size: calc(100% + 63px);
+    background-position-y: -1910px;
+    background-position-x: -31.3px;
+    @media(max-width:767.98px){
+      width: 216px;
+      height: 121px;
+      background-position-y: -1144px;
+      background-position-x: -18.5px;
+      background-size: calc(100% + 38px);
+    }
+  }
+
+  &.bg-advisor{
+    height: 240px;
+    width: 375px;
+    background-size: calc(100% + 15px);
+    background-position-y: -1509px;
+    background-position-x: -7px;
+  }
+}
+
+.tm-sprite-10 {
+  display: inline-block;
+  background-image: url(../images/sprite_set10.webp);
+  width: 70px;
+  height: 70px;
+  background-size: calc(100% + 10px);
+  background-position-x: -5px;
+  background-position-y: -5px;
+
+  &.bg-bike{
+    background-position-y: -80px;
+    @media(max-width: 1199.98px){
+      background-position-y: -50px;
+    }
+  }
+
+  &.bg-health{
+    background-position-y: -150px;
+    @media(max-width: 1199.98px){
+      background-position-y: -96px;
+    }
+  }
+
+  &.bg-term{
+    background-position-y: -225px;
+    @media(max-width: 1199.98px){
+      background-position-y: -143px;
+    }
+  }
+
+  &.bg-arrow-right{
+    background-position-y: -298px;
+    @media(max-width: 1199.98px){
+      background-position-y: -188px;
+    }
+  }
+
+  &.bg-tax-plan{
+    background-position-y: -371px;
+    @media(max-width: 1199.98px){
+      background-position-y: -234px;
+    }
+  }
+
+  &.bg-child{
+    background-position-y: -445px;
+    @media(max-width: 1199.98px){
+      background-position-y: -280px;
+    }
+  }
+
+  &.bg-pension{
+    background-position-y: -518px;
+    @media(max-width: 1199.98px){
+      background-position-y: -325px;
+    }
+  }
+
+  &.bg-bike, &.bg-car, &.bg-health, &.bg-term, &.bg-arrow-right, &.bg-tax-plan, &.bg-child, &.bg-pension{
+    @media(max-width: 1199.98px){
+      height: 40px;
+      width: 40px;
+    }
+  }
+
+  &.bg-third-party, &.bg-comprehensive, &.bg-own-damage, &.bg-mediclaim, &.bg-family, &.bg-sc, &.bg-maternity, &.bg-pa, &.bg-ci, &.bg-term-2, &.bg-ulips, &.bg-savings, &.bg-pension-2, &.bg-child-2, &.bg-mb{
+    height: 65px;
+    width: 65px;
+    @media(max-width:767.98px){
+      height: 45px;
+      width: 45px;
+    }
+  }
+
+  &.bg-third-party{
+    background-position-y: -555px;
+    @media(max-width:767.98px){
+      background-position-y: -408px;
+    }
+  }
+
+  &.bg-comprehensive{
+    background-position-y: -622px;
+    @media(max-width:767.98px){
+      background-position-y: -460px;
+    }
+  }
+
+  &.bg-own-damage{
+    background-position-y: -692px;
+    @media(max-width:767.98px){
+      background-position-y: -510px;
+    }
+  }
+
+  &.bg-mediclaim{
+    background-position-y: -761px;
+    @media(max-width:767.98px){
+      background-position-y: -561px;
+    }
+  }
+
+  &.bg-sc{
+    background-position-y: -829px;
+    @media(max-width:767.98px){
+      background-position-y: -611px;
+    }
+  }
+
+  &.bg-family{
+    background-position-y: -899px;
+    @media(max-width:767.98px){
+      background-position-y: -662px;
+    }
+  }
+
+  &.bg-maternity{
+    background-position-y: -968px;
+    @media(max-width:767.98px){
+      background-position-y: -713px;
+    }
+  }
+
+  &.bg-ci{
+    background-position-y: -1036px;
+    @media(max-width:767.98px){
+      background-position-y: -763px;
+    }
+  }
+
+  &.bg-pa{
+    background-position-y: -1104px;
+    @media(max-width:767.98px){
+      background-position-y: -813px;
+    }
+  }
+
+  &.bg-term-2{
+    background-position-y: -1173px;
+    @media(max-width:767.98px){
+      background-position-y: -864px;
+    }
+  }
+
+  &.bg-ulips{
+    background-position-y: -1241px;
+    @media(max-width:767.98px){
+      background-position-y: -913px;
+    }
+  }
+
+  &.bg-savings{
+    background-position-y: -1312px;
+    @media(max-width:767.98px){
+      background-position-y: -965px;
+    }
+  }
+
+  &.bg-pension-2{
+    background-position-y: -1380px;
+    @media(max-width:767.98px){
+      background-position-y: -1015px;
+    }
+  }
+
+  &.bg-child-2{
+    background-position-y: -1445px;
+    @media(max-width:767.98px){
+      background-position-y: -1063px;
+    }
+  }
+
+  &.bg-mb{
+    background-position-y: -1518px;
+    @media(max-width:767.98px){
+      background-position-y: -1116px;
+    }
+  }
+
+  &.bg-garages, &.bg-claim-settled, &.bg-coverage, &.bg-calender-with-date{
+    background-size: calc(100% + 8px);
+    height: 48px;
+    width: 48px;
+    @media(max-width:767.98px){
+      height: 21px;
+      width: 21px;
+      background-position-x: -2px;
+      background-size: calc(100% + 4px);
+    }
+  }
+
+  &.bg-garages{
+    background-position-y: -1185px;
+    @media(max-width:767.98px){
+      background-position-y: -529px;
+    }
+  }
+
+  &.bg-claim-settled{
+    background-position-y: -1236px;
+    @media(max-width:767.98px){
+      background-position-y: -552px;
+    }
+  }
+
+  &.bg-coverage{
+    background-position-y: -1287px;
+    @media(max-width:767.98px){
+      background-position-y: -575px;
+    }
+  }
+
+  &.bg-calender-with-date{
+    background-position-y: -1340px;
+    @media(max-width:767.98px){
+      background-position-y: -598.5px;
+    }
+  }
+
+  &-before{
+
+    &:before {
+      content: "";
+      display: inline-block;
+      height: 33px;
+      width: 33px;
+      background-size: calc(100% + 8px);
+      background-position-x: -3.5px;
+      background-position-y: -78px;
+      background-image: url(../images/sprite_set10.webp);
+    }
+    &.bg-life{
+      &::before{
+        background-position-y: -117px;
+      }
+    }
+    &.bg-bike{
+      &:before{
+        background-position-y: -42px;
+      }
+    }
+    &.bg-car{
+      &:before{
+        background-position-y: -4px;
+      }
+    }
+  }
+}

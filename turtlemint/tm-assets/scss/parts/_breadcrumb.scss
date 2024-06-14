@@ -1,0 +1,23 @@
+.tm-breadcrumb {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: left;
+    color: var(--wp--preset--color--turtlemint-black);
+
+    @media (max-width: 767.98px) {
+      padding-top: 20px;
+      padding-bottom: 20px;
+    }
+}
+
+.breadcrumb-overflow{
+  position: relative;
+  .tm-breadcrumb{
+    position: absolute;
+    width: 100%;
+    top: 0px;
+    @media (max-width: 767.98px) {
+      max-width: calc(100% - 40px);
+    }
+  }
+}

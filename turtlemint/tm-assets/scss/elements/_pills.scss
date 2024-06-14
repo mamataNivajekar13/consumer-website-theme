@@ -1,0 +1,46 @@
+// Nav pills
+.nav-pills {
+    display: flex;
+    list-style-type: none;
+    margin-top: 0px;
+    margin-bottom: 40px;
+    padding-left: 0px;
+    gap: 45px;
+    justify-content: center;
+    align-items: center;
+    .nav-link {
+      padding: 0;
+      color: var(--wp--preset--color--turtlemint-black);
+      border: none;
+      border-bottom: 3px solid transparent;
+      background-color: transparent;
+      font-size: var(--wp--preset--font-size--turtlemint-large-1);
+      font-family: var(--wp--preset--font-family--turtlemint-montserrat);
+      font-weight: 500;
+      padding-bottom: 13px;
+      cursor: pointer;
+      &:disabled{
+        color: var(--wp--preset--color--turtlemint-tm-gray);
+      }
+      &.active{
+        color: var(--wp--preset--color--turtlemint-primary);
+        border-bottom-color: var(--wp--preset--color--turtlemint-primary);
+        font-weight: 600;
+      }
+    }
+    @include media-breakpoint-down(md){
+      gap: 12px;
+      margin-bottom: 24px;
+      .nav-link{
+        padding-bottom: 4px;
+        font-size: var(--wp--preset--font-size--turtlemint-medium);
+        border-width: 1px;
+      }
+    }
+  }
+  .tab-content>.tab-pane {
+    display: none;
+  }
+  .tab-content>.active {
+    display: block;
+  }

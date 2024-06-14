@@ -1,0 +1,108 @@
+.tm-box {
+  &.shadow {
+    border-radius: 12px;
+    background: var(--wp--custom--tm-transparent-white);
+    box-shadow: var(--wp--custom--tm-shadow-4);
+  }
+  &.blurred-bg {
+    backdrop-filter: blur(2px);
+  }
+}
+
+.tm-container {
+  padding: 24px;
+  overflow: hidden;
+  border-radius: 16px;
+  &.shadow{
+    box-shadow: var(--wp--custom--tm-shadow-3);
+  }
+  &.radius-none{
+    border-radius: 0;
+  }
+  &.radius-md{
+    border-radius: 0;
+  }
+  .tm-container{
+    border-radius: 12px;
+  }
+  &.blurred-bg {
+    backdrop-filter: blur(2px);
+  }
+  &.gradient-bg {
+    background-color: var(--wp--preset--color--turtlemint-tm-light-green);
+    background-image: url(../images/ic-form-gradient-bg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  &.gradient-bg-1{
+    background: var(--wp--custom--tm-gradient-4);
+  }
+  &.bordered {
+    border: 1px solid var(--wp--custom--tm-border-black);
+  }
+  &__content {
+    margin-bottom: 16px;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+    font-weight: 500;
+    &.has-toggle-expand-cta {
+      position: relative;
+      &:before {
+        content: "";
+        height: 40px;
+        width: 100%;
+        display: block;
+        position: absolute;
+        bottom: 0;
+        background: var(--wp--custom--tm-gradient-white);
+      }
+    }
+    ul,
+    ol,
+    table,
+    figure,
+    img {
+      &:last-child {
+        margin-bottom: 0px;
+      }
+    }
+    p {
+      &:last-child {
+        margin-bottom: 0px;
+      }
+    }
+    p,
+    ol,
+    li {
+      color: var(--wp--preset--color--turtlemint-tm-gray);
+    }
+  }
+  .tm-gradient-light-green {
+    &:before {
+      background: var(--wp--custom--tm-gradient-light-green);
+    }
+  }
+  .tm-gradient-light-purple {
+    &:before {
+      background: var(--wp--custom--tm-gradient-light-purple);
+    }
+  }
+  .tm-gradient-light-yellow {
+    &:before {
+      background: var(--wp--custom--tm-gradient-light-yellow);
+    }
+  }
+  @media (max-width: 767.98px) {
+    padding: 24px 16px;
+    &.radius-md{
+      margin-left: 20px;
+      margin-right: 20px;
+      border-radius: 16px;
+      padding: 24px;
+    }
+    &.radius-none{
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+}

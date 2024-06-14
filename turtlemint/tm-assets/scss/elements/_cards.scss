@@ -1,0 +1,528 @@
+// IC Plan Card
+.tm-plans-list {
+  display: grid;
+  gap: 16px;
+  margin-bottom: 16px;
+  &.minimal-with-logo{
+    margin-bottom: 0px;
+    & + .tm-loader + .tm-link.viewAllPost{
+      margin-top: 24px;
+    }
+  }
+  @media(min-width:768px){
+    &.minimal{
+      grid-template-columns: repeat(3, 1fr);
+    }
+    &.minimal-with-logo{
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+}
+.plan-card {
+  overflow: hidden;
+  position: relative;
+  &__wrapper {
+    border: 1px solid var(--wp--preset--color--turtlemint-tm-gray-1);
+    border-radius: 12px;
+    padding: 24px;
+    display: block;
+  }
+  .tm-container__content {
+    margin-bottom: 5px;
+  }
+  .toggleExpand {
+    margin-bottom: 16px !important;
+  }
+  &__title {
+    line-height: 30px;
+    margin-bottom: 0px;
+    font-weight: 700;
+    font-size: var(--wp--preset--font-size--turtlemint-tm-large) !important;
+    color: var(--wp--preset--color--turtlemint-black) !important;
+    i{
+      margin-left: 8px;
+      margin-bottom: 2px;
+    }
+    a{
+      font-weight: 700;
+      color: var(--wp--preset--color--turtlemint-black) !important;
+      font-size: var(--wp--preset--font-size--turtlemint-tm-large) !important;
+    }
+  }
+  &.health{
+    .plan-card__highlights{
+      grid-template-columns: 1fr 1fr 1fr;
+      @media(min-width:768px){
+        .highlight{
+          display: grid;
+          grid-template-columns: 24px 1fr;
+          grid-template-rows: auto 1fr;
+          gap: 8px 16px;
+          &-title{
+            margin-bottom: 0px;
+          }
+          i{
+            margin-bottom: 0px;
+            grid-row: span 2;
+          }
+        }
+      }
+      @media(max-width:767.98px){
+        grid-template-columns: 1fr 1fr;
+        gap:16px;
+      }
+    }
+  }
+  &__highlights {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 24px 16px;
+  }
+  .highlight {
+    &-title {
+      font-weight: 600;
+      margin-bottom: 0px;
+      color: var(--wp--preset--color--turtlemint-black);
+    }
+    &-description {
+      margin-bottom: 0px;
+      color: var(--wp--preset--color--turtlemint-tm-gray);
+    }
+    &-icon {
+      margin-bottom: 12px;
+    }
+  }
+  .card-header {
+    display: flex;
+    margin-bottom: 8px;
+    align-items: start;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .premium-tag {
+    margin: 0px;
+    background-color: var(
+      --wp--preset--color--turtlemint-tm-light-yellow
+    );
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 8px;
+    line-height: 20px;
+    font-weight: 600;
+    color: var(--wp--preset--color--turtlemint-tm-gray);
+    border-radius: 4px;
+    min-width: 210px;
+  }
+  .top-plan-tag {
+    font-weight: 600;
+    padding: 3px 12px;
+    border: 1px solid var(--wp--preset--color--turtlemint-black);
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+    position: absolute;
+    top: 0px;
+    left: 24px;
+    z-index: 1;
+    background-color: var(--wp--preset--color--turtlemint-white);
+  }
+  &.minimal{
+    .plan-card__wrapper{
+      padding: 16px;
+      .plan-card__title {
+        display: grid;
+        grid-template-columns: 1fr 7.5px;
+        align-items: start;
+        gap: 5px;
+        width: 100%;
+        span{
+          font-size: var(--wp--preset--font-size--turtlemint-medium) !important;
+          line-height: 24px;
+          min-height: 48px;
+          color: var(--wp--preset--color--turtlemint-black);
+          overflow: hidden;
+          text-overflow: ellipsis;
+          display: -webkit-box;
+          -webkit-line-clamp: 2;
+          -webkit-box-orient: vertical;
+          max-height: 48px;
+        }
+        i{
+          margin-top: 10px;
+          margin-left: 0px;
+        }
+      }
+    }
+    .card-header{
+      background-color: var(--wp--preset--color--turtlemint-tm-light-yellow);
+      padding: 16px;
+      border-bottom: 1px solid var(--wp--custom--tm-border-black-2);
+      flex-direction: column;
+      margin-left: -16px;
+      margin-right: -16px;
+      margin-top: -16px;
+      border-radius: 12px 12px 0 0;
+      margin-bottom: 16px;
+    }
+    .premium-tag{
+      border: 1px solid var(--wp--custom--tm-border-black);
+      background-color: var(--wp--preset--color--turtlemint-white);
+      border-radius: 8px;
+      min-width: auto;
+    }
+    .plan-card__highlights{
+      .highlight{
+        gap:0px 8px;
+        &-title{
+          font-weight: 500;
+          color: var(--wp--preset--color--turtlemint-tm-gray);
+        }&-description{
+          font-weight: 700;
+        }
+      }
+    }
+    @media(min-width:768px){
+      .plan-card__highlights{
+        grid-template-columns: 1fr;
+        gap: 16px;
+      }
+    }
+  }
+  &.minimal-with-logo{
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: var(--wp--custom--tm-shadow-4);
+    padding: 0px 20px 24px;
+    background-color: var(--wp--preset--color--turtlemint-tm-light-yellow);
+    .card-header{
+      background-color: var(--wp--preset--color--turtlemint-white);
+      margin: 0px -20px;
+      padding: 16px;
+      display: grid;
+      grid-template-columns: 100px 1fr;
+      gap: 10px;
+      text-align: left;
+      .plan-card__logo{
+        height: 71px;
+        width: 100px;
+        object-fit: contain;
+      }
+    }
+    .plan-card__highlights{
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      padding: 16px 0px;
+      margin: 0px 0px 16px;
+      list-style: none;
+      border-bottom: 1px solid var(--wp--custom--tm-border-black-2);
+      .highlight{
+        display: grid;
+        grid-template-columns: 48px 1fr;
+        grid-template-rows: auto 1fr;
+        justify-items: start;
+        text-align: left;
+        gap: 0px 16px;
+        &-icon{
+          grid-row: span 2;
+          margin-bottom:0px;
+        }
+        &-title{
+          margin-bottom: 8px;
+          color: var(--wp--preset--color--turtlemint-tm-gray);
+        }
+        &-description{
+          font-weight: 700;
+          color: var(--wp--preset--color--turtlemint-black);
+        }
+        &.tag{
+          display: inline-block;
+          grid-column: span 2;
+          text-align: center;
+          .highlight-title{
+            border-radius: 5px;
+            background-color: var(--wp--preset--color--turtlemint-white);
+            padding: 3px 8px;
+            text-align: center;
+            box-shadow: var(--wp--custom--tm-shadow-4);
+            margin: 0;
+            font-weight: 400;
+            display: inline-block;
+          }
+        }
+      }
+    }
+    .plan-card__footer{
+      text-align: center;
+      button{
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        a{
+          width: 100%;
+        }
+      }
+      .premium-tag{
+        padding: 0px !important;
+        display: block;
+        color: var(--wp--preset--color--turtlemint-black);
+        font-weight: 400;
+        margin-bottom: 16px;
+      }
+    }
+    @media(min-width:768px){
+      .plan-card__title{
+        word-break: break-word;
+      }
+    }
+    @media(max-width:767.98px){
+      padding: 0px 16px 16px;
+      .card-header{
+        margin: 0px -16px;
+        align-items: center;
+        gap: 16px;
+        grid-template-columns: 80px 1fr;
+        padding: 10px 16px;
+        .plan-card__logo{
+          width: 80px;
+          height: 46px;
+        }
+      }
+      .plan-card__highlights{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        .highlight{
+          grid-template-columns: 21px 1fr;
+          gap: 0px 8px;
+          .highlight-title{
+            margin-bottom: 4px;
+          }
+          .highlight-title, .highlight-description{
+            font-weight: 500;
+          }
+        }
+      }
+      .plan-card__footer{
+        display: grid;
+        grid-template-columns: 100px 1fr;
+        gap: 36px;
+        text-align: left;
+        align-items: center;
+        .premium-tag{
+          margin-bottom: 0px;
+        }
+      }
+    }
+  }
+  @media (max-width: 767.98px) {
+    &__title{
+      line-height: 24px;
+    }
+    .premium-tag{
+      min-width: auto;
+    }
+    .card-header {
+      flex-direction: column;
+      margin-bottom: 16px;
+    }
+    &__highlights {
+      grid-template-columns: 1fr 1fr;
+    }
+    .highlight{
+      &-icon{
+        margin-bottom: 0px;
+      }
+    }
+    .toggleExpand {
+      margin-bottom: 24px;
+    }
+  }
+}
+
+// IC Calculator Card
+.calculator-card {
+  &:not(:last-child) {
+    margin-bottom: 16px;
+  }
+  &__wrapper {
+    background-color: var(--wp--preset--color--turtlemint-white);
+    border-radius: 12px;
+    padding: 24px 40px 24px 12px;
+    display: grid;
+    grid-template-columns: 98px 1fr 7.5px;
+    gap: 16px;
+    align-items: center;
+    p {
+      margin-bottom: 0px;
+    }
+    .card-heading {
+      margin-bottom: 12px;
+    }
+  }
+  @media (max-width: 767.98px) {
+    &__wrapper {
+      padding: 12px 18px 12px 10px;
+      gap: 10px;
+      grid-template-columns: 60px 1fr 7.5px;
+      .card-heading {
+        margin-bottom: 4px;
+        font-size: var(
+          --wp--preset--font-size--turtlemint-medium
+        ) !important;
+      }
+      .card-description {
+        font-size: var(--wp--preset--font-size--turtlemint-tm-small);
+      }
+    }
+  }
+}
+
+// IC Contact Card
+.tm-contact-card-list {
+  gap: 16px;
+}
+.contact-card {
+  padding: 21px 24px;
+  display: grid;
+  grid-template-columns: 32px 1fr;
+  grid-template-rows: repeat(2, max-content);
+  grid-gap: 11px 20px;
+  .card-icon {
+    grid-row: 1/3;
+    margin-top: -5px;
+  }
+  @media (max-width: 767.98px) {
+    padding: 14px 12px;
+    grid-template-columns: 24px 1fr;
+    grid-gap: 3px 8px;
+    .card-icon{
+      margin-top: -1px;
+    }
+  }
+}
+
+// Post Card
+.tm-posts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  @media (max-width: 767.98px) {
+    grid-template-columns: 1fr;
+  }
+}
+.tm-post-card {
+  &__wrapper {
+    display: block;
+    color: var(--wp--preset--color--turtlemint-black) !important;
+    background-color: var(--wp--preset--color--turtlemint-white);
+    border-radius: 12px;
+    border: 1px solid transparent;
+    overflow: hidden;
+    padding: 16px;
+    height: auto;
+    box-shadow: var(--wp--custom--tm-shadow-3);
+    text-decoration: none !important;
+    &:hover{
+      border-color: var(--wp--custom--tm-border-black);
+    }
+  }
+  &__image,
+  &__placeholder {
+    height: 118px;
+    background-color: var(--wp--preset--color--turtlemint-tm-gray-1);
+    overflow: hidden;
+    border-radius: 12px;
+    margin-bottom: 16px !important;
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+  &__title, &__description{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+  }
+  &__title {
+    font-weight: 700 !important;
+    margin-bottom: 16px !important;
+    color: var(--wp--preset--color--turtlemint-black) !important;
+    min-height: 72px;
+    -webkit-line-clamp: 3;
+    a{
+      font-weight: 700 !important;
+      color: var(--wp--preset--color--turtlemint-black) !important;
+      min-height: 72px;
+      -webkit-line-clamp: 3;
+      text-decoration: none !important;
+      margin-bottom: 0px;
+    }
+  }
+  &__description{
+    margin-bottom: 12px !important;
+    -webkit-line-clamp: 4;
+  }
+  &__footer,
+  &__description {
+    font-weight: 400;
+  }
+  &__footer {
+    display: grid;
+    grid-template-columns: 1fr 4px 0.8fr;
+    gap: 4px;
+    color: var(--wp--preset--color--turtlemint-tm-gray);
+    .author {
+      text-align: left;
+    }
+    span {
+      text-align: center;
+    }
+    .date {
+      text-align: left;
+    }
+  }
+  @media(max-width:767.98px){
+    &__wrapper{
+      //height: 100%;
+    }
+    &__title{
+      min-height: 42.77px;
+      -webkit-line-clamp: 2;
+    }
+    &__footer{
+      display: flex;
+      .author{
+        max-width: 50%;
+      }
+    }
+  }
+}
+
+// code from assets
+.wp-block-post {
+  & > .wp-block-group{
+      height: 100%;
+  }
+  &__card-link {
+      cursor: pointer;
+  }
+  @include media-breakpoint-up(md){
+      max-width: 270px;
+  }
+}
+.wp-block-post-featured-image{
+  &__placeholder, &__skeleton {
+      height: 100%;
+      width: 100%;
+      display: block;
+      background-color: var(--wp--preset--color--turtlemint-tm-gray-1);
+      position: absolute;
+      top: 0px;
+      border-radius: 16px;
+  }
+}
