@@ -14,6 +14,9 @@ include get_stylesheet_directory() . '/shortcodes/tm-copyright-year.php';
 // Sidebar
 include get_stylesheet_directory() . '/shortcodes/tm-sidebar.php';
 
+// Pagination
+include get_stylesheet_directory() . '/shortcodes/tm-pagination.php';
+
 /* Shortcodes - End */
 
 add_filter( 'default_wp_template_part_areas', 'tm_template_part_areas' );
@@ -102,8 +105,8 @@ function tm_sidebar()
 	register_sidebar(
 		array(
 			'id' => 'tm_sidebar',
-			'name' => esc_html__('Sidebar', 'turtlemint-child'),
-			'description' => esc_html__('Add sidebar content', 'turtlemint-child'),
+			'name' => esc_html__('Sidebar', 'turtlemint'),
+			'description' => esc_html__('Add sidebar content', 'turtlemint'),
 			'before_widget' => '<div id="%1$s" class="widget %2$s">',
 			'after_widget' => '</div>',
 			'before_title' => '<div class="widget-title-holder"><p class="widget-title">',
@@ -119,8 +122,8 @@ function sidebar_popup()
 	register_sidebar(
 		array(
 			'id' => 'sidebar_popup',
-			'name' => esc_html__('Sidebar Popup', 'turtlemint-child'),
-			'description' => esc_html__('Add sidebar  popup content', 'turtlemint-child'),
+			'name' => esc_html__('Sidebar Popup', 'turtlemint'),
+			'description' => esc_html__('Add sidebar  popup content', 'turtlemint'),
 			'before_widget' => '<div id="%1$s" class="widget %2$s">',
 			'after_widget' => '</div>',
 			'before_title' => '<div class="widget-title-holder"><p class="widget-title">',
@@ -129,3 +132,33 @@ function sidebar_popup()
 	);
 }
 add_action('widgets_init', 'sidebar_popup');
+
+// Additional Search Filters
+function tmSearchfilter($query) {
+ 
+    if ($query->is_search && !is_admin()) {
+        $query->set('post_type',array('post'));
+        $query->set('orderby', 'date');
+        $query->set('order', 'DESC'); 
+    }
+ 
+return $query;
+}
+add_filter('pre_get_posts','tmSearchfilter');
+
+/* Feature image fallback */
+function tm_fallback_featured_image( $html, $post_id, $post_thumbnail_id, $size, $attr ) {
+    if ( empty( $html ) ) {
+        $html = '<span class="wp-block-post-featured-image__placeholder"></span>';
+    }else{
+        $post = get_post($post_id);
+        $attr['loading'] = 'eager';
+        $title = $post->post_title;
+        $attr['title'] = $title;
+        $attr['alt'] = $title;
+        $attr['onload'] = 'if(this.previousSibling){this.previousSibling.remove()}';
+        $html = '<span class="wp-block-post-featured-image__skeleton"></span>'.wp_get_attachment_image($post_thumbnail_id, $size, false, $attr);
+    }
+    return $html;
+}
+add_filter( 'post_thumbnail_html', 'tm_fallback_featured_image', 10, 5 );

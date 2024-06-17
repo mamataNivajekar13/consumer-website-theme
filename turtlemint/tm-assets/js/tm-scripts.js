@@ -64,3 +64,23 @@ $(window).on("load", function () {
         })
     }
 });
+
+// Clickable blog card
+const cardElementsToWrap = document.querySelectorAll('.wp-block-post');
+
+cardElementsToWrap.forEach(div => {
+    let permalink = $(div).find('.wp-block-post-title a').attr('href');
+
+    // Create a new anchor tag
+    const link = document.createElement('a');
+    link.href = permalink;  // Set the href attribute
+    link.classList.add('wp-block-post__card-link');
+
+    // Move the existing content of the div inside the new anchor tag
+    while (div.firstChild) {
+        link.appendChild(div.firstChild);
+    }
+
+    // Append the new anchor tag inside the div element
+    div.appendChild(link);
+});

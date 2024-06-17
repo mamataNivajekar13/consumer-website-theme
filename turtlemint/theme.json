@@ -580,6 +580,10 @@
 		{
 			"name": "content-single-post",
 			"title": "Content With Sidebar"
+		},
+		{
+			"name": "card-post",
+			"title": "Post Card"
 		}
 	]
 }
