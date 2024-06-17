@@ -203,6 +203,7 @@
       padding: 16px;
       display: grid;
       grid-template-columns: 100px 1fr;
+      align-items: center;
       gap: 10px;
       text-align: left;
       .plan-card__logo{
@@ -282,7 +283,6 @@
       padding: 0px 16px 16px;
       .card-header{
         margin: 0px -16px;
-        align-items: center;
         gap: 16px;
         grid-template-columns: 80px 1fr;
         padding: 10px 16px;
