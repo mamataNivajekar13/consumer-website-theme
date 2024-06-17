@@ -84,3 +84,12 @@ cardElementsToWrap.forEach(div => {
     // Append the new anchor tag inside the div element
     div.appendChild(link);
 });
+
+function detectEndOfpage() {
+    if ((window.innerHeight + window.pageYOffset) >= (document.body.offsetHeight - 2)) {
+        $('.sidebar-trigger').slideUp('fast')
+    } else {
+        $('.sidebar-trigger').slideDown('fast')
+    }
+}
+window.addEventListener('scroll', detectEndOfpage);
