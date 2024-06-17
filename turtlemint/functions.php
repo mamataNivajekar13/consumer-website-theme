@@ -17,6 +17,9 @@ include get_stylesheet_directory() . '/shortcodes/tm-sidebar.php';
 // Pagination
 include get_stylesheet_directory() . '/shortcodes/tm-pagination.php';
 
+// Author Contact
+include get_stylesheet_directory() . '/shortcodes/tm-author-contact.php';
+
 /* Shortcodes - End */
 
 add_filter( 'default_wp_template_part_areas', 'tm_template_part_areas' );
