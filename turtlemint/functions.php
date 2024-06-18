@@ -175,3 +175,93 @@ if ( function_exists( 'register_nav_menus' ) ) {
         )
     );
 }
+
+// Replace dropdown icon in navigation menu
+function tm_render_block_core_navigation_submenu(string $block_content, array $block): string
+{
+    if (
+        isset($block['blockName']) &&
+        'core/navigation' === $block['blockName'] &&
+        !is_admin() &&
+        !wp_is_json_request()
+    ) {
+
+        // The custom chevron icon HTML to replace with
+        $chevron_icon_html = '<i class="tm-sprite-3 bg-chevron-down"></i>';
+        
+        // Regular expression to match the SVG icon
+        $pattern = '/<svg[^>]*><path[^>]*><\/path><\/svg>/';
+        
+        // Replace the SVG with the chevron icon
+        $block_content = preg_replace($pattern, $chevron_icon_html, $block_content);
+    }
+
+    return $block_content;
+}
+
+add_filter('render_block', 'tm_render_block_core_navigation_submenu', null, 2);
+
+// GA Tracking - Custom Field Registration
+function tm_customize_register($wp_customize){
+
+    $wp_customize->add_section('tm_event_tracking_settings', array(
+        'title'    => __('Event Tracking Settings', 'turtlemint-child'),
+        'priority' => 120,
+    ));
+
+    /* Add custom field for the GA4 tracking ID */
+
+    $wp_customize->add_setting('tm_ga4_tracking_id', array(
+        'default'        => '',
+        'capability'     => 'edit_theme_options',
+        'type'           => 'option',
+
+    ));
+
+    $wp_customize->add_control('tm_ga4_tracking_id', array(
+        'label'      => __('GA4 Tracking ID', 'turtlemint-child'),
+        'description' => sprintf(
+            '<p>Your "G-" ID appears in the GA4 setup assistant.</p>'
+        ),
+        'section'    => 'tm_event_tracking_settings',
+        'settings'   => 'tm_ga4_tracking_id',
+    ));
+
+    /* Add custom field for the GA tracking ID */
+
+    $wp_customize->add_setting('tm_ga_tracking_id', array(
+        'default'        => '',
+        'capability'     => 'edit_theme_options',
+        'type'           => 'option',
+
+    ));
+
+    $wp_customize->add_control('tm_ga_tracking_id', array(
+        'label'      => __('GA Tracking ID', 'turtlemint-child'),
+        'description' => sprintf(
+            '<p>Your "UA-" ID appears at the top of the Property Settings page.</p>'
+        ),
+        'section'    => 'tm_event_tracking_settings',
+        'settings'   => 'tm_ga_tracking_id',
+    ));
+
+    /* Add custom field for the GTM ID */
+
+    $wp_customize->add_setting('tm_gtm_id', array(
+        'default'        => '',
+        'capability'     => 'edit_theme_options',
+        'type'           => 'option',
+
+    ));
+
+    $wp_customize->add_control('tm_gtm_id', array(
+        'label'      => __('GTM ID', 'turtlemint'),
+        'description' => sprintf(
+            '<p>Your "GTM-XXXXXX" ID appears in the google tag manager window.</p>'
+        ),
+        'section'    => 'tm_event_tracking_settings',
+        'settings'   => 'tm_gtm_id',
+    ));
+}
+
+add_action('customize_register', 'tm_customize_register');
