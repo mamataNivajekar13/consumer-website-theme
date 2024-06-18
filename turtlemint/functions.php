@@ -165,3 +165,13 @@ function tm_fallback_featured_image( $html, $post_id, $post_thumbnail_id, $size,
     return $html;
 }
 add_filter( 'post_thumbnail_html', 'tm_fallback_featured_image', 10, 5 );
+
+// Menu Support
+if ( function_exists( 'register_nav_menus' ) ) {
+    register_nav_menus(
+        array(
+        'primary-menu' => __( 'Primary Menu' ),
+        'secondary-menu' => __( 'Secondary Menu' )
+        )
+    );
+}
