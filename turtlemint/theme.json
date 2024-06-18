@@ -585,5 +585,17 @@
 			"name": "card-post",
 			"title": "Post Card"
 		}
+	],
+	"customTemplates": [
+		{
+			"name": "page-2",
+			"title": "Page Without breadcrumb",
+			"postTypes": ["page"]
+		},
+		{
+			"name": "page-3",
+			"title": "Page with breadcrumb",
+			"postTypes": ["page"]
+		}
 	]
 }
