@@ -3,22 +3,22 @@
 /* Shortcodes - Start */
 
 // Breadcrumb
-include get_stylesheet_directory() . '/shortcodes/tm-breadcrumb.php';
+include get_parent_theme_file_path('shortcodes/tm-breadcrumb.php');
 
 // Social Profiles
-include get_stylesheet_directory() . '/shortcodes/tm-social-profiles.php';
+include get_parent_theme_file_path('shortcodes/tm-social-profiles.php');
 
 // Copyright Year
-include get_stylesheet_directory() . '/shortcodes/tm-copyright-year.php';
+include get_parent_theme_file_path('shortcodes/tm-copyright-year.php');
 
 // Sidebar
-include get_stylesheet_directory() . '/shortcodes/tm-sidebar.php';
+include get_parent_theme_file_path('shortcodes/tm-sidebar.php');
 
 // Pagination
-include get_stylesheet_directory() . '/shortcodes/tm-pagination.php';
+include get_parent_theme_file_path('shortcodes/tm-pagination.php');
 
 // Author Contact
-include get_stylesheet_directory() . '/shortcodes/tm-author-contact.php';
+include get_parent_theme_file_path('shortcodes/tm-author-contact.php');
 
 /* Shortcodes - End */
 
@@ -37,43 +37,43 @@ function tm_template_part_areas( array $areas ) {
 
 /* Footer bottom scripts */
 function tm_footer_scripts_bottom() {
-    include get_stylesheet_directory() . '/header-footer-scripts/footer-scripts-bottom.php';
+    include get_parent_theme_file_path('header-footer-scripts/footer-scripts-bottom.php');
 }
 add_action( 'wp_footer', 'tm_footer_scripts_bottom', 100 );
 
 /* Footer top scripts */
 function tm_footer_scripts_top() {
-    include get_stylesheet_directory() . '/header-footer-scripts/footer-scripts-top.php';
+    include get_parent_theme_file_path('header-footer-scripts/footer-scripts-top.php');
 }
 add_action( 'wp_footer', 'tm_footer_scripts_top', 0 );
 
 /* Head bottom scripts */
 function tm_head_scripts_bottom() {
-    include get_stylesheet_directory() . '/header-footer-scripts/head-scripts-bottom.php';
+    include get_parent_theme_file_path('header-footer-scripts/head-scripts-bottom.php');
 }
 add_action( 'wp_head', 'tm_head_scripts_bottom', 100 );
 
 /* Head top scripts */
 function tm_head_scripts_top() {
-    include get_stylesheet_directory() . '/header-footer-scripts/head-scripts-top.php';
+    include get_parent_theme_file_path('header-footer-scripts/head-scripts-top.php');
 }
 add_action( 'wp_head', 'tm_head_scripts_top', 0 );
 
 /* File Version */
 function fileVersion($filePath){
-	return filemtime(get_stylesheet_directory() . $filePath);
+	return filemtime(get_parent_theme_file_path() . $filePath);
 }
 
 /* Enqueue Styles */
 function tm_child_styles()
 {
 	// Default styles
-	wp_enqueue_style( 'tm-default-styles', get_stylesheet_uri(), [], 0.1);
+	wp_enqueue_style( 'tm-default-styles', get_parent_theme_file_uri('style.css'), [], 1.2);
     // Icons
     wp_enqueue_style( 'tm-icons', get_parent_theme_file_uri(). '/tm-assets/css/tm-icons.min.css' , [], fileVersion('/tm-assets/css/tm-icons.min.css'));
     // Theme Styles
     wp_enqueue_style( 'tm-styles', get_parent_theme_file_uri(). '/tm-assets/css/tm-styles.min.css' , [], fileVersion('/tm-assets/css/tm-styles.min.css'));
-    // Slick Styles
+    // Slick Styles - Disable as per requirement
     wp_enqueue_style( 'slick-styles', get_parent_theme_file_uri(). '/tm-assets/css/slick.min.css');
 }
 add_action('wp_enqueue_scripts', 'tm_child_styles');
@@ -82,13 +82,13 @@ add_action('wp_enqueue_scripts', 'tm_child_styles');
 function tm_child_scripts()
 {
 	// jQuery
-	wp_enqueue_script( 'tm-jquery', get_stylesheet_directory_uri() . '/tm-assets/js/jquery.min.js', array(), '3.6.4', true );
+	wp_enqueue_script( 'tm-jquery', get_parent_theme_file_uri() . '/tm-assets/js/jquery.min.js', array(), '3.6.4', true );
 
     // Bootstap Bundle Scripts
-	wp_enqueue_script( 'bootstrap-bundle-script', get_stylesheet_directory_uri() . '/tm-assets/js/bootstrap.bundle.min.js', array('tm-jquery'), true );
+	wp_enqueue_script( 'bootstrap-bundle-script', get_parent_theme_file_uri() . '/tm-assets/js/bootstrap.bundle.min.js', array('tm-jquery'), true );
 
     // Turtlemint Scripts
-	wp_enqueue_script( 'tm-scripts', get_stylesheet_directory_uri() . '/tm-assets/js/tm-scripts.min.js', array(), fileVersion('/tm-assets/js/tm-scripts.min.js'), true );
+	wp_enqueue_script( 'tm-scripts', get_parent_theme_file_uri() . '/tm-assets/js/tm-scripts.min.js', array(), fileVersion('/tm-assets/js/tm-scripts.min.js'), true );
     
 }
 add_action('wp_enqueue_scripts', 'tm_child_scripts');
