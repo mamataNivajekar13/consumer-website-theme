@@ -588,12 +588,12 @@
 	],
 	"customTemplates": [
 		{
-			"name": "page-2",
+			"name": "page-without-breadcrumb",
 			"title": "Page Without breadcrumb",
 			"postTypes": ["page"]
 		},
 		{
-			"name": "page-3",
+			"name": "page-with-breadcrumb",
 			"title": "Page with breadcrumb",
 			"postTypes": ["page"]
 		}

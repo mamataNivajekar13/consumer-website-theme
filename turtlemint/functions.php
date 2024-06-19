@@ -29,6 +29,7 @@ function tm_template_part_areas( array $areas ) {
             'area'        => 'sidebar',
             'area_tag'    => 'div',
             'label'       => __( 'Sidebar', 'turtlemint' ),
+            'description' => __( 'Sidebar area', 'turtlemint' ),
             'icon'        => 'sidebar' // Default icons: header, footer and sidebar.
         );
     return $areas;
