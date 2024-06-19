@@ -566,24 +566,24 @@
 			"title": "Sidebar"
 		},
 		{
+			"area": "uncategorized",
 			"name": "topbar",
 			"title": "Topbar"
 		},
 		{
+			"area": "uncategorized",
 			"name": "breadcrumb",
 			"title": "Breadcrumb"
 		},
 		{
+			"area": "uncategorized",
 			"name": "title-banner",
 			"title": "Overflow Title Banner"
 		},
 		{
+			"area": "uncategorized",
 			"name": "content-single-post",
 			"title": "Content With Sidebar"
-		},
-		{
-			"name": "card-post",
-			"title": "Post Card"
 		}
 	],
 	"customTemplates": [
