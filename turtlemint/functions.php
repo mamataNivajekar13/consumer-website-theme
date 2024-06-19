@@ -20,6 +20,9 @@ include get_parent_theme_file_path('shortcodes/tm-pagination.php');
 // Author Contact
 include get_parent_theme_file_path('shortcodes/tm-author-contact.php');
 
+// Related Posts
+include get_parent_theme_file_path('shortcodes/tm-related-posts.php');
+
 /* Shortcodes - End */
 
 add_filter( 'default_wp_template_part_areas', 'tm_template_part_areas' );
@@ -89,6 +92,12 @@ function tm_child_scripts()
 
     // Turtlemint Scripts
 	wp_enqueue_script( 'tm-scripts', get_parent_theme_file_uri() . '/tm-assets/js/tm-scripts.min.js', array(), fileVersion('/tm-assets/js/tm-scripts.min.js'), true );
+
+    // Slick Scripts
+    wp_enqueue_script( 'slick-script', get_parent_theme_file_uri() . '/tm-assets/js/slick.min.js', array(), "", true );
+
+    // Sliders Scripts
+    wp_enqueue_script( 'sliders-script', get_parent_theme_file_uri() . '/tm-assets/js/tm-sliders.min.js', array(), "", true );
     
 }
 add_action('wp_enqueue_scripts', 'tm_child_scripts');
@@ -206,7 +215,7 @@ add_filter('render_block', 'tm_render_block_core_navigation_submenu', null, 2);
 function tm_customize_register($wp_customize){
 
     $wp_customize->add_section('tm_event_tracking_settings', array(
-        'title'    => __('Event Tracking Settings', 'turtlemint-child'),
+        'title'    => __('Event Tracking Settings', 'turtlemint'),
         'priority' => 120,
     ));
 
@@ -220,7 +229,7 @@ function tm_customize_register($wp_customize){
     ));
 
     $wp_customize->add_control('tm_ga4_tracking_id', array(
-        'label'      => __('GA4 Tracking ID', 'turtlemint-child'),
+        'label'      => __('GA4 Tracking ID', 'turtlemint'),
         'description' => sprintf(
             '<p>Your "G-" ID appears in the GA4 setup assistant.</p>'
         ),
@@ -238,7 +247,7 @@ function tm_customize_register($wp_customize){
     ));
 
     $wp_customize->add_control('tm_ga_tracking_id', array(
-        'label'      => __('GA Tracking ID', 'turtlemint-child'),
+        'label'      => __('GA Tracking ID', 'turtlemint'),
         'description' => sprintf(
             '<p>Your "UA-" ID appears at the top of the Property Settings page.</p>'
         ),
@@ -266,3 +275,25 @@ function tm_customize_register($wp_customize){
 }
 
 add_action('customize_register', 'tm_customize_register');
+
+// Limit content
+function limitPostContent($content, $limit, $suffix = '...') {
+    // Check if the content length is greater than the limit
+    if (mb_strlen($content) > $limit) {
+        // Trim the content to the specified limit
+        $content = mb_substr($content, 0, $limit);
+        
+        // Find the last space within the trimmed content
+        $lastSpace = mb_strrpos($content, ' ');
+        
+        // If a space is found, truncate the content there
+        if ($lastSpace !== false) {
+            $content = mb_substr($content, 0, $lastSpace);
+        }
+        
+        // Add the suffix to the truncated content
+        $content .= $suffix;
+    }
+    
+    return $content;
+}
