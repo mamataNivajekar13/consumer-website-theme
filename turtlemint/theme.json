@@ -584,6 +584,11 @@
 			"area": "uncategorized",
 			"name": "content-single-post",
 			"title": "Content With Sidebar"
+		},
+		{
+			"area": "uncategorized",
+			"name": "card-post",
+			"title": "Card - Post"
 		}
 	],
 	"customTemplates": [

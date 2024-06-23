@@ -3,7 +3,7 @@ function tmSidebar($atts){
 
 	$atts = shortcode_atts( array(
     'searchform'=> 'false',
-    'popup_cta_title' => 'Get Best Insurance Quotes For'
+    'popup_cta_title' => 'Sidebar Popup Title'
   ), $atts, 'tm_sidebar' );
 
   $searchform = $atts['searchform'];

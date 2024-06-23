@@ -72,6 +72,21 @@ $utilities: (
     property: column-gap,
     class: column-gap,
     values: $spacers ),
+  "padding": (responsive: true,
+    property: padding,
+    class: p,
+    values: $spacers ),
+  "flex": (
+    responsive: true,
+    property: flex,
+    values: (fill: 1 1 auto)
+  ),
+  "flex-direction": (
+    responsive: true,
+    property: flex-direction,
+    class: flex,
+    values: row column row-reverse column-reverse
+  ),
 );
 
 // Required to run utility API

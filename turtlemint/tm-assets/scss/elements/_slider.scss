@@ -7,7 +7,7 @@
 
 // Testimonials Raise Claim
 .tm-testimonial-raise-claim {
-  @include media-breakpoint-down(md) {
+  @media (max-width: 767.98px) {
     text-align: center;
     padding-bottom: 60px !important;
   }
@@ -105,7 +105,7 @@
     }
   }
 
-  @include media-breakpoint-down(md) {
+  @media (max-width: 767.98px) {
     .slick-arrow {
       &.slick-next {
         right: calc(50% - 40px);

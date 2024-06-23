@@ -104,7 +104,7 @@
     }
   }
 
-  @include media-breakpoint-down(md) {
+  @media (max-width: 767.98px) {
     .tm-accordion-item {
       .tm-accordion-header {
         .tm-accordion-button {
@@ -162,7 +162,7 @@
           grid-template-columns: 1fr 1fr 1fr;
           gap: 8px;
 
-          @include media-breakpoint-down(md) {
+          @media (max-width: 767.98px) {
             grid-template-columns: 1fr 1fr;
           }
         }
